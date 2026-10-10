@@ -1,0 +1,77 @@
+name: KJ Information Collector
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "collector/**"
+      - ".github/workflows/collector.yml"
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kj-information-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test collector accounting
+        run: python -m unittest discover -s collector/tests -v
+      - name: Collect public information
+        env:
+          TZ: UTC
+        run: python collector/run_collector.py
+      - name: Save collection and diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-information-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/raw/*.json
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    needs: collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Download collected JSON only
+        uses: actions/download-artifact@v4
+        with:
+          name: raw-information-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/raw
+      - name: Commit collected data
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/raw/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "data: refresh raw information [skip ci]"
+            git push origin HEAD:main
+          fi
