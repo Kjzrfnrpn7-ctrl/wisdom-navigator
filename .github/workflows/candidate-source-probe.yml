@@ -1,0 +1,48 @@
+name: Candidate Public Source Probe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [candidate-source-probe-20261011]
+    paths:
+      - "collector_candidate_lab/**"
+      - ".github/workflows/candidate-source-probe.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: candidate-public-source-probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout probe branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run offline safety and parser tests
+        run: python -m unittest discover -s collector_candidate_lab/tests -v
+      - name: Validate candidate manifest without requests
+        run: python collector_candidate_lab/validate_sources.py collector_candidate_lab/candidates.json --output candidate-results
+      - name: Make one public GET per candidate
+        env:
+          TZ: UTC
+        run: python collector_candidate_lab/validate_sources.py collector_candidate_lab/candidates.json --output candidate-results --live
+      - name: Save JSON diagnostics only
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidate-source-probe-${{ github.run_id }}-${{ github.run_attempt }}
+          path: candidate-results/*.json
+          if-no-files-found: error
+          retention-days: 7

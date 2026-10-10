@@ -1,0 +1,52 @@
+[
+  {
+    "id": "zhihu_daily",
+    "name": "知乎日报最新列表",
+    "platform": "zhihu",
+    "url": "https://daily.zhihu.com/api/4/stories/latest",
+    "source_identity": {"kind": "direct", "operator": "知乎日报", "upstream_platform": "zhihu", "independence_note": "日报内容类型新增；不是另一个热榜镜像"},
+    "evidence_urls": ["https://github.com/DIYgod/RSSHub/blob/master/lib/routes/zhihu/daily.ts"],
+    "items_path": "stories",
+    "title_fields": ["title"],
+    "url_fields": ["url"],
+    "url_template": "https://daily.zhihu.com/story/{id}",
+    "url_template_fields": {"id": "id"},
+    "item_hosts": ["daily.zhihu.com"],
+    "source_time_fields": ["date"],
+    "source_time_semantics": "日报列表日期YYYYMMDD；不当成每篇文章发布时间",
+    "item_time_fields": ["publish_time"],
+    "item_time_semantics": "仅保留条目自身publish_time；列表缺失时不填造时间"
+  },
+  {
+    "id": "zhihu_hot_web",
+    "name": "知乎热榜网页接口候选",
+    "platform": "zhihu",
+    "url": "https://www.zhihu.com/api/v3/feed/topstory/hot-list-web?limit=20&desktop=true",
+    "source_identity": {"kind": "direct", "operator": "知乎", "upstream_platform": "zhihu", "independence_note": "同平台热榜入口替代；与现有知乎热榜不算独立佐证"},
+    "evidence_urls": ["https://github.com/newsnext/newsnow/blob/main/server/sources/zhihu.ts"],
+    "items_path": "data",
+    "title_fields": ["target.title_area.text"],
+    "url_fields": ["target.link.url"],
+    "item_hosts": ["zhihu.com"],
+    "item_time_fields": [],
+    "item_time_semantics": "上游未声明条目发布时间；热度指标不是时间"
+  },
+  {
+    "id": "douyin_hot_direct",
+    "name": "抖音热榜无Cookie直连候选",
+    "platform": "douyin",
+    "url": "https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1",
+    "source_identity": {"kind": "direct", "operator": "抖音", "upstream_platform": "douyin", "independence_note": "现有NewsNow抖音的上游平台；不可与聚合器结果计作独立平台佐证"},
+    "evidence_urls": ["https://github.com/newsnext/newsnow/blob/main/server/sources/douyin.ts", "https://github.com/imsyy/DailyHotApi/blob/master/src/routes/douyin.ts"],
+    "items_path": "data.word_list",
+    "title_fields": ["word"],
+    "url_fields": ["url"],
+    "url_template": "https://www.douyin.com/hot/{id}",
+    "url_template_fields": {"id": "sentence_id"},
+    "item_hosts": ["douyin.com"],
+    "success_checks": [{"path": "status_code", "accepted": [0]}],
+    "item_time_fields": ["event_time"],
+    "item_time_semantics": "原始event_time；具体事件时间语义不等于视频发布时间",
+    "access_note": "参考实现先取匿名会话Cookie；本验证不使用Cookie，拒绝或空体即停止"
+  }
+]
