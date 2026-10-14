@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "started_at_utc": "2026-10-14T11:51:09.015646+00:00",
+  "started_at_utc": "2026-10-14T17:09:57.641854+00:00",
   "upstream_repo": "adsorgcn/WorkBuddy",
   "upstream_tag": "v2.3.15",
   "upstream_commit": "6efcffe70211080a18d4155c9f6739663b61a4b0",
@@ -16,87 +16,87 @@
     "UTC",
     "UTC"
   ],
-  "github_run_id": "38559481493",
+  "github_run_id": "38604293364",
   "github_run_attempt": "1",
-  "collector_commit": "5c155bac394d9e1df59b357ad7a28d96bdbbf62d",
+  "collector_commit": "eaaee3c9bc2604781e22f8454a947b239b0b8a71",
   "status": "partial",
   "configured_sources": 84,
   "disabled_sources": 0,
   "attempted_sources": 84,
   "source_records": 84,
-  "sources_with_items": 82,
+  "sources_with_items": 81,
   "sources_empty_or_unparsed": 1,
-  "failed_sources": 1,
+  "failed_sources": 2,
   "source_status_counts": {
-    "items": 82,
+    "items": 81,
     "empty_or_unparsed": 1,
-    "fetch_error": 1,
+    "fetch_error": 2,
     "parse_error": 0,
     "config_error": 0,
     "collector_error": 0
   },
-  "item_count": 650,
+  "item_count": 642,
   "item_count_is_unique": false,
   "source_results": [
     {
       "source": "AIHOT 热点Top10",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.2s"
     },
     {
       "source": "AIHOT 精选流",
       "status": "items",
       "item_count": 8,
-      "note": "2.9s"
+      "note": "1.8s"
     },
     {
       "source": "量子位",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.8s"
     },
     {
       "source": "InfoQ 中文",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.5s"
     },
     {
       "source": "橘鸦AI早报",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.7s"
     },
     {
       "source": "Readhub",
       "status": "items",
       "item_count": 8,
-      "note": "1.9s"
+      "note": "1.7s"
     },
     {
       "source": "阮一峰周刊",
       "status": "items",
       "item_count": 3,
-      "note": "0.1s"
+      "note": "0.4s"
     },
     {
       "source": "知乎热榜",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.9s"
     },
     {
       "source": "百度热搜",
       "status": "items",
       "item_count": 8,
-      "note": "6.4s"
+      "note": "4.9s"
     },
     {
       "source": "百度热搜直连",
       "status": "items",
       "item_count": 8,
-      "note": "6.8s"
+      "note": "5.2s"
     },
     {
       "source": "B站热门",
@@ -114,37 +114,37 @@
       "source": "澎湃热榜",
       "status": "items",
       "item_count": 8,
-      "note": "2.2s"
+      "note": "3.2s"
     },
     {
       "source": "贴吧热议",
       "status": "items",
       "item_count": 8,
-      "note": "3.0s"
+      "note": "1.4s"
     },
     {
       "source": "参考消息",
       "status": "items",
       "item_count": 8,
-      "note": "2.4s"
+      "note": "2.2s"
     },
     {
       "source": "NewsNow 微博",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 抖音",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.6s"
     },
     {
       "source": "NewsNow 掘金",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 虎扑",
@@ -162,55 +162,55 @@
       "source": "金十快讯",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "3.2s"
     },
     {
       "source": "36氪快讯",
       "status": "items",
       "item_count": 8,
-      "note": "1.8s"
+      "note": "1.4s"
     },
     {
       "source": "IT之家",
       "status": "items",
       "item_count": 8,
-      "note": "3.0s"
+      "note": "4.2s"
     },
     {
       "source": "钛媒体",
       "status": "items",
       "item_count": 8,
-      "note": "3.6s"
+      "note": "3.0s"
     },
     {
       "source": "华尔街见闻快讯",
       "status": "items",
       "item_count": 8,
-      "note": "0.9s"
+      "note": "0.6s"
     },
     {
       "source": "新浪科技",
       "status": "items",
       "item_count": 8,
-      "note": "1.8s"
+      "note": "3.8s"
     },
     {
       "source": "爱范儿",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.3s"
     },
     {
       "source": "极客公园",
       "status": "items",
       "item_count": 8,
-      "note": "5.5s"
+      "note": "2.5s"
     },
     {
       "source": "雷峰网",
       "status": "items",
       "item_count": 8,
-      "note": "3.2s"
+      "note": "2.3s"
     },
     {
       "source": "cnBeta",
@@ -220,39 +220,39 @@
     },
     {
       "source": "Solidot",
-      "status": "items",
-      "item_count": 8,
-      "note": "1.5s"
+      "status": "fetch_error",
+      "item_count": 0,
+      "note": "打不开 URLError"
     },
     {
       "source": "开源中国",
       "status": "items",
       "item_count": 8,
-      "note": "4.6s"
+      "note": "3.9s"
     },
     {
       "source": "少数派",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.3s"
     },
     {
       "source": "人人都是产品经理",
       "status": "items",
       "item_count": 8,
-      "note": "2.0s"
+      "note": "1.7s"
     },
     {
       "source": "小众软件",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.7s"
     },
     {
       "source": "V2EX 热门",
       "status": "items",
       "item_count": 8,
-      "note": "0.1s"
+      "note": "0.2s"
     },
     {
       "source": "HelloGitHub",
@@ -264,25 +264,25 @@
       "source": "HN 中文",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.7s"
     },
     {
       "source": "Product Hunt 中文",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.6s"
     },
     {
       "source": "BestBlogs",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "1.3s"
     },
     {
       "source": "NewsNow 联合早报",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 酷安",
@@ -300,7 +300,7 @@
       "source": "NewsNow 懂球帝",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 卫星通讯社",
@@ -312,7 +312,7 @@
       "source": "NewsNow 远景论坛 Win11",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 雪球 热门股票",
@@ -324,7 +324,7 @@
       "source": "NewsNow 格隆汇",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 法布财经 快讯",
@@ -360,13 +360,13 @@
       "source": "MIT Technology Review",
       "status": "items",
       "item_count": 8,
-      "note": "0.0s"
+      "note": "0.1s"
     },
     {
       "source": "BBC Technology",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.2s"
     },
     {
       "source": "Wired",
@@ -384,19 +384,19 @@
       "source": "Lobsters",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.4s"
     },
     {
       "source": "Product Hunt",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.1s"
     },
     {
       "source": "Google News AI（英文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.5s"
+      "note": "0.6s"
     },
     {
       "source": "VentureBeat AI",
@@ -408,7 +408,7 @@
       "source": "OpenAI News",
       "status": "items",
       "item_count": 8,
-      "note": "0.1s"
+      "note": "0.2s"
     },
     {
       "source": "Reddit r/artificial",
@@ -426,43 +426,43 @@
       "source": "ITmedia AI+（日文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.7s"
+      "note": "0.5s"
     },
     {
       "source": "Yahoo Japan 热门（日文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.9s"
+      "note": "0.6s"
     },
     {
       "source": "NHK 主要（日文）",
       "status": "items",
       "item_count": 7,
-      "note": "0.5s"
+      "note": "0.2s"
     },
     {
       "source": "韩联社（英文）",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.2s"
     },
     {
       "source": "Google Trends 美国",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.1s"
     },
     {
       "source": "Google Trends 英国",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.3s"
     },
     {
       "source": "Google Trends 新加坡",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.4s"
     },
     {
       "source": "Google Trends 日本",
@@ -480,13 +480,13 @@
       "source": "Google Trends 台湾",
       "status": "items",
       "item_count": 8,
-      "note": "0.8s"
+      "note": "0.3s"
     },
     {
       "source": "Google Trends 香港",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 牛客",
@@ -504,13 +504,13 @@
       "source": "NewsNow 虫部落 最新",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 豆瓣",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow Steam",
@@ -522,19 +522,19 @@
       "source": "NewsNow 腾讯新闻 综合早报",
       "status": "items",
       "item_count": 8,
-      "note": "0.5s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow Freebuf",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.8s"
     },
     {
       "source": "NewsNow 腾讯视频 热搜榜",
       "status": "items",
       "item_count": 8,
-      "note": "0.5s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 爱奇艺 热播榜",
@@ -543,6 +543,6 @@
       "note": "0.4s"
     }
   ],
-  "collected_at_utc": "2026-10-14T11:51:21.277067+00:00",
-  "duration_seconds": 12.261
+  "collected_at_utc": "2026-10-14T17:10:12.114793+00:00",
+  "duration_seconds": 14.473
 }
