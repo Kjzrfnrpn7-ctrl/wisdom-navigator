@@ -65,3 +65,13 @@ it does not run the downloaded acquisition code.
 Run `python -m unittest discover -s collector/tests -v` for offline tests.
 Run `python collector/run_collector.py` for live acquisition from public sources.
 Snapshots in Git history accumulate over time; no automatic deletion is enabled.
+
+## Current P0 research project
+
+A public-safe project charter for the active cross-media creative-systems research
+program is tracked under
+[`projects/creative-system-research/`](projects/creative-system-research/README.md).
+
+The public repository contains research scope, maturity gates and evidence policy
+only. Proprietary internal architecture, private runtime details and unpublished
+system internals are intentionally excluded.
