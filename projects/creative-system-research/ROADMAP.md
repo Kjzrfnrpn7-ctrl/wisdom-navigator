@@ -1,128 +1,101 @@
 # Roadmap
 
-## Current progress
+## Current execution status
 
-- Independent professional cases: **63 / 200** (**31.5%**)
+- Independent professional cases: **103 / 200 (51.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
-- R1 Batch 01: **15 independent professional cases added**
-- Batch 01 prior-art deep check: **15 / 15 complete**
-- R2 symbol-map reuse: **Event + Community/System + Physical/Infrastructure**
-- Negative Batch 01: **10 failure / backlash / misread cases added**
-- R1 Batch 02: **10 cross-region / cross-media cases added**
-- R1 Batch 03: **10 language / audio / packaging / B2B cases added**
-- Batch 02 prior-art deep check: **10 / 10 complete**
-- Batch 03 prior-art deep check: **10 / 10 complete**
-- Immediate next focus: **gap-driven Batch 04 + more counterexamples + real-brief A/B for the derivation diagrams**
-
+- Prior-art / position checks completed for B01–B07 additions
+- Visible-map batches completed under contract: **B04, B05, B06, B07**
+- 100-case Coverage Map: **complete**
+- Canon promotions: **0**
 
 ## R1 — Foundation taxonomy
 
 - [ ] Reach 200 independent professional cases
 - [x] Maintain the 89-work longitudinal creator cluster as a separate deep sample
-- [ ] Build the first mechanism family tree
-- [ ] Add prior-art distance tracking
-- [x] Standardize case-anchor + derivation symbol-map contract
-- [ ] Maintain one symbol map for every effective R1 case
-- [ ] Identify coverage gaps by medium, region and era
-- [ ] Add the first negative / low-gain comparison set
+- [x] Establish first mother-mechanism tree
+- [x] Establish executable primitive layer
+- [x] Establish prior-art distance / lineage discipline
+- [x] Standardize 10-case → 4-map batch contract
+- [x] Build first negative-evidence set
+- [x] Build first positive-vs-negative contrast gates
+- [x] Complete 100-case Coverage Map
+- [ ] Normalize the original 18 anchor cases to the same prior-art scale
+- [ ] Expand the negative / low-gain corpus
+- [ ] Increase under-covered regions and domains
+- [ ] Begin representative Actual Take / A-B pressure tests
 
-**Exit criterion:** the first taxonomy is coherent enough to reveal gaps and
-duplicates; raw case count alone is not sufficient.
+### Current primitive promotions
+
+- **B-P05 Distributed Evidence Mosaic → Priority Candidate**
+  - positive: Verizon, Telstra
+  - contested: SoftBank Osaka
+  - negative: Vodafone Australia
+  - cross-domain: Spotify Wrapped, Google Year in Search
+  - active gates:
+    - Evidence Representativeness
+    - Selection Transparency
+    - Geographic Respect / Excluded-Population Meaning
+
+- **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
+  - anchors: Life-saving Bathhouse, Selfless Shelves, ThisAbles
+  - still requires counterexample pressure and Actual Take before any higher promotion
+
+- **H-P01 Language Form Embodies Function → Priority Candidate**
+  - anchors span speech rhythm, typography and accessibility form
+
+### R1 remaining 97-case steering
+
+1. negative / low-gain / mechanism-valid-but-execution-failed cases;
+2. China / Asia B2B manufacturing + software;
+3. South Korea non-video design / systems;
+4. long-form copy, titles, dialogue, non-English language;
+5. architecture / material / spatial work outside award-heavy advertising;
+6. AI operations outside health/media;
+7. more Africa anchors.
 
 ## R2 — Stable mechanism library
 
-- [ ] Reach 300–400 independent professional cases
-- [ ] Require multiple independent sources for important mechanisms
-- [ ] Add ordinary-performing and failed examples
-- [ ] Build mechanism-vs-outcome comparison sets
-- [ ] Run cross-domain translation tests
-- [ ] Document transfer boundaries and common failure modes
-- [ ] Run internal pressure tests on representative briefs
+Target:
 
-**Exit criterion:** important mechanisms recur across independent sources and
-survive at least one domain-specific validation path.
+- **300–400 independent professional cases**
+- plus the longitudinal creator cluster.
+
+Requirements:
+
+- important mechanisms recur across independent sources;
+- ordinary and failed examples are included;
+- transfer boundaries are documented;
+- cross-domain translation tests are run;
+- internal pressure tests are added.
 
 ## R3 — High-confidence knowledge base
 
-- [ ] Reach ~500 curated independent cases
-- [ ] Maintain a substantial counterexample / failure corpus
-- [ ] Include pseudo-innovation and reskin cases
-- [ ] Include strong-craft / weak-linkage cases
-- [ ] Include strong-mechanism / weak-execution cases
-- [ ] Add real production comparisons
-- [ ] Add regression checks before promoting high-confidence rules
+Target:
 
-**Exit criterion:** evidence supports not only what works, but when, why, where
-it fails and what does not transfer.
+- approximately **500 curated independent cases**.
 
-## Current priority
+Requirements:
 
-R1 completion remains the immediate objective. Once the independent professional
-case base approaches 200, collection should become gap-driven rather than
-volume-driven.
+- substantial failure / counterexample corpus;
+- pseudo-innovation / reskin cases;
+- strong-craft / weak-linkage cases;
+- strong-mechanism / weak-execution cases;
+- Actual Take comparisons;
+- regression checks;
+- human approval before high-confidence promotion.
 
+## Promotion rule
 
-### R1 symbol-map counting rule
+External evidence can support **Reference Evidence / Candidate / Strong Candidate /
+Priority Candidate** status.
 
-Cases without a symbol map do not count toward the effective R1 total.
-Symbol-map production therefore runs in the same batch as search and
-deconstruction rather than as optional documentation after the fact.
+It cannot by itself create Canon.
 
-## Current execution status
+Canon-level promotion requires:
 
-- Independent professional cases processed: **103 / 200 (51.5%)**
-- Longitudinal creator cluster: **89 / 89** (tracked separately)
-- Visible-map batches completed under contract: **B04, B05, B06, B07**
-- 100-case milestone package completed:
-  - B07 MAP-01 Batch Overview
-  - MAP-02 Deep Distillation
-  - MAP-03 Prior Art / Contrast
-  - MAP-04 Derivation / Cross-domain
-  - periodic **100-case Coverage Map**
-- Primitive status:
-  - **B-P05 Distributed Evidence Mosaic → Priority Candidate**
-  - **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
-  - **H-P01 Language Form Embodies Function → Priority Candidate**
-- No Canon promotion. External cases remain reference evidence only.
-- Coverage steering for the remaining 97 R1 cases:
-  1. more low-gain / failed / mechanism-valid-but-execution-failed cases
-  2. China / Asia B2B manufacturing + software
-  3. South Korea non-video design / system cases
-  4. long-form copy, title, dialogue, non-English language work
-  5. architecture / material / spatial cases outside award-heavy advertising
-  6. AI operations outside health/media
-
-- Independent professional cases processed: **93 / 200 (46.5%)**
-- Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
-- Completed visible-map batches under the 10-cases → 4-maps contract: **B04, B05, B06**
-- Primitive library: **34 entries**
-  - B-P05 Distributed Evidence Mosaic is now **Strong Candidate**
-  - E-P05 Infrastructure / Asset → Operational Function remains **Candidate**
-- B-P05 pressure set now includes:
-  - positive anchors: Telstra 2024, Verizon 2002
-  - contested evidence: SoftBank Osaka 2024
-  - negative contrast: Vodafone Australia 2026
-- New gates from B06:
-  - Evidence Representativeness Gate
-  - Geographic Respect / Excluded-Population Meaning Gate
-- Next milestone: **B07 crosses 100 cases and must add a 100-case Coverage Map in addition to the normal four symbol maps.**
-
-- Independent professional cases processed: **83 / 200 (41.5%)**
-- Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
-- Completed visible-map research batches under the 10-cases → 4-maps contract: **B04, B05**
-- Visible map contract per normal batch:
-  - MAP-01 Batch Overview
-  - MAP-02 Deep Distillation
-  - MAP-03 Prior Art / Contrast
-  - MAP-04 Derivation / Cross-domain
-- Current executable primitive library: **34 entries**
-  - 32 baseline primitives
-  - 2 new library candidates from B05:
-    - E-P05 Infrastructure / Asset → Operational Function
-    - B-P05 Distributed Evidence Mosaic
-- Important evidence rule: a primitive can be new to this library without being historically novel.
-- Current carry-forward:
-  - E-P05 needs at least one more independent anchor
-  - B-P05 needs at least two more independent anchors
-  - prior-art gaps and counterexamples remain open before promotion
-
+```text
+Actual Take
+→ Regression
+→ Human Gate
+```
