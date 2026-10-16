@@ -130,3 +130,90 @@ Prioritize the remaining R1 cases toward:
 - Africa beyond award-heavy campaign samples;
 - architecture / material / spatial work;
 - operational AI with both positive and negative evidence.
+
+## 2026-10-16 — 150-case milestone
+
+Status: **Complete**
+
+### Quantitative state
+
+- Independent professional cases: **153 / 200 (76.5%)**
+- R1 remaining: **47**
+- Longitudinal creator cluster: **89 / 89**, tracked separately
+- Contract-standard visible maps from B04–B12: **36**
+- Explicit negative / failure cases in the current research base: **about 28**
+- Formal batch prior-art / position checks: **125 cases**
+  - the original 18 anchors plus the early 10-case negative set still require normalization to the current scale
+
+### Periodic visual state
+
+Completed at this milestone:
+
+- B12 MAP-01 Batch Overview
+- B12 MAP-02 Deep Distillation
+- B12 MAP-03 Prior Art / Contrast
+- B12 MAP-04 Derivation / Cross-domain
+- ~150-case Mechanism Tree Delta
+- 150-case Coverage Map
+
+The structure remains intentionally compressed:
+
+- Mother families: **8**
+- Executable primitives: **34**
+- Canon promotions: **0**
+
+### Candidate changes
+
+- **E-P04 Incentive Rewire → Strong Candidate**
+  - supported by independent environmental, education/energy and recycling/reward systems
+
+- **E-P03 Alternative Evidence → Formal Access → Strong Candidate**
+  - supported across financial access and civic/service access
+
+- **B-P05 Distributed Evidence Mosaic → Priority Candidate**
+  - unchanged at this milestone
+
+- **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
+  - unchanged at this milestone
+
+- **H-P01 Language Form Embodies Function → Priority Candidate**
+  - unchanged at this milestone
+
+### Research-system changes since the 120-case checkpoint
+
+Failure evidence is now treated as deployment and design boundary evidence rather
+than a separate appendix. Active gates added or strengthened include:
+
+- Feature-Parity-before-Migration
+- Model Uncertainty × Capital Exposure
+- Transactional Error Cost
+- Product-Service Continuity / Cloud Dependency
+- Agent Output = Company Authority / Single Source of Truth
+- Functional Preference ≠ Symbolic Attachment
+- Shelf Recognition / Minimum Identity Set
+- Customer Mental Model before Service Decomposition
+- Ecosystem Complementarity / Switching Cost
+- Portfolio Fit / Bundle Redundancy
+
+Operational-AI research now distinguishes:
+
+```text
+AI capability
+≠ AI necessity
+≠ deployment permission
+```
+
+### R1 closure steering
+
+The final 47 cases should prioritize:
+
+1. Latin America and South / Southeast Asia;
+2. non-English long-form copy, titles and dialogue;
+3. non-award B2B / manufacturing / software evidence;
+4. ordinary low-gain and mechanism-valid-but-execution-failed examples;
+5. normalization of older anchors to the current prior-art scale;
+6. 2–3 representative Actual Take pressure tests.
+
+External evidence still cannot create Canon. Canon remains gated by Actual Take,
+Regression and Human Gate.
+
