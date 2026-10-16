@@ -17,8 +17,8 @@
 - [x] Maintain the 89-work longitudinal creator cluster as a separate deep sample
 - [ ] Build the first mechanism family tree
 - [ ] Add prior-art distance tracking
-- [ ] Standardize case-anchor diagrams
-- [ ] Standardize derivation diagrams
+- [x] Standardize case-anchor + derivation symbol-map contract
+- [ ] Maintain one symbol map for every effective R1 case
 - [ ] Identify coverage gaps by medium, region and era
 - [ ] Add the first negative / low-gain comparison set
 
@@ -56,3 +56,10 @@ it fails and what does not transfer.
 R1 completion remains the immediate objective. Once the independent professional
 case base approaches 200, collection should become gap-driven rather than
 volume-driven.
+
+
+### R1 symbol-map counting rule
+
+Cases without a symbol map do not count toward the effective R1 total.
+Symbol-map production therefore runs in the same batch as search and
+deconstruction rather than as optional documentation after the fact.
