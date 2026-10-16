@@ -70,6 +70,21 @@ deconstruction rather than as optional documentation after the fact.
 
 ## Current execution status
 
+- Independent professional cases processed: **93 / 200 (46.5%)**
+- Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
+- Completed visible-map batches under the 10-cases → 4-maps contract: **B04, B05, B06**
+- Primitive library: **34 entries**
+  - B-P05 Distributed Evidence Mosaic is now **Strong Candidate**
+  - E-P05 Infrastructure / Asset → Operational Function remains **Candidate**
+- B-P05 pressure set now includes:
+  - positive anchors: Telstra 2024, Verizon 2002
+  - contested evidence: SoftBank Osaka 2024
+  - negative contrast: Vodafone Australia 2026
+- New gates from B06:
+  - Evidence Representativeness Gate
+  - Geographic Respect / Excluded-Population Meaning Gate
+- Next milestone: **B07 crosses 100 cases and must add a 100-case Coverage Map in addition to the normal four symbol maps.**
+
 - Independent professional cases processed: **83 / 200 (41.5%)**
 - Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
 - Completed visible-map research batches under the 10-cases → 4-maps contract: **B04, B05**
