@@ -5,62 +5,64 @@
 **Current independent professional cases:** **63 / 200 (31.5%)**  
 **Longitudinal creator cluster:** **89 / 89** (tracked separately; does not count toward the 200)
 
-## Completed in the current research cycle
+## Current research state
 
-### Batch 01
-- 15 independent professional cases added.
-- Prior-art deep check completed: 15 / 15.
-- Several apparent "new mechanisms" were reduced into older mother families.
-- Key examples were converted into derivation symbol maps.
+- Batch 01: 15 cases, prior art 15/15 complete
+- Negative evidence 01: 10 failure / backlash / misread cases
+- Contrast Set 01: 6 positive-vs-negative mechanism pairs
+- Batch 02: 10 cases, prior art 10/10 complete
+- Batch 03: 10 cases, prior art 10/10 complete
+- R2 symbol-map reuse: PASS-CANDIDATE across event, community-system, infrastructure, language-failure and pure-cognitive cases
+- Mother Mechanism Tree v2: 8 upper families + Event/Expression sublayer
 
-### Negative evidence 01
-- 10 failure / backlash / misread cases added.
-- Negative evidence is treated as mechanism evidence, not as an appendix.
-- Six positive-vs-negative contrast sets now generate explicit gates.
+## Mother Mechanism Tree v2
 
-### Batch 02
-- 10 cross-region, cross-medium professional cases added.
-- Prior-art deep check completed: 10 / 10.
-- Cases span China, Japan, South Korea, Philippines, Pakistan/UAE, Saudi Arabia and Mexico.
-- Mechanism labels were consolidated rather than expanded.
+A. Meaning / Perception  
+B. Proof / Evidence  
+C. Medium / Interface  
+D. Role / Participation  
+E. System / Rule / Access  
+F. Data / AI / Dynamic Utility  
+G. Embodied / Environment  
+H. Language / Sound / Narrative Grammar
 
-### Batch 03
-- 10 cases added to fill audio, language, packaging, B2B/industrial and AI-interface gaps.
-- Current anchors include Dreamcaster, Undercover, Frequencies of Peace, Roller Radio Coaster,
-  Breathe Through It, I See Coke, The Iconic Playlist, SHELLMET,
-  Life Extending Stickers and ADLaM.
-- Prior-art review for Batch 03 is still pending.
+M01–M06 remain expression/event patterns rather than top-level creative families.
 
-## Symbol-map reuse
+## Current priority candidates
 
-The derivation-map format has now been applied across:
-- event / action mechanism;
-- community-system mechanism;
-- physical infrastructure / accessibility;
-- language failure / hook collapse;
-- pure cognitive / perceptual-model reversal.
+- Perceptual Model Reversal
+- System / Rule / Access family
+- Language Form Embodies Function
+- Language Signal → State Change
+- Community → Verification Loop
+- Contrast-set driven gates
 
-Current status: **R2 symbol-map reuse = PASS-CANDIDATE**, not Canon.
+## Important downgrades from prior-art review
 
-## Current research gaps
+- Michael CeraVe has a close structural predecessor in Dundee.
+- Meet Marina Prieto has a close internal JCDecaux lineage.
+- 4th Judge has mature sports-officiating technology predecessors.
+- Plastic Fishing has earlier Fishing for Litter lineage.
+- I See Coke has Shazamable-TV / second-screen predecessors.
+- ADLaM has important Noto / digital-script precedent.
+- Dreamcaster belongs to an established accessible-sports technology lineage.
 
-- 137 independent professional cases remain for R1.
-- Batch 03 prior-art review is pending.
-- More pure title / long-form copy cases are needed.
-- More B2B software / manufacturing cases are needed.
-- More South Korean non-video work and Middle East non-event work are needed.
-- Negative evidence should expand beyond backlash into:
-  - low-gain cases;
-  - technically strong but brand-weak cases;
-  - strong mechanism but weak execution;
-  - award-winning work with low transferability.
+These cases may still be strong executions or domain innovations, but should not be described as newly invented mother mechanisms.
+
+## R1 gaps
+
+- 137 independent professional cases remain.
+- More pure titles / long-form copy.
+- More B2B software / manufacturing.
+- More South Korean non-video work and Middle East non-event work.
+- Expand negative evidence into low-gain, brand-weak and execution-failure cases.
 - Actual production A/B evidence remains a major promotion blocker.
+- The original 18 anchor cases still need the same unified prior-art-distance pass used on the newer batches.
 
-## Governance
+## Evidence discipline
 
 - Observed / Abstracted / Derived remain separate.
-- External case studies are reference evidence, not proof of internal capability.
+- External cases are reference evidence, not internal validation.
 - One case cannot promote a general rule.
-- Prior art is checked before novelty claims.
-- Shared mechanisms must be translated per domain.
-- Canon promotion remains blocked without actual output, regression evidence and human review.
+- Shared mechanisms require domain translation and validation.
+- Actual output + regression + human review remain mandatory before high-confidence promotion.
