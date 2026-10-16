@@ -67,3 +67,25 @@ volume-driven.
 Cases without a symbol map do not count toward the effective R1 total.
 Symbol-map production therefore runs in the same batch as search and
 deconstruction rather than as optional documentation after the fact.
+
+## Current execution status
+
+- Independent professional cases processed: **83 / 200 (41.5%)**
+- Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
+- Completed visible-map research batches under the 10-cases → 4-maps contract: **B04, B05**
+- Visible map contract per normal batch:
+  - MAP-01 Batch Overview
+  - MAP-02 Deep Distillation
+  - MAP-03 Prior Art / Contrast
+  - MAP-04 Derivation / Cross-domain
+- Current executable primitive library: **34 entries**
+  - 32 baseline primitives
+  - 2 new library candidates from B05:
+    - E-P05 Infrastructure / Asset → Operational Function
+    - B-P05 Distributed Evidence Mosaic
+- Important evidence rule: a primitive can be new to this library without being historically novel.
+- Current carry-forward:
+  - E-P05 needs at least one more independent anchor
+  - B-P05 needs at least two more independent anchors
+  - prior-art gaps and counterexamples remain open before promotion
+
