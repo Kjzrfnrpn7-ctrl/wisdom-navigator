@@ -5,6 +5,13 @@
 **Scope:** cross-media creative mechanism research for video, graphic design,
 language/copy, advertising, narrative, character and experience projects.
 
+## Current progress
+
+- Independent professional cases: **33 / 200 (16.5%)**
+- Longitudinal creator cluster: **89 / 89**, tracked separately
+- Latest batch: [R1 Batch 001](progress/R1_BATCH_001.md)
+- Immediate next focus: deep prior-art review and negative/low-gain evidence
+
 ## Objective
 
 Build a high-quality, evidence-grounded creative mechanism library that can:
