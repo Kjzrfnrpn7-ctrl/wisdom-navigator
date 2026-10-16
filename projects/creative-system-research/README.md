@@ -166,3 +166,5 @@ toward the effective R1 case total.
 
 The project currently treats this as a hard research-quality gate, not optional
 visual documentation.
+
+- [R1 Batch 02 — cross-region / cross-media expansion](R1_BATCH_02.md)
