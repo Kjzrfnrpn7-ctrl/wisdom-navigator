@@ -2,15 +2,17 @@
 
 ## Current progress
 
-- Independent professional cases: **53 / 200** (**26.5%**)
+- Independent professional cases: **63 / 200** (**31.5%**)
 - Longitudinal creator cluster: **89 / 89**, tracked separately
 - R1 Batch 01: **15 independent professional cases added**
 - Batch 01 prior-art deep check: **15 / 15 complete**
 - R2 symbol-map reuse: **Event + Community/System + Physical/Infrastructure**
 - Negative Batch 01: **10 failure / backlash / misread cases added**
 - R1 Batch 02: **10 cross-region / cross-media cases added**
+- R1 Batch 03: **10 language / audio / packaging / B2B cases added**
 - Batch 02 prior-art deep check: **10 / 10 complete**
-- Immediate next focus: **pure cognitive/language symbol-map validation + next gap-driven case batch + contrast-set expansion**
+- Batch 03 prior-art deep check: **10 / 10 complete**
+- Immediate next focus: **gap-driven Batch 04 + more counterexamples + real-brief A/B for the derivation diagrams**
 
 
 ## R1 — Foundation taxonomy
