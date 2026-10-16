@@ -7,14 +7,17 @@ language/copy, advertising, narrative, character, service and experience project
 
 ## Current progress
 
-- Independent professional cases: **123 / 200 (61.5%)**
+- Independent professional cases: **153 / 200 (76.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
-- Visible-map batches completed under contract: **B04–B07**
+- Visible-map batches completed under contract: **B04–B12**
 - 100-case milestone: **complete**
+- 150-case milestone: **complete**
 - Primitive library: **34 entries**
   - **B-P05 Distributed Evidence Mosaic — Priority Candidate**
-  - **E-P05 Infrastructure / Asset → Operational Function — Strong Candidate**
   - **H-P01 Language Form Embodies Function — Priority Candidate**
+  - **E-P05 Infrastructure / Asset → Operational Function — Strong Candidate**
+  - **E-P04 Incentive Rewire — Strong Candidate**
+  - **E-P03 Alternative Evidence → Formal Access — Strong Candidate**
 - Canon promotions: **0**
 
 ## Objective
@@ -57,7 +60,8 @@ Default round:
 → MAP-04 Derivation / Cross-domain
 ```
 
-Every +50 independent cases also adds a periodic **Coverage Map**.
+Every +30 independent cases adds a **Mechanism Tree Delta**.
+Every +50 independent cases adds a **Coverage Map**.
 
 See [VISUAL_RESEARCH_CONTRACT.md](VISUAL_RESEARCH_CONTRACT.md).
 
@@ -90,17 +94,16 @@ R1 is used to establish:
 - AI usage and AI necessity are evaluated separately.
 - Actual output, regression and human review outrank document completeness.
 
-## Current steering for the remaining 77 R1 cases
+## Current steering for the remaining 47 R1 cases
 
-Priority gaps after the 100-case coverage review:
+The project is now in R1 closure mode. Priority gaps:
 
-1. more negative / low-gain / execution-failure evidence;
-2. China / Asia B2B manufacturing and software;
-3. South Korea non-video design and system cases;
-4. long-form copy, titles, dialogue and non-English language work;
-5. architecture / material / spatial cases outside award-heavy advertising;
-6. AI operations outside health/media;
-7. deeper Africa coverage.
+1. Latin America and South / Southeast Asia coverage;
+2. non-English long-form copy, titles and dialogue;
+3. non-award B2B / manufacturing / software evidence;
+4. ordinary low-gain and mechanism-valid-but-execution-failed examples;
+5. normalize the original 18 anchors plus early negative set to the same prior-art scale;
+6. begin 2–3 representative Actual Take pressure tests.
 
 ## Public-repository boundary
 
@@ -113,11 +116,13 @@ published here.
 
 ## Current periodic-map status
 
-- B04–B09: six consecutive 10-case / 4-visible-map batches completed
+- B04–B12: nine consecutive default batches completed under the 10-case / 4-visible-map contract
 - ~90-case Mechanism Tree Delta: **recovered from historical ledger snapshot**
 - 100-case Coverage Map: **complete**
 - ~120-case Mechanism Tree Delta: **complete**
-- next dual periodic trigger: around **150 cases** (Mechanism Delta + Coverage Map)
+- ~150-case Mechanism Tree Delta: **complete**
+- 150-case Coverage Map: **complete**
+- next Coverage milestone: **R1 final / 200 cases**
 
 ## Milestones
 
