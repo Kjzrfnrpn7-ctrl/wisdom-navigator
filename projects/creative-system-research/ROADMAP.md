@@ -70,6 +70,28 @@ deconstruction rather than as optional documentation after the fact.
 
 ## Current execution status
 
+- Independent professional cases processed: **103 / 200 (51.5%)**
+- Longitudinal creator cluster: **89 / 89** (tracked separately)
+- Visible-map batches completed under contract: **B04, B05, B06, B07**
+- 100-case milestone package completed:
+  - B07 MAP-01 Batch Overview
+  - MAP-02 Deep Distillation
+  - MAP-03 Prior Art / Contrast
+  - MAP-04 Derivation / Cross-domain
+  - periodic **100-case Coverage Map**
+- Primitive status:
+  - **B-P05 Distributed Evidence Mosaic → Priority Candidate**
+  - **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
+  - **H-P01 Language Form Embodies Function → Priority Candidate**
+- No Canon promotion. External cases remain reference evidence only.
+- Coverage steering for the remaining 97 R1 cases:
+  1. more low-gain / failed / mechanism-valid-but-execution-failed cases
+  2. China / Asia B2B manufacturing + software
+  3. South Korea non-video design / system cases
+  4. long-form copy, title, dialogue, non-English language work
+  5. architecture / material / spatial cases outside award-heavy advertising
+  6. AI operations outside health/media
+
 - Independent professional cases processed: **93 / 200 (46.5%)**
 - Longitudinal creator cluster: **89 / 89** (tracked separately; does not fill the 200-case target)
 - Completed visible-map batches under the 10-cases → 4-maps contract: **B04, B05, B06**
