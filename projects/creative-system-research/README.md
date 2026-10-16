@@ -138,3 +138,5 @@ published here.
 ## Research logs
 
 - [R1 Batch 01 — search, deconstruction, prior-art and mechanism consolidation](R1_BATCH_01.md)
+
+- [R1 Negative Batch 01 — counterexamples and failure mechanisms](R1_NEGATIVE_BATCH_01.md)
