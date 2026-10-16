@@ -133,3 +133,8 @@ targets and evidence policy.
 Proprietary internal architecture, private runtime structures, unpublished
 framework internals and sensitive implementation details are intentionally not
 published here.
+
+
+## Research logs
+
+- [R1 Batch 01 — search, deconstruction, prior-art and mechanism consolidation](R1_BATCH_01.md)
