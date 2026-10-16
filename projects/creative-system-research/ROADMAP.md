@@ -1,5 +1,15 @@
 # Roadmap
 
+## Current progress
+
+- Independent professional cases: **33 / 200** (**16.5%**)
+- Longitudinal creator cluster: **89 / 89**, tracked separately
+- R1 Batch 01: **15 independent professional cases added**
+- Batch 01 prior-art deep check: **15 / 15 complete**
+- R2 symbol-map reuse: **Event + Community/System + Physical/Infrastructure**
+- Immediate next focus: **counterexamples / low-gain work + additional independent cases + pure cognitive/language symbol-map validation**
+
+
 ## R1 — Foundation taxonomy
 
 - [ ] Reach 200 independent professional cases
