@@ -140,3 +140,29 @@ published here.
 - [R1 Batch 01 — search, deconstruction, prior-art and mechanism consolidation](R1_BATCH_01.md)
 
 - [R1 Negative Batch 01 — counterexamples and failure mechanisms](R1_NEGATIVE_BATCH_01.md)
+
+
+## Case symbol map gate
+
+Every independent professional case counted toward R1 must have a case-level
+symbol map produced in the same research cycle.
+
+Minimum public-safe map contract:
+
+```text
+Observed
+→ mechanism abstraction
+→ multi-parameter decomposition
+→ relational rule
+→ mother mechanism
+→ prior-art position
+→ analogy / transfer space
+→ execution path
+→ do-not-copy boundary
+```
+
+A collected case without a symbol map is **INCOMPLETE_CASE** and does not count
+toward the effective R1 case total.
+
+The project currently treats this as a hard research-quality gate, not optional
+visual documentation.
