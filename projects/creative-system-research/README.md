@@ -3,14 +3,19 @@
 **Priority:** P0 / Key Project  
 **Status:** Active research  
 **Scope:** cross-media creative mechanism research for video, graphic design,
-language/copy, advertising, narrative, character and experience projects.
+language/copy, advertising, narrative, character, service and experience projects.
 
 ## Current progress
 
-- Independent professional cases: **33 / 200 (16.5%)**
+- Independent professional cases: **103 / 200 (51.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
-- Latest batch: [R1 Batch 001](progress/R1_BATCH_001.md)
-- Immediate next focus: deep prior-art review and negative/low-gain evidence
+- Visible-map batches completed under contract: **B04–B07**
+- 100-case milestone: **complete**
+- Primitive library: **34 entries**
+  - **B-P05 Distributed Evidence Mosaic — Priority Candidate**
+  - **E-P05 Infrastructure / Asset → Operational Function — Strong Candidate**
+  - **H-P01 Language Form Embodies Function — Priority Candidate**
+- Canon promotions: **0**
 
 ## Objective
 
@@ -27,93 +32,53 @@ Build a high-quality, evidence-grounded creative mechanism library that can:
 ```text
 SEARCH
 → DECONSTRUCT
+→ PRIOR ART
 → SYMBOLIZE
 → DERIVE
-→ PRIOR-ART
 → PRESSURE TEST
 → ACTUAL OUTPUT
 → REVIEW / PROMOTE / PATCH / REJECT
 ```
 
 The working rule is: **search once, deconstruct once, symbolize once**.
-Research is not considered complete when a case is merely collected.
+A batch is not complete when cases are only collected.
 
-## Research maturity gates
+## Active batch contract
 
-### R1 — Foundation taxonomy
+Default round:
+
+```text
+10 independent professional cases
+→ 10 deconstructions
+→ prior-art positioning
+→ MAP-01 Batch Overview
+→ MAP-02 Deep Distillation
+→ MAP-03 Prior Art / Contrast
+→ MAP-04 Derivation / Cross-domain
+```
+
+Every +50 independent cases also adds a periodic **Coverage Map**.
+
+See [VISUAL_RESEARCH_CONTRACT.md](VISUAL_RESEARCH_CONTRACT.md).
+
+## R1 maturity gate
 
 Target:
 
 - **200 independent professional cases**
 - plus **one 89-work longitudinal creator cluster**
 
-Purpose:
+The 89-work creator cluster is one longitudinal sample and does not fill the
+200 independent-case target.
 
-- establish the first mechanism taxonomy;
-- identify major mechanism families and gaps;
-- build the first prior-art map;
-- standardize case-anchor and derivation diagrams.
+R1 is used to establish:
 
-The 89-work creator cluster is treated as one deep longitudinal cluster, not as
-89 independent sources.
-
-### R2 — Stable mechanism library
-
-Target:
-
-- **300–400 independent professional cases**
-- plus the 89-work longitudinal cluster.
-
-Purpose:
-
-- test mechanism recurrence across creators, brands, countries, eras and media;
-- add ordinary-performing and low-gain examples;
-- identify counterexamples and transfer boundaries;
-- compare similar mechanisms with different outcomes;
-- validate cross-domain transfer.
-
-### R3 — High-confidence knowledge base
-
-Target:
-
-- approximately **500 curated independent cases**
-- plus longitudinal creator research.
-
-Requirements:
-
-- substantial failure and low-gain evidence;
-- pseudo-innovation / reskin examples;
-- cases where mechanism is sound but execution fails;
-- cases where execution is strong but brand/product linkage is weak;
-- internal production tests and regression evidence before any rule is treated
-  as high-confidence.
-
-R3 is a quality gate, not a raw-count milestone.
-
-## Coverage mode after R1
-
-After the first ~200 independent professional cases, the project switches from
-pure count accumulation to:
-
-1. **Coverage mode** — fill mechanism, geography, medium and era gaps.
-2. **Contradiction mode** — actively seek failures and counterexamples.
-3. **Transfer mode** — test whether a mechanism survives domain translation.
-4. **Actual-output mode** — compare real production results, not only case study claims.
-
-## Domains under simultaneous review
-
-- video / motion;
-- graphic / static visual;
-- language, copy and titles;
-- advertising and cross-media campaigns;
-- long-form narrative and dialogue;
-- character systems;
-- travel / experience content;
-- AI-assisted production workflows.
-
-Shared mechanisms are translated into each domain's own objects and validation
-criteria. A mechanism succeeding in one domain does **not** automatically
-validate it in another.
+- first stable mechanism taxonomy;
+- executable primitive library;
+- prior-art distance and novelty discipline;
+- failure / counterexample corpus;
+- visible symbol-map research interface;
+- cross-domain transfer boundaries.
 
 ## Evidence rules
 
@@ -121,52 +86,31 @@ validate it in another.
 - Keep **Observed / Abstracted / Derived** separate.
 - Prior art is checked before calling a mechanism novel.
 - One case cannot promote a general rule.
-- High-performing examples alone are insufficient; negative evidence matters.
+- Negative evidence is required.
 - AI usage and AI necessity are evaluated separately.
-- Real outputs and human review outrank document completeness.
+- Actual output, regression and human review outrank document completeness.
+
+## Current steering for the remaining 97 R1 cases
+
+Priority gaps after the 100-case coverage review:
+
+1. more negative / low-gain / execution-failure evidence;
+2. China / Asia B2B manufacturing and software;
+3. South Korea non-video design and system cases;
+4. long-form copy, titles, dialogue and non-English language work;
+5. architecture / material / spatial cases outside award-heavy advertising;
+6. AI operations outside health/media;
+7. deeper Africa coverage.
 
 ## Public-repository boundary
 
-This repository records only the public-safe project charter, research maturity
-targets and evidence policy.
+This repository records only public-safe research status, maturity targets,
+visual-research rules and milestone summaries.
 
 Proprietary internal architecture, private runtime structures, unpublished
 framework internals and sensitive implementation details are intentionally not
 published here.
 
+## Milestones
 
-## Research logs
-
-- [R1 Batch 01 — search, deconstruction, prior-art and mechanism consolidation](R1_BATCH_01.md)
-
-- [R1 Negative Batch 01 — counterexamples and failure mechanisms](R1_NEGATIVE_BATCH_01.md)
-
-
-## Case symbol map gate
-
-Every independent professional case counted toward R1 must have a case-level
-symbol map produced in the same research cycle.
-
-Minimum public-safe map contract:
-
-```text
-Observed
-→ mechanism abstraction
-→ multi-parameter decomposition
-→ relational rule
-→ mother mechanism
-→ prior-art position
-→ analogy / transfer space
-→ execution path
-→ do-not-copy boundary
-```
-
-A collected case without a symbol map is **INCOMPLETE_CASE** and does not count
-toward the effective R1 case total.
-
-The project currently treats this as a hard research-quality gate, not optional
-visual documentation.
-
-- [R1 Batch 02 — cross-region / cross-media expansion](R1_BATCH_02.md)
-
-- [R1 Batch 03 — language, audio, packaging and B2B gap fill](R1_BATCH_03.md)
+See [MILESTONES.md](MILESTONES.md).
