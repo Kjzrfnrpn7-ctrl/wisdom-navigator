@@ -168,3 +168,5 @@ The project currently treats this as a hard research-quality gate, not optional
 visual documentation.
 
 - [R1 Batch 02 — cross-region / cross-media expansion](R1_BATCH_02.md)
+
+- [R1 Batch 03 — language, audio, packaging and B2B gap fill](R1_BATCH_03.md)
