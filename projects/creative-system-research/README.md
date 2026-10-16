@@ -7,7 +7,7 @@ language/copy, advertising, narrative, character, service and experience project
 
 ## Current progress
 
-- Independent professional cases: **103 / 200 (51.5%)**
+- Independent professional cases: **123 / 200 (61.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
 - Visible-map batches completed under contract: **B04–B07**
 - 100-case milestone: **complete**
@@ -90,7 +90,7 @@ R1 is used to establish:
 - AI usage and AI necessity are evaluated separately.
 - Actual output, regression and human review outrank document completeness.
 
-## Current steering for the remaining 97 R1 cases
+## Current steering for the remaining 77 R1 cases
 
 Priority gaps after the 100-case coverage review:
 
@@ -110,6 +110,14 @@ visual-research rules and milestone summaries.
 Proprietary internal architecture, private runtime structures, unpublished
 framework internals and sensitive implementation details are intentionally not
 published here.
+
+## Current periodic-map status
+
+- B04–B09: six consecutive 10-case / 4-visible-map batches completed
+- ~90-case Mechanism Tree Delta: **recovered from historical ledger snapshot**
+- 100-case Coverage Map: **complete**
+- ~120-case Mechanism Tree Delta: **complete**
+- next dual periodic trigger: around **150 cases** (Mechanism Delta + Coverage Map)
 
 ## Milestones
 
