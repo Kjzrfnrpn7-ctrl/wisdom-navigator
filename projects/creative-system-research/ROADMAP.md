@@ -2,11 +2,13 @@
 
 ## Current execution status
 
-- Independent professional cases: **123 / 200 (61.5%)**
+- Independent professional cases: **153 / 200 (76.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
-- Prior-art / position checks completed for B01–B07 additions
-- Visible-map batches completed under contract: **B04, B05, B06, B07**
+- Visible-map batches completed under contract: **B04–B12**
 - 100-case Coverage Map: **complete**
+- 150-case Coverage Map: **complete**
+- ~90 / ~120 / ~150 Mechanism Tree Deltas: **complete**  
+  - ~90 is explicitly marked as a recovered historical snapshot
 - Canon promotions: **0**
 
 ## R1 — Foundation taxonomy
@@ -18,44 +20,42 @@
 - [x] Establish prior-art distance / lineage discipline
 - [x] Standardize 10-case → 4-map batch contract
 - [x] Build first negative-evidence set
-- [x] Build first positive-vs-negative contrast gates
+- [x] Build positive-vs-negative contrast gates
 - [x] Complete 100-case Coverage Map
-- [ ] Normalize the original 18 anchor cases to the same prior-art scale
-- [ ] Expand the negative / low-gain corpus
-- [ ] Increase under-covered regions and domains
+- [x] Complete 150-case Coverage Map
+- [x] Complete / recover ~90, ~120 and ~150 Mechanism Tree Deltas
+- [x] Complete B04–B12 as nine consecutive visible-map contract batches
+- [ ] Normalize the original 18 anchor cases plus the early negative set to the same prior-art scale
+- [ ] Expand ordinary / low-gain / mechanism-valid-but-execution-failed evidence
+- [ ] Fill final regional and domain gaps
 - [ ] Begin representative Actual Take / A-B pressure tests
-- [x] Recover the missed ~90-case Mechanism Tree Delta from historical ledger state
-- [x] Complete the ~120-case Mechanism Tree Delta
-- [x] Complete B04–B09 as six consecutive visible-map contract batches
 
 ### Current primitive promotions
 
 - **B-P05 Distributed Evidence Mosaic → Priority Candidate**
-  - positive: Verizon, Telstra
-  - contested: SoftBank Osaka
-  - negative: Vodafone Australia
-  - cross-domain: Spotify Wrapped, Google Year in Search
-  - active gates:
-    - Evidence Representativeness
-    - Selection Transparency
-    - Geographic Respect / Excluded-Population Meaning
-
-- **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
-  - anchors: Life-saving Bathhouse, Selfless Shelves, ThisAbles
-  - still requires counterexample pressure and Actual Take before any higher promotion
+  - now supported by telecom, music-data and search-culture anchors
+  - active gates include Evidence Representativeness, Selection Transparency and Geographic Respect
 
 - **H-P01 Language Form Embodies Function → Priority Candidate**
-  - anchors span speech rhythm, typography and accessibility form
+  - now spans speech rhythm, typography, accessibility form, long-form audio and corporate print
 
-### R1 remaining 77-case steering
+- **E-P05 Infrastructure / Asset → Operational Function → Strong Candidate**
+  - anchors span spatial safety, distribution/market access, product accessibility, time capacity, care and neighbourhood infrastructure
 
-1. negative / low-gain / mechanism-valid-but-execution-failed cases;
-2. China / Asia B2B manufacturing + software;
-3. South Korea non-video design / systems;
-4. long-form copy, titles, dialogue, non-English language;
-5. architecture / material / spatial work outside award-heavy advertising;
-6. AI operations outside health/media;
-7. more Africa anchors.
+- **E-P04 Incentive Rewire → Strong Candidate**
+  - independent anchors include environmental market incentives, education/energy incentives and recycling/reward loops
+
+- **E-P03 Alternative Evidence → Formal Access → Strong Candidate**
+  - cross-domain anchors now include financial access and civic/service access
+
+### R1 remaining 47-case steering
+
+1. Latin America + South / Southeast Asia;
+2. non-English long-form copy, titles and dialogue;
+3. non-award B2B manufacturing / software / industrial operations;
+4. ordinary low-gain and mechanism-valid-but-execution-failed examples;
+5. normalize older anchors to the current evidence scale;
+6. begin 2–3 representative Actual Take tests.
 
 ## R2 — Stable mechanism library
 
