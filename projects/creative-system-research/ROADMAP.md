@@ -2,7 +2,7 @@
 
 ## Current execution status
 
-- Independent professional cases: **103 / 200 (51.5%)**
+- Independent professional cases: **123 / 200 (61.5%)**
 - Longitudinal creator cluster: **89 / 89**, tracked separately
 - Prior-art / position checks completed for B01–B07 additions
 - Visible-map batches completed under contract: **B04, B05, B06, B07**
@@ -24,6 +24,9 @@
 - [ ] Expand the negative / low-gain corpus
 - [ ] Increase under-covered regions and domains
 - [ ] Begin representative Actual Take / A-B pressure tests
+- [x] Recover the missed ~90-case Mechanism Tree Delta from historical ledger state
+- [x] Complete the ~120-case Mechanism Tree Delta
+- [x] Complete B04–B09 as six consecutive visible-map contract batches
 
 ### Current primitive promotions
 
@@ -44,7 +47,7 @@
 - **H-P01 Language Form Embodies Function → Priority Candidate**
   - anchors span speech rhythm, typography and accessibility form
 
-### R1 remaining 97-case steering
+### R1 remaining 77-case steering
 
 1. negative / low-gain / mechanism-valid-but-execution-failed cases;
 2. China / Asia B2B manufacturing + software;
