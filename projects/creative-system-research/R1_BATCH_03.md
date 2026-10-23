@@ -1,5 +1,8 @@
 # R1 Batch 03 — Language / Audio / Packaging / B2B Gap Fill
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [STATUS.md](STATUS.md) for the latest recorded R1 state.
+
 **Batch size:** 10 independent professional cases  
 **R1 total after batch:** 63 / 200 independent professional cases  
 **Prior-art pass:** 10 / 10 complete
@@ -55,7 +58,7 @@ scenes and persona-specific payoffs.
 This is a candidate mechanism shared by existing language projects. It is **not**
 a justification for creating a new top-level language runtime.
 
-## Next
+## Next at this checkpoint
 
 1. continue gap-driven case collection;
 2. increase pure copy / long-form / radio / B2B service examples;

@@ -1,5 +1,10 @@
 # R1 Batch 001
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [../STATUS.md](../STATUS.md) for the latest recorded R1 state.
+> The later [Batch 01 summary](../R1_BATCH_01.md) records the completed
+> 15/15 prior-art pass; pending tasks below are preserved as historical context.
+
 **Status:** completed for initial search/deconstruction intake  
 **Independent professional cases added:** 15  
 **Independent professional case total:** 33 / 200  
@@ -43,7 +48,7 @@ The cases above are currently **reference evidence**.
 Deep prior-art comparison for this batch is still pending. No general mechanism
 is promoted solely from this batch.
 
-## Next work
+## Next work at this checkpoint
 
 1. Deep prior-art review for the 15 cases.
 2. Find near-duplicates and older precedents.

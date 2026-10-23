@@ -1,5 +1,8 @@
 # R1 Batch 01 — Research Summary
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [STATUS.md](STATUS.md) for the latest recorded R1 state.
+
 **Status:** completed for search / deconstruction / prior-art pass  
 **Batch size:** 15 independent professional cases  
 **R1 total after batch:** 33 / 200 independent professional cases
@@ -62,7 +65,7 @@ different mechanism types:
 
 A pure cognitive or language-led case remains a required validation target.
 
-## Next
+## Next at this checkpoint
 
 1. build the first deliberate counterexample / low-gain set;
 2. continue the independent case count toward 200;

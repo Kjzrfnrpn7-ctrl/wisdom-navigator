@@ -1,5 +1,11 @@
 # Milestones
 
+Entries are dated research snapshots in chronological order; same-day entries
+retain checkpoint order. Earlier totals and task lists describe their checkpoint.
+The latest complete entry supplies the current summaries in [STATUS.md](STATUS.md),
+[README.md](README.md) and [ROADMAP.md](ROADMAP.md). A later documentation
+reconciliation is not a new research milestone.
+
 ## 2026-10-16 — 100-case milestone
 
 Status: **Complete**

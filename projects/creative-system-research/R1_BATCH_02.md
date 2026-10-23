@@ -1,5 +1,8 @@
 # R1 Batch 02 — Cross-Region / Cross-Media Expansion
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [STATUS.md](STATUS.md) for the latest recorded R1 state.
+
 **Batch size:** 10 independent professional cases  
 **R1 total after batch:** 53 / 200 independent professional cases  
 **Prior-art pass:** 10 / 10 complete
@@ -60,7 +63,7 @@ Candidate families strengthened by this batch include:
 Other labels were merged upward into older families such as medium transformation,
 native syntax repurposing and immersive world translation.
 
-## Next
+## Next at this checkpoint
 
 1. create a pure cognitive / language-led symbol map;
 2. continue positive/negative contrast sets;

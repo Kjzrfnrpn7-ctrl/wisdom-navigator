@@ -1,5 +1,8 @@
 # R1 Negative Batch 01 — Counterexample Set
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [STATUS.md](STATUS.md) for the latest recorded R1 state.
+
 **Batch size:** 10 cases  
 **R1 total after batch:** 43 / 200 independent professional cases
 

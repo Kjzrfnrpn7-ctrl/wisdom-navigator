@@ -1,21 +1,58 @@
-# Creative Systems Research — Current Status
+# Creative Systems Research — Recorded R1 Status
 
 **Priority:** P0 / Key Project  
-**Research gate:** R1 — Foundation taxonomy  
-**Current independent professional cases:** **73 / 200 (36.5%)**  
-**Longitudinal creator cluster:** **89 / 89** (tracked separately; does not count toward the 200)
+**Status reconciliation:** 2026-10-23 (documentation correction only)
 
-## Current research state
+The research checkpoint below is dated **2026-10-16**. This reconciliation adds
+no cases, primitives, completed tests or Canon promotions. R1 remains open.
 
-- Batch 01: 15 cases, prior art 15/15 complete
-- Negative evidence 01: 10 failure / backlash / misread cases
-- Contrast Set 01: 6 positive-vs-negative mechanism pairs
-- Batch 02: 10 cases, prior art 10/10 complete
-- Batch 03: 10 cases, prior art 10/10 complete
-- Batch 04: 10 gap-fill cases, prior art 10/10 complete, **4/4 visible symbol maps complete**
-- R2 symbol-map reuse: PASS-CANDIDATE across event, community-system, infrastructure, language-failure, pure-cognitive, B2B-industrial and identity-continuity cases
-- Mother Mechanism Tree v2: 8 upper families + Event/Expression sublayer
-- Executable Primitive Library: 32 primitives; Batch 04 added **0 new primitives** and instead refined parameters / gates / lineage
+## Latest recorded checkpoint
+
+<!-- R1_STATUS:START -->
+<!-- Generated from the latest complete MILESTONES.md entry; do not edit by hand. -->
+**Research evidence as of:** 2026-10-16 — 150-case milestone
+
+**Research gate:** R1 — Foundation taxonomy / closure in progress; not complete
+
+- Independent professional cases: **153 / 200 (76.5%)**
+- R1 remaining: **47**
+- Longitudinal creator cluster: **89 / 89**, tracked separately; excluded from the 200-case target
+- Executable primitives: **34**
+- Canon promotions: **0**
+- Visible-map batches: **B04–B12** (9 batches; **36** contract-standard maps)
+- Latest completed Coverage Map: **150-case**
+- Latest completed Mechanism Tree Delta: **~150-case**
+
+Candidate status recorded at this milestone:
+
+- **E-P04 Incentive Rewire — Strong Candidate**
+- **E-P03 Alternative Evidence → Formal Access — Strong Candidate**
+- **B-P05 Distributed Evidence Mosaic — Priority Candidate**
+- **E-P05 Infrastructure / Asset → Operational Function — Strong Candidate**
+- **H-P01 Language Form Embodies Function — Priority Candidate**
+
+Source: [MILESTONES.md](MILESTONES.md). This is the latest recorded research
+checkpoint, not a claim of new research on the date a status page is edited.
+<!-- R1_STATUS:END -->
+
+## Research completed at the recorded checkpoint
+
+- B04–B12 completed nine default 10-case / four-visible-map batches.
+- 100-case and 150-case Coverage Maps are complete.
+- ~90-case Mechanism Tree Delta is a **RECOVERED** historical snapshot, not a
+  backdated completion; ~120 and ~150 deltas are complete.
+- The next periodic Tree Delta is due around **180 cases** under the +30 rule;
+  the next Coverage Map is due at **200 cases** under the +50 rule. Neither is
+  recorded as complete. R1 completion also requires 3–5 final synthesis maps.
+- Formal batch prior-art / position checks cover **125 cases**. The original
+  **18 anchors** plus the early **10-case negative set** still need normalization
+  to the current scale. These are already-counted cases, not additions to R1.
+- The milestone records **about 28** explicit negative / failure cases; this
+  approximate subset is not a separate case total to add to the corpus.
+
+The public repository contains milestone and early-batch summaries, not the
+complete case ledger or all 36 map assets. The counts above are reconciled to
+those records; this edit does not claim a fresh case-by-case or asset audit.
 
 ## Mother Mechanism Tree v2
 
@@ -28,37 +65,28 @@ F. Data / AI / Dynamic Utility
 G. Embodied / Environment  
 H. Language / Sound / Narrative Grammar
 
-M01–M06 remain expression/event patterns rather than top-level creative families.
+The eight families remain a compression / routing layer. M01–M06 remain
+expression/event patterns rather than top-level creative families.
 
-## Batch 04 gap-fill focus
+## Active failure and deployment gates
 
-Batch 04 deliberately targeted current coverage gaps:
+The latest milestone strengthens or carries forward:
 
-- language / copy / typography;
-- B2B industrial / software / real-time operational media;
-- South Korean non-video work;
-- Middle East non-sports work;
-- controversy / repair cases.
+- Feature-Parity-before-Migration;
+- Model Uncertainty × Capital Exposure;
+- Transactional Error Cost;
+- Product-Service Continuity / Cloud Dependency;
+- Agent Output = Company Authority / Single Source of Truth;
+- Functional Preference ≠ Symbolic Attachment;
+- Shelf Recognition / Minimum Identity Set;
+- Customer Mental Model before Service Decomposition;
+- Ecosystem Complementarity / Switching Cost;
+- Portfolio Fit / Bundle Redundancy.
 
-The visible symbol-map package covered:
+AI capability, AI necessity and deployment permission remain separate questions.
+These gates and the candidate grades above do not constitute Canon promotion.
 
-1. Batch overview
-2. B2B industrial deep distillation
-3. prior-art / identity-continuity contrast
-4. cross-domain semantic-reframe derivation
-
-## Current priority candidates
-
-- Perceptual Model Reversal
-- System / Rule / Access family
-- Language Form Embodies Function
-- Language Signal → State Change
-- Community → Verification Loop
-- Contrast-set driven gates
-- Identity Continuity / Recognition Bridge gate
-- Sensory Aversion / subgroup harm gate
-
-## Important downgrades from prior-art review
+## Prior-art cautions retained from earlier batches
 
 - Michael CeraVe has a close structural predecessor in Dundee.
 - Meet Marina Prieto has a close internal JCDecaux lineage.
@@ -67,26 +95,37 @@ The visible symbol-map package covered:
 - I See Coke has Shazamable-TV / second-screen predecessors.
 - ADLaM has important Noto / digital-script precedent.
 - Dreamcaster belongs to an established accessible-sports technology lineage.
-- Try Galaxy Fold Experience is an extension of the existing Try Galaxy platform rather than a new mother mechanism.
-- Apple Underdogs: Swiped Mac belongs to Apple's own established Underdogs narrative lineage.
-- Maqroo has prior dyslexia-oriented font lineage; effectiveness claims require evidence rather than design intent alone.
+- Try Galaxy Fold Experience extends the existing Try Galaxy platform.
+- Apple Underdogs: Swiped Mac belongs to Apple's established Underdogs lineage.
+- Maqroo has prior dyslexia-oriented font lineage; effectiveness requires evidence.
 
-These cases may still be strong executions or domain innovations, but should not be described as newly invented mother mechanisms.
+Strong execution or domain innovation is not proof of a newly invented mother
+mechanism. These historical cautions are retained, not presented as new findings.
 
-## R1 gaps
+## Remaining R1 work
 
-- **127** independent professional cases remain.
-- More pure titles / long-form copy.
-- More B2B manufacturing / software / industrial services.
-- More South Korean non-video work and Middle East non-event work.
-- Expand negative evidence into low-gain, brand-weak and execution-failure cases.
-- Actual production A/B evidence remains a major promotion blocker.
-- The original 18 anchor cases still need the same unified prior-art-distance pass used on the newer batches.
+1. Fill the remaining case gap, prioritizing Latin America and South / Southeast
+   Asia; non-English long-form copy, titles and dialogue; non-award B2B,
+   manufacturing, software and industrial operations.
+2. Expand ordinary low-gain and mechanism-valid-but-execution-failed evidence.
+3. Normalize the original 18 anchors and early 10-case negative set to the
+   current prior-art scale without counting them again.
+4. Begin **2–3 representative Actual Take / A-B pressure tests**. This remains
+   planned work; no completed production validation is inferred from the count.
+5. Complete future periodic maps and the R1 final synthesis under the
+   [visual research contract](VISUAL_RESEARCH_CONTRACT.md).
 
-## Evidence discipline
+Reaching the case target alone does not establish R2 maturity or Canon.
+
+## Evidence discipline and maintenance
 
 - Observed / Abstracted / Derived remain separate.
 - External cases are reference evidence, not internal validation.
 - One case cannot promote a general rule.
 - Shared mechanisms require domain translation and validation.
-- Actual output + regression + human review remain mandatory before high-confidence promotion.
+- Actual Take → Regression → Human Gate remains mandatory for Canon promotion.
+
+For the dated evidence trail see [MILESTONES.md](MILESTONES.md); for the open
+checklist see [ROADMAP.md](ROADMAP.md). Current summaries are checked with
+`python scripts/check_creative_research_status.py` from the repository root.
+See [status maintenance](README.md#status-maintenance) before changing counts.

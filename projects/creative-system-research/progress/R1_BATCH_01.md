@@ -1,9 +1,15 @@
 # R1 Batch 01 — Progress Note
 
+> Historical checkpoint: counts, evidence state and next steps below belong to
+> this batch snapshot. See [../STATUS.md](../STATUS.md) for the latest recorded R1 state.
+> The later [Batch 01 summary](../R1_BATCH_01.md) records the completed
+> 15/15 prior-art pass; pending tasks below are preserved as historical context.
+
 **Project:** Creative Systems Research Program  
 **Priority:** P0  
 **R1 target:** 200 independent professional cases + one separate 89-work longitudinal creator cluster  
-**Current independent professional case count:** 33 / 200 (16.5%)  
+**Independent professional case count at this checkpoint:** 33 / 200 (16.5%)
+
 **Batch 01:** +15 independently sourced professional cases
 
 ## What this batch changed
@@ -57,7 +63,7 @@ Key findings:
 - **Other Hand** still has no close structural predecessor confirmed in this
   pass; that absence is not treated as novelty proof.
 
-## Immediate next work
+## Next work at this checkpoint
 
 1. Complete prior-art deep check for the remaining 8 Batch-01 cases.
 2. Add negative / low-gain examples for the strongest mechanism families.

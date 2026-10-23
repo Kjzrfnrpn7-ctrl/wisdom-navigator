@@ -72,6 +72,11 @@ A public-safe project charter for the active cross-media creative-systems resear
 program is tracked under
 [`projects/creative-system-research/`](projects/creative-system-research/README.md).
 
-The public repository contains research scope, maturity gates and evidence policy
-only. Proprietary internal architecture, private runtime details and unpublished
-system internals are intentionally excluded.
+For dated progress and open work, see the project
+[recorded R1 status](projects/creative-system-research/STATUS.md). Historical batch
+notes retain their original totals. Run `python scripts/check_creative_research_status.py`
+to check the current summaries against the latest milestone.
+
+The research section contains public-safe scope, maturity gates, evidence policy
+and milestone summaries. Proprietary internal architecture, private runtime details
+and unpublished system internals are intentionally excluded.

@@ -1,15 +1,33 @@
 # Roadmap
 
-## Current execution status
+## Latest recorded execution status
+
+<!-- R1_STATUS:START -->
+<!-- Generated from the latest complete MILESTONES.md entry; do not edit by hand. -->
+**Research evidence as of:** 2026-10-16 — 150-case milestone
+
+**Research gate:** R1 — Foundation taxonomy / closure in progress; not complete
 
 - Independent professional cases: **153 / 200 (76.5%)**
-- Longitudinal creator cluster: **89 / 89**, tracked separately
-- Visible-map batches completed under contract: **B04–B12**
-- 100-case Coverage Map: **complete**
-- 150-case Coverage Map: **complete**
-- ~90 / ~120 / ~150 Mechanism Tree Deltas: **complete**  
-  - ~90 is explicitly marked as a recovered historical snapshot
+- R1 remaining: **47**
+- Longitudinal creator cluster: **89 / 89**, tracked separately; excluded from the 200-case target
+- Executable primitives: **34**
 - Canon promotions: **0**
+- Visible-map batches: **B04–B12** (9 batches; **36** contract-standard maps)
+- Latest completed Coverage Map: **150-case**
+- Latest completed Mechanism Tree Delta: **~150-case**
+
+Candidate status recorded at this milestone:
+
+- **E-P04 Incentive Rewire — Strong Candidate**
+- **E-P03 Alternative Evidence → Formal Access — Strong Candidate**
+- **B-P05 Distributed Evidence Mosaic — Priority Candidate**
+- **E-P05 Infrastructure / Asset → Operational Function — Strong Candidate**
+- **H-P01 Language Form Embodies Function — Priority Candidate**
+
+Source: [MILESTONES.md](MILESTONES.md). This is the latest recorded research
+checkpoint, not a claim of new research on the date a status page is edited.
+<!-- R1_STATUS:END -->
 
 ## R1 — Foundation taxonomy
 
@@ -28,9 +46,11 @@
 - [ ] Normalize the original 18 anchor cases plus the early negative set to the same prior-art scale
 - [ ] Expand ordinary / low-gain / mechanism-valid-but-execution-failed evidence
 - [ ] Fill final regional and domain gaps
-- [ ] Begin representative Actual Take / A-B pressure tests
+- [ ] Begin 2–3 representative Actual Take / A-B pressure tests
+- [ ] Complete the next ~180-case Mechanism Tree Delta
+- [ ] Complete the 200-case Coverage Map and 3–5 final R1 synthesis maps
 
-### Current primitive promotions
+### Candidate evidence at the recorded checkpoint
 
 - **B-P05 Distributed Evidence Mosaic → Priority Candidate**
   - now supported by telecom, music-data and search-culture anchors
@@ -48,7 +68,7 @@
 - **E-P03 Alternative Evidence → Formal Access → Strong Candidate**
   - cross-domain anchors now include financial access and civic/service access
 
-### R1 remaining 47-case steering
+### R1 closure steering
 
 1. Latin America + South / Southeast Asia;
 2. non-English long-form copy, titles and dialogue;
