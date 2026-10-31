@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "started_at_utc": "2026-10-31T05:39:03.905487+00:00",
+  "started_at_utc": "2026-10-31T12:26:57.083197+00:00",
   "upstream_repo": "adsorgcn/WorkBuddy",
   "upstream_tag": "v2.3.15",
   "upstream_commit": "6efcffe70211080a18d4155c9f6739663b61a4b0",
@@ -16,87 +16,87 @@
     "UTC",
     "UTC"
   ],
-  "github_run_id": "41173434383",
+  "github_run_id": "41201139060",
   "github_run_attempt": "1",
-  "collector_commit": "3c9784750c5464349ba09efbc81fd6f18443a138",
+  "collector_commit": "b861b6e1606a568b6038ba80b969b4325dc5d049",
   "status": "partial",
   "configured_sources": 84,
   "disabled_sources": 0,
   "attempted_sources": 84,
   "source_records": 84,
-  "sources_with_items": 82,
+  "sources_with_items": 80,
   "sources_empty_or_unparsed": 1,
-  "failed_sources": 1,
+  "failed_sources": 3,
   "source_status_counts": {
-    "items": 82,
+    "items": 80,
     "empty_or_unparsed": 1,
-    "fetch_error": 1,
+    "fetch_error": 3,
     "parse_error": 0,
     "config_error": 0,
     "collector_error": 0
   },
-  "item_count": 650,
+  "item_count": 634,
   "item_count_is_unique": false,
   "source_results": [
     {
       "source": "AIHOT 热点Top10",
       "status": "items",
       "item_count": 8,
-      "note": "2.2s"
+      "note": "0.8s"
     },
     {
       "source": "AIHOT 精选流",
       "status": "items",
       "item_count": 8,
-      "note": "3.1s"
+      "note": "1.1s"
     },
     {
       "source": "量子位",
       "status": "items",
       "item_count": 8,
-      "note": "1.5s"
+      "note": "1.6s"
     },
     {
       "source": "InfoQ 中文",
       "status": "items",
       "item_count": 8,
-      "note": "1.5s"
+      "note": "1.7s"
     },
     {
       "source": "橘鸦AI早报",
       "status": "empty_or_unparsed",
       "item_count": 0,
-      "note": "0.2s"
+      "note": "0.1s"
     },
     {
       "source": "Readhub",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.6s"
     },
     {
       "source": "阮一峰周刊",
       "status": "items",
       "item_count": 3,
-      "note": "0.4s"
+      "note": "0.1s"
     },
     {
       "source": "知乎热榜",
       "status": "items",
       "item_count": 8,
-      "note": "1.3s"
+      "note": "1.2s"
     },
     {
       "source": "百度热搜",
       "status": "items",
       "item_count": 8,
-      "note": "2.3s"
+      "note": "4.8s"
     },
     {
       "source": "百度热搜直连",
       "status": "items",
       "item_count": 8,
-      "note": "2.0s"
+      "note": "5.6s"
     },
     {
       "source": "B站热门",
@@ -108,37 +108,37 @@
       "source": "头条热榜",
       "status": "items",
       "item_count": 8,
-      "note": "1.5s"
+      "note": "0.9s"
     },
     {
       "source": "澎湃热榜",
-      "status": "items",
-      "item_count": 8,
-      "note": "1.7s"
+      "status": "fetch_error",
+      "item_count": 0,
+      "note": "打不开 TimeoutError"
     },
     {
       "source": "贴吧热议",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.8s"
     },
     {
       "source": "参考消息",
       "status": "items",
       "item_count": 8,
-      "note": "3.1s"
+      "note": "3.3s"
     },
     {
       "source": "NewsNow 微博",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.5s"
     },
     {
       "source": "NewsNow 抖音",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.5s"
     },
     {
       "source": "NewsNow 掘金",
@@ -162,91 +162,91 @@
       "source": "金十快讯",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.1s"
     },
     {
       "source": "36氪快讯",
       "status": "items",
       "item_count": 8,
-      "note": "1.6s"
+      "note": "1.8s"
     },
     {
       "source": "IT之家",
       "status": "items",
       "item_count": 8,
-      "note": "4.6s"
+      "note": "5.7s"
     },
     {
       "source": "钛媒体",
       "status": "items",
       "item_count": 8,
-      "note": "3.5s"
+      "note": "4.8s"
     },
     {
       "source": "华尔街见闻快讯",
       "status": "items",
       "item_count": 8,
-      "note": "0.7s"
+      "note": "0.8s"
     },
     {
       "source": "新浪科技",
       "status": "items",
       "item_count": 8,
-      "note": "2.3s"
+      "note": "2.0s"
     },
     {
       "source": "爱范儿",
       "status": "items",
       "item_count": 8,
-      "note": "1.3s"
+      "note": "1.5s"
     },
     {
       "source": "极客公园",
       "status": "items",
       "item_count": 8,
-      "note": "8.5s"
+      "note": "2.9s"
     },
     {
       "source": "雷峰网",
       "status": "items",
       "item_count": 8,
-      "note": "6.9s"
+      "note": "23.8s"
     },
     {
       "source": "cnBeta",
-      "status": "items",
-      "item_count": 8,
-      "note": "4.1s"
+      "status": "fetch_error",
+      "item_count": 0,
+      "note": "打不开 TimeoutError"
     },
     {
       "source": "Solidot",
       "status": "items",
       "item_count": 8,
-      "note": "1.3s"
+      "note": "1.6s"
     },
     {
       "source": "开源中国",
       "status": "items",
       "item_count": 8,
-      "note": "2.4s"
+      "note": "4.3s"
     },
     {
       "source": "少数派",
       "status": "items",
       "item_count": 8,
-      "note": "1.2s"
+      "note": "1.4s"
     },
     {
       "source": "人人都是产品经理",
       "status": "items",
       "item_count": 8,
-      "note": "1.9s"
+      "note": "1.8s"
     },
     {
       "source": "小众软件",
       "status": "items",
       "item_count": 8,
-      "note": "2.1s"
+      "note": "1.7s"
     },
     {
       "source": "V2EX 热门",
@@ -258,13 +258,13 @@
       "source": "HelloGitHub",
       "status": "items",
       "item_count": 8,
-      "note": "1.3s"
+      "note": "1.7s"
     },
     {
       "source": "HN 中文",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.1s"
     },
     {
       "source": "Product Hunt 中文",
@@ -276,31 +276,31 @@
       "source": "BestBlogs",
       "status": "items",
       "item_count": 8,
-      "note": "0.5s"
+      "note": "0.7s"
     },
     {
       "source": "NewsNow 联合早报",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 酷安",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow MKTNews 快讯",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 懂球帝",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 卫星通讯社",
@@ -360,7 +360,7 @@
       "source": "MIT Technology Review",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.1s"
     },
     {
       "source": "BBC Technology",
@@ -384,19 +384,19 @@
       "source": "Lobsters",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.3s"
     },
     {
       "source": "Product Hunt",
       "status": "items",
       "item_count": 8,
-      "note": "0.1s"
+      "note": "0.0s"
     },
     {
       "source": "Google News AI（英文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.4s"
     },
     {
       "source": "VentureBeat AI",
@@ -420,79 +420,79 @@
       "source": "arXiv cs.AI",
       "status": "items",
       "item_count": 8,
-      "note": "0.2s"
+      "note": "0.0s"
     },
     {
       "source": "ITmedia AI+（日文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.8s"
     },
     {
       "source": "Yahoo Japan 热门（日文）",
       "status": "items",
       "item_count": 8,
-      "note": "0.8s"
+      "note": "1.0s"
     },
     {
       "source": "NHK 主要（日文）",
       "status": "items",
       "item_count": 7,
-      "note": "0.6s"
+      "note": "0.7s"
     },
     {
       "source": "韩联社（英文）",
       "status": "items",
       "item_count": 8,
-      "note": "1.4s"
+      "note": "1.7s"
     },
     {
       "source": "Google Trends 美国",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.2s"
     },
     {
       "source": "Google Trends 英国",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.2s"
     },
     {
       "source": "Google Trends 新加坡",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.2s"
     },
     {
       "source": "Google Trends 日本",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.2s"
     },
     {
       "source": "Google Trends 韩国",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.1s"
     },
     {
       "source": "Google Trends 台湾",
       "status": "items",
       "item_count": 8,
-      "note": "0.6s"
+      "note": "0.5s"
     },
     {
       "source": "Google Trends 香港",
       "status": "items",
       "item_count": 8,
-      "note": "0.5s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 牛客",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.5s"
     },
     {
       "source": "NewsNow 凤凰网",
@@ -504,7 +504,7 @@
       "source": "NewsNow 虫部落 最新",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 豆瓣",
@@ -516,7 +516,7 @@
       "source": "NewsNow Steam",
       "status": "items",
       "item_count": 8,
-      "note": "0.4s"
+      "note": "0.3s"
     },
     {
       "source": "NewsNow 腾讯新闻 综合早报",
@@ -528,7 +528,7 @@
       "source": "NewsNow Freebuf",
       "status": "items",
       "item_count": 8,
-      "note": "0.3s"
+      "note": "0.4s"
     },
     {
       "source": "NewsNow 腾讯视频 热搜榜",
@@ -543,6 +543,6 @@
       "note": "0.3s"
     }
   ],
-  "collected_at_utc": "2026-10-31T05:39:16.499321+00:00",
-  "duration_seconds": 12.594
+  "collected_at_utc": "2026-10-31T12:27:26.080306+00:00",
+  "duration_seconds": 28.997
 }
