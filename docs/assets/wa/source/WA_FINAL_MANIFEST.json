@@ -1,0 +1,66 @@
+{
+  "package": "KJ_WORLD_SYNTHESIS_WA_EXTENSION_v0.1_RC1",
+  "count": 7,
+  "parent": "KJ_WORLD_SYNTHESIS_RUNTIME_v0.1.3_COMPLETE_STANDALONE_RC4",
+  "topology_policy": "NO_NEW_WS_SYMBOLS",
+  "entry": "WORLD_VALIDATED",
+  "exit": "ASSET_READY_WORLD",
+  "symbols": [
+    {
+      "id": "WA-01",
+      "title": "世界→资产桥接符",
+      "english": "WORLD → ASSET BRIDGE SYMBOL",
+      "file": "WA-01.png",
+      "sha256": "0cb08f24952bce68e4d0f2e4bbd59004814b8bd20b302fdfdf54204c9c57d8f9",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-02",
+      "title": "世界视觉法典符",
+      "english": "WORLD VISUAL BIBLE SYMBOL",
+      "file": "WA-02.png",
+      "sha256": "d8ca67f98bfca68e4a927e84e54fd161742f21c59babe4a0fa049ea0d0dae894",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-03",
+      "title": "世界生活投影符",
+      "english": "WORLD LIFE PROJECTION SYMBOL",
+      "file": "WA-03.png",
+      "sha256": "1e3d256eba622a5652a29f88a6ed99f44df0e7205068ba23dcf0794ea6490432",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-04",
+      "title": "空间资产化符",
+      "english": "SPATIAL ASSETIZATION SYMBOL",
+      "file": "WA-04.png",
+      "sha256": "7630f687fbecb2555d97d38d860f370d0c2ba7d4a9c4fb7fe1f2465e27dbb557",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-05",
+      "title": "场景进入路径符",
+      "english": "SCENE ENTRY PATH SYMBOL",
+      "file": "WA-05.png",
+      "sha256": "f11541a6c10d49e91c3813e235db82f4da982f60faf946a53e62483767b0ecdb",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-06",
+      "title": "设定效用门符",
+      "english": "LORE UTILITY GATE SYMBOL",
+      "file": "WA-06.png",
+      "sha256": "7d254d86dc72be8ef2a35f307bf7a507e65c95116d557034f47f8a44c8c89999",
+      "status": "FINAL_CANON"
+    },
+    {
+      "id": "WA-07",
+      "title": "世界资产一致性审计符",
+      "english": "WORLD ASSET CONSISTENCY AUDIT SYMBOL",
+      "file": "WA-07.png",
+      "sha256": "364e9563031110aca72c057d75e59e1644c81529d099bce631d13788f249fd7a",
+      "status": "FINAL_CANON"
+    }
+  ]
+}
