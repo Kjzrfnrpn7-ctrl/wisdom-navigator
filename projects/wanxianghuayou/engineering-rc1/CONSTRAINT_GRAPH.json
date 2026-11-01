@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    "NATURE",
+    "ENERGY",
+    "LINGWEN",
+    "QUOTA",
+    "DEVICE",
+    "REGION",
+    "AGREEMENT",
+    "WANXIANGSI",
+    "SPIRIT",
+    "SAFETY",
+    "BUDGET",
+    "EPISODE_STATE"
+  ],
+  "edges": [
+    [
+      "NATURE",
+      "ENERGY",
+      "available natural input"
+    ],
+    [
+      "ENERGY",
+      "LINGWEN",
+      "conversion with losses"
+    ],
+    [
+      "QUOTA",
+      "DEVICE",
+      "permission not energy"
+    ],
+    [
+      "DEVICE",
+      "LINGWEN",
+      "operational precondition"
+    ],
+    [
+      "WANXIANGSI",
+      "AGREEMENT",
+      "authority constrained by"
+    ],
+    [
+      "AGREEMENT",
+      "REGION",
+      "scope of jurisdiction"
+    ],
+    [
+      "SPIRIT",
+      "ENERGY",
+      "ability requires resource/cost"
+    ],
+    [
+      "BUDGET",
+      "SAFETY",
+      "protected reserves cannot be diverted"
+    ],
+    [
+      "LINGWEN",
+      "EPISODE_STATE",
+      "incident leaves persistent consequence"
+    ]
+  ],
+  "invariants": [
+    "Quota cannot replace energy",
+    "No unrestricted cross-region authority",
+    "No spontaneous omnipotence",
+    "Protected safety resources remain protected",
+    "Consequences persist"
+  ],
+  "unverified": [
+    "具体能量损耗率",
+    "地域协议条款",
+    "灵兽能力数值",
+    "完整网络拓扑",
+    "撤离容量与维修时长"
+  ],
+  "status": "STRUCTURED_NOT_EXECUTED"
+}
