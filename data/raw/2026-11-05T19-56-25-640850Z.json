@@ -1,0 +1,5027 @@
+[
+ {
+  "source": "AIHOT 热点Top10",
+  "source_url": "https://aihot.news/api/v1/hot-topics",
+  "source_type": "json",
+  "group": "AI",
+  "platform": "aihot",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.4s",
+  "elapsed_seconds": 1.36,
+  "items": [
+   {
+    "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
+    "url": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
+    "url": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
+    "url": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "X：Tibo (@thsottiaux)",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "腾讯混元 Hy4 正式发布，首增视觉与电脑操作",
+    "url": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "公众号：腾讯混元",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "OpenAI宣布收购Pierre，工具将并入Codex",
+    "url": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "AIHOT 精选流",
+  "source_url": "https://aihot.news/feed.xml",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "aihot",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.1s",
+  "elapsed_seconds": 1.097,
+  "items": [
+   {
+    "title": "美国中期选举蓝潮冲击 AI 行业，44 项数据中心暂停提案中 43 项通过",
+    "url": "https://aihot.news/items/vkfrtci1ufbtbydsqersys6lx",
+    "time": "11-05 17:51",
+    "raw_time": "Thu, 05 Nov 2026 17:51:52 GMT"
+   },
+   {
+    "title": "Perplexity 推出 Teammates 智能体，面向 Max 订阅用户开放",
+    "url": "https://aihot.news/items/wkgcal7l9pkj3g7w8ohlp3c45",
+    "time": "11-05 17:05",
+    "raw_time": "Thu, 05 Nov 2026 17:05:47 GMT"
+   },
+   {
+    "title": "Google 发布 Gemini Omni 1.2 Flash：15 秒视频生成，降价 30% 至 $0.07/秒",
+    "url": "https://aihot.news/items/yjwroxww17lcg4ntcu9ruo105",
+    "time": "11-05 17:00",
+    "raw_time": "Thu, 05 Nov 2026 17:00:00 GMT"
+   },
+   {
+    "title": "Reflection 详解开源模型 Beam 的安全训练与评估方法",
+    "url": "https://aihot.news/items/mpv0jfejdzdm2336jgtyj9tde",
+    "time": "11-05 17:00",
+    "raw_time": "Thu, 05 Nov 2026 17:00:00 GMT"
+   },
+   {
+    "title": "Mustafa Suleyman 对特拉华允许 AI 智能体经营企业的提案表示担忧",
+    "url": "https://aihot.news/items/kl8ufrhv3zm38108gy2d7mins",
+    "time": "11-05 16:33",
+    "raw_time": "Thu, 05 Nov 2026 16:33:21 GMT"
+   },
+   {
+    "title": "a16z：漏洞利用曾是瓶颈，AI 让攻击成本从数月降到数小时",
+    "url": "https://aihot.news/items/t5j6ucy3ao84zrwoz2yf2ovra",
+    "time": "11-05 15:01",
+    "raw_time": "Thu, 05 Nov 2026 15:01:00 GMT"
+   },
+   {
+    "title": "腾讯混元感谢 Artificial Analysis 对 Hy4 的评测，模型获 Intelligence Index v5 35 分",
+    "url": "https://aihot.news/items/fj4zi12biz0b62ckhzg5awcxx",
+    "time": "11-05 10:23",
+    "raw_time": "Thu, 05 Nov 2026 10:23:42 GMT"
+   },
+   {
+    "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
+    "url": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
+    "time": "11-05 09:00",
+    "raw_time": "Thu, 05 Nov 2026 09:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "source": "量子位",
+  "source_url": "https://www.qbitai.com/feed",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "qbitai",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.9s",
+  "elapsed_seconds": 1.917,
+  "items": [
+   {
+    "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+    "url": "https://www.qbitai.com/2026/11/507787.html",
+    "time": "11-05 07:15",
+    "raw_time": "Thu, 05 Nov 2026 07:15:13 +0000"
+   },
+   {
+    "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+    "url": "https://www.qbitai.com/2026/11/507782.html",
+    "time": "11-05 07:10",
+    "raw_time": "Thu, 05 Nov 2026 07:10:56 +0000"
+   },
+   {
+    "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+    "url": "https://www.qbitai.com/2026/11/507767.html",
+    "time": "11-05 05:25",
+    "raw_time": "Thu, 05 Nov 2026 05:25:37 +0000"
+   },
+   {
+    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+    "url": "https://www.qbitai.com/2026/11/507696.html",
+    "time": "11-05 02:01",
+    "raw_time": "Thu, 05 Nov 2026 02:01:51 +0000"
+   },
+   {
+    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+    "url": "https://www.qbitai.com/2026/11/507707.html",
+    "time": "11-05 01:59",
+    "raw_time": "Thu, 05 Nov 2026 01:59:37 +0000"
+   },
+   {
+    "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+    "url": "https://www.qbitai.com/2026/11/507697.html",
+    "time": "11-05 01:54",
+    "raw_time": "Thu, 05 Nov 2026 01:54:44 +0000"
+   },
+   {
+    "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+    "url": "https://www.qbitai.com/2026/11/507688.html",
+    "time": "11-05 01:42",
+    "raw_time": "Thu, 05 Nov 2026 01:42:43 +0000"
+   },
+   {
+    "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+    "url": "https://www.qbitai.com/2026/11/507675.html",
+    "time": "11-05 00:41",
+    "raw_time": "Thu, 05 Nov 2026 00:41:34 +0000"
+   }
+  ]
+ },
+ {
+  "source": "InfoQ 中文",
+  "source_url": "https://www.infoq.cn/feed",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "infoq",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.7s",
+  "elapsed_seconds": 1.698,
+  "items": [
+   {
+    "title": "模型之外，腾讯还在补什么？",
+    "url": "https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&utm_medium=article",
+    "time": "11-05 19:13",
+    "raw_time": "Thu, 05 Nov 2026 19:13:00 GMT"
+   },
+   {
+    "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
+    "url": "https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&utm_medium=article",
+    "time": "11-05 17:06",
+    "raw_time": "Thu, 05 Nov 2026 17:06:00 GMT"
+   },
+   {
+    "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+    "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article",
+    "time": "11-05 16:53",
+    "raw_time": "Thu, 05 Nov 2026 16:53:21 GMT"
+   },
+   {
+    "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
+    "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article",
+    "time": "11-05 15:19",
+    "raw_time": "Thu, 05 Nov 2026 15:19:00 GMT"
+   },
+   {
+    "title": "视频生成只是开始，AI 如何把内容做对？",
+    "url": "https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article",
+    "time": "11-05 13:54",
+    "raw_time": "Thu, 05 Nov 2026 13:54:21 GMT"
+   },
+   {
+    "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
+    "url": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
+    "time": "11-05 13:00",
+    "raw_time": "Thu, 05 Nov 2026 13:00:00 GMT"
+   },
+   {
+    "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+    "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article",
+    "time": "11-05 11:00",
+    "raw_time": "Thu, 05 Nov 2026 11:00:00 GMT"
+   },
+   {
+    "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+    "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+    "time": "11-05 10:00",
+    "raw_time": "Thu, 05 Nov 2026 10:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "source": "橘鸦AI早报",
+  "source_url": "https://daily.juya.uk/rss.xml",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "juya",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "empty_or_unparsed",
+  "note": "0.3s",
+  "elapsed_seconds": 0.269,
+  "items": []
+ },
+ {
+  "source": "Readhub",
+  "source_url": "https://api.readhub.cn/topic/list?page=1&size=20",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "readhub",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.8s",
+  "elapsed_seconds": 1.844,
+  "items": [
+   {
+    "title": "标普500指数跌幅扩大至4%，纳斯达克100指数跌6%",
+    "url": "",
+    "time": "11-05 19:32",
+    "raw_time": "2026-11-05T19:32:30.219Z"
+   },
+   {
+    "title": "标普 500 指数跌幅扩大至 4%，纳斯达克 100 指数跌 6%，道指跌 3.1%，纳指跌 5.3%，半导体指数跌 11%。 美元兑日元跌 0.5%。 美国 2-5 年期国债收益率跌 10 个基点。",
+    "url": "https://wallstreetcn.com/livenews/3195294",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "标普 500 指数跌 1.2%，纳斯达克 100 指数跌 3%，费城半导体指数一度跌超 6%。芯片股下跌带来避险需求，美国 10 年期国债价格短线反弹，其收益率则短线跳水，日内整体转跌...",
+    "url": "https://wallstreetcn.com/livenews/3195193",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美国 10 年期国债收益率跌超 3 个基点，逼近 4.85% 和北京时间 11:46 刷新的日低 4.8347%，22:29 刷新日高至 4.9168% 以来显著跳水，芯片股被抛售，让投资者寻求避险。 现货...",
+    "url": "https://wallstreetcn.com/livenews/3195212",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Meta 将不再用水果来命名 AI 模型",
+    "url": "",
+    "time": "11-05 19:25",
+    "raw_time": "2026-11-05T19:25:54.305Z"
+   },
+   {
+    "title": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型",
+    "url": "https://www.ithome.com/1/022/963.htm",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "特斯拉股价跌幅扩大至 10%，SpaceX 跌 7.5%",
+    "url": "",
+    "time": "11-05 19:14",
+    "raw_time": "2026-11-05T19:14:04.439Z"
+   },
+   {
+    "title": "马斯克相关股票大跌，特斯拉跌超 9%，SpaceX 跌超 6%",
+    "url": "https://www.theblockbeats.info/flash/375772",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "阮一峰周刊",
+  "source_url": "https://www.ruanyifeng.com/blog/atom.xml",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "ruanyifeng",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.385,
+  "items": [
+   {
+    "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+    "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+    "time": "11-05 07:00",
+    "raw_time": "2026-11-05T07:00:22Z"
+   },
+   {
+    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+    "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+    "time": "11-04 02:51",
+    "raw_time": "2026-11-04T02:51:45Z"
+   },
+   {
+    "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
+    "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
+    "time": "10-29 11:58",
+    "raw_time": "2026-10-29T11:58:00Z"
+   }
+  ]
+ },
+ {
+  "source": "知乎热榜",
+  "source_url": "https://api.zhihu.com/topstory/hot-lists/total?limit=20",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "zhihu",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.2s",
+  "elapsed_seconds": 1.194,
+  "items": [
+   {
+    "title": "C罗官宣从葡萄牙国家队正式退役，如何评价此事，他为何会选择在此时退役？",
+    "url": "https://api.zhihu.com/questions/2101742566919992358",
+    "time": "11-05 10:27",
+    "raw_time": "1793874476"
+   },
+   {
+    "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规？",
+    "url": "https://api.zhihu.com/questions/2101612544959969091",
+    "time": "11-05 01:51",
+    "raw_time": "1793843476"
+   },
+   {
+    "title": "反中乱港分子黄之锋再判 10 年，哪些信息值得关注？带来哪些警示？",
+    "url": "https://api.zhihu.com/questions/2101651157710128349",
+    "time": "11-05 04:24",
+    "raw_time": "1793852682"
+   },
+   {
+    "title": "如何看待北京交通大学官方表态，雄安校区已被明确为学校的唯一主校区？",
+    "url": "https://api.zhihu.com/questions/2101691958401971142",
+    "time": "11-05 07:06",
+    "raw_time": "1793862410"
+   },
+   {
+    "title": "2027 年放假安排出炉，9 天春节假期回归，成近年调休天数最少年份，你有哪些期待？假期准备做什么？",
+    "url": "https://api.zhihu.com/questions/2101722006861385895",
+    "time": "11-05 09:06",
+    "raw_time": "1793869574"
+   },
+   {
+    "title": "张雪自掏 30 万给公司首席发动机工程师买房，要求只能写员工自己名字，如何看待这一举措？",
+    "url": "https://api.zhihu.com/questions/2101708093352682023",
+    "time": "11-05 08:10",
+    "raw_time": "1793866257"
+   },
+   {
+    "title": "患者被三甲医院医生推荐去三乙医院，花费2万多元又被告知治不了只退四千元，这是什么套路？暴露出什么问题？",
+    "url": "https://api.zhihu.com/questions/2101364650180700119",
+    "time": "11-04 09:26",
+    "raw_time": "1793784374"
+   },
+   {
+    "title": "如何评价央视认证原神六年长红？",
+    "url": "https://api.zhihu.com/questions/2100082789764821227",
+    "time": "10-31 20:32",
+    "raw_time": "1793478754"
+   }
+  ]
+ },
+ {
+  "source": "百度热搜",
+  "source_url": "https://top.baidu.com/api/board?platform=wise&tab=realtime",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "baidu",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "3.0s",
+  "elapsed_seconds": 2.973,
+  "items": [
+   {
+    "title": "相约“四叶草” 共享中国机遇",
+    "url": "https://m.baidu.com/s?word=%E7%9B%B8%E7%BA%A6%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D+%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "参保人数减少8300万？医保局回应",
+    "url": "https://m.baidu.com/s?word=%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%918300%E4%B8%87%EF%BC%9F%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "德国籍中医想将墓碑药方抄录带回",
+    "url": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E7%B1%8D%E4%B8%AD%E5%8C%BB%E6%83%B3%E5%B0%86%E5%A2%93%E7%A2%91%E8%8D%AF%E6%96%B9%E6%8A%84%E5%BD%95%E5%B8%A6%E5%9B%9E&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "6G有啥不一样",
+    "url": "https://m.baidu.com/s?word=6G%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "2027年假期安排出炉 春节连休9天",
+    "url": "https://m.baidu.com/s?word=2027%E5%B9%B4%E5%81%87%E6%9C%9F%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89+%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "特斯拉暴跌超10% SpaceX跌超7%",
+    "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "普京签令：俄方临时接管日本4座工厂",
+    "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC4%E5%BA%A7%E5%B7%A5%E5%8E%82&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "大众中国发布声明",
+    "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "百度热搜直连",
+  "source_url": "https://top.baidu.com/board?tab=realtime",
+  "source_type": "sdata",
+  "group": "热榜",
+  "platform": "baidu",
+  "lang": "zh",
+  "fallback_for": "百度热搜",
+  "status": "items",
+  "note": "3.4s",
+  "elapsed_seconds": 3.371,
+  "items": [
+   {
+    "title": "相约“四叶草” 共享中国机遇",
+    "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E7%BA%A6%E2%80%9C%E5%9B%9B%E5%8F%B6%E8%8D%89%E2%80%9D+%E5%85%B1%E4%BA%AB%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "参保人数减少8300万？医保局回应",
+    "url": "https://www.baidu.com/s?wd=%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%918300%E4%B8%87%EF%BC%9F%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "德国籍中医想将墓碑药方抄录带回",
+    "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E7%B1%8D%E4%B8%AD%E5%8C%BB%E6%83%B3%E5%B0%86%E5%A2%93%E7%A2%91%E8%8D%AF%E6%96%B9%E6%8A%84%E5%BD%95%E5%B8%A6%E5%9B%9E&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "6G有啥不一样",
+    "url": "https://www.baidu.com/s?wd=6G%E6%9C%89%E5%95%A5%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "2027年假期安排出炉 春节连休9天",
+    "url": "https://www.baidu.com/s?wd=2027%E5%B9%B4%E5%81%87%E6%9C%9F%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89+%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "特斯拉暴跌超10% SpaceX跌超7%",
+    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "普京签令：俄方临时接管日本4座工厂",
+    "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC4%E5%BA%A7%E5%B7%A5%E5%8E%82&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "大众中国发布声明",
+    "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news&rsv_dl=fyb_news",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "B站热门",
+  "source_url": "https://api.bilibili.com/x/web-interface/popular?ps=20&pn=1",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "bilibili",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.5s",
+  "elapsed_seconds": 0.543,
+  "items": [
+   {
+    "title": "物理意义上烫烫的一集",
+    "url": "https://b23.tv/BV1mpxR6KESh",
+    "time": "11-05 04:00",
+    "raw_time": "1793851200"
+   },
+   {
+    "title": "吴磊LEO",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "瞎说的什么玩意？",
+    "url": "https://b23.tv/BV1ZVxf6ZENs",
+    "time": "11-05 09:30",
+    "raw_time": "1793871000"
+   },
+   {
+    "title": "小潮院长",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "《崩坏：因缘精灵》幸福PV：缘汽一下",
+    "url": "https://b23.tv/BV1nm4g6NE71",
+    "time": "11-05 04:00",
+    "raw_time": "1793851200"
+   },
+   {
+    "title": "崩坏因缘精灵",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "【纪录片】人生一串 第四季 01 同道中人",
+    "url": "https://b23.tv/BV1KBxS6DEuc",
+    "time": "11-05 03:00",
+    "raw_time": "1793847602"
+   },
+   {
+    "title": "哔哩哔哩纪录片",
+    "url": "",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "头条热榜",
+  "source_url": "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "toutiao",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.0s",
+  "elapsed_seconds": 1.035,
+  "items": [
+   {
+    "title": "参保人数减少8300万？医保局回应",
+    "url": "https://www.toutiao.com/trending/7704612422140641843/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704612422140641843%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E5%87%8F%E5%B0%918300%E4%B8%87%EF%BC%9F%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%22%7D&rank=&style_id=40132&topic_id=7704612422140641843",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "普京签令临时接管日本烟草在俄工厂",
+    "url": "https://www.toutiao.com/trending/7704680493241090611/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704680493241090611%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC%E7%83%9F%E8%8D%89%E5%9C%A8%E4%BF%84%E5%B7%A5%E5%8E%82%22%7D&rank=&style_id=40132&topic_id=7704680493241090611",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "世界互联网大会乌镇峰会今天闭幕",
+    "url": "https://www.toutiao.com/article/7704594856781365770",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "阔直板手机为什么火了",
+    "url": "https://www.toutiao.com/trending/7704647901628075561/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704647901628075561%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7704647901628075561",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "独生子女不一定能继承父母全部遗产",
+    "url": "https://www.toutiao.com/trending/7704091975108018195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704091975108018195%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7704091975108018195",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "北京中小学将全部取消外送餐",
+    "url": "https://www.toutiao.com/trending/7704519295295933987/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704519295295933987%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E5%85%A8%E9%83%A8%E5%8F%96%E6%B6%88%E5%A4%96%E9%80%81%E9%A4%90%22%7D&rank=&style_id=40132&topic_id=7704519295295933987",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "春节连休9天",
+    "url": "https://www.toutiao.com/trending/7704173233691901978/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704173233691901978%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9%22%7D&rank=&style_id=40132&topic_id=7704173233691901978",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "C罗告别信全文",
+    "url": "https://www.toutiao.com/trending/7704645189847174694/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227704645189847174694%22%2C%22hot_board_impr_id%22%3A%22202611060356117B8CF4B4225257C0868B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22C%E7%BD%97%E5%91%8A%E5%88%AB%E4%BF%A1%E5%85%A8%E6%96%87%22%7D&rank=&style_id=40132&topic_id=7704645189847174694",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "澎湃热榜",
+  "source_url": "https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "thepaper",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "2.3s",
+  "elapsed_seconds": 2.271,
+  "items": [
+   {
+    "title": "进博会丨“在中国，为全球”成为共识",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34412275",
+    "time": "11-05 09:56",
+    "raw_time": "10小时前"
+   },
+   {
+    "title": "春节连休9天，仅3个节假日调休",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34413030",
+    "time": "11-05 10:56",
+    "raw_time": "9小时前"
+   },
+   {
+    "title": "伊朗安全官员向普京转达伊最高领袖讯息",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34417131",
+    "time": "11-05 19:17",
+    "raw_time": "39分钟前"
+   },
+   {
+    "title": "美国对古巴实施新一轮制裁",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34416720",
+    "time": "11-05 18:56",
+    "raw_time": "1小时前"
+   },
+   {
+    "title": "2027年放假安排出炉：调休减少，9天超长春节假期即将回归",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34412735",
+    "time": "11-05 09:56",
+    "raw_time": "10小时前"
+   },
+   {
+    "title": "检察机关依法对马兴瑞涉嫌受贿案提起公诉",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34410162",
+    "time": "11-05 02:56",
+    "raw_time": "17小时前"
+   },
+   {
+    "title": "拒绝和解只剩决裂，C罗退出葡萄牙队，真走还是耍小脾气？",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34414302",
+    "time": "11-05 12:56",
+    "raw_time": "7小时前"
+   },
+   {
+    "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34411188",
+    "time": "11-05 06:56",
+    "raw_time": "13小时前"
+   }
+  ]
+ },
+ {
+  "source": "贴吧热议",
+  "source_url": "https://tieba.baidu.com/hottopic/browse/topicList",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "tieba",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.6s",
+  "elapsed_seconds": 1.573,
+  "items": [
+   {
+    "title": "C罗宣布从葡萄牙国家队退役",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369241&topic_name=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "2027年放假调休天数减少",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369240&topic_name=2027%E5%B9%B4%E6%94%BE%E5%81%87%E8%B0%83%E4%BC%91%E5%A4%A9%E6%95%B0%E5%87%8F%E5%B0%91",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美国网友怒喷TheShy操作太混",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369253&topic_name=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E5%96%B7TheShy%E6%93%8D%E4%BD%9C%E5%A4%AA%E6%B7%B7",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "印度放话中国不给盾构机就自己造",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369266&topic_name=%E5%8D%B0%E5%BA%A6%E6%94%BE%E8%AF%9D%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%BB%99%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%B0%B1%E8%87%AA%E5%B7%B1%E9%80%A0",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "官方要求2030年剧集AI渗透超九成",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369262&topic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "网传Fayde将担任CN瓦AG主教练",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369259&topic_name=%E7%BD%91%E4%BC%A0Fayde%E5%B0%86%E6%8B%85%E4%BB%BBCN%E7%93%A6AG%E4%B8%BB%E6%95%99%E7%BB%83",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "加BUFF拳头毒奶超威",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369203&topic_name=%E5%8A%A0BUFF%E6%8B%B3%E5%A4%B4%E6%AF%92%E5%A5%B6%E8%B6%85%E5%A8%81",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "吧友用纸折出一座恐龙博物馆",
+    "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369218&topic_name=%E5%90%A7%E5%8F%8B%E7%94%A8%E7%BA%B8%E6%8A%98%E5%87%BA%E4%B8%80%E5%BA%A7%E6%81%90%E9%BE%99%E5%8D%9A%E7%89%A9%E9%A6%86",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "参考消息",
+  "source_url": "https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "cankaoxiaoxi",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "2.3s",
+  "elapsed_seconds": 2.281,
+  "items": [
+   {
+    "title": "台军备部门增建弹药生产线",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/4a22b0c239ad4a56a7828272468b245d.html",
+    "time": "11-05 17:25",
+    "raw_time": "2026-11-05 17:25:14"
+   },
+   {
+    "title": "台湾7所高校跻身QS亚洲百强",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/aea56fab6626470f9b20b2dda3eae7bb.html",
+    "time": "11-05 17:25",
+    "raw_time": "2026-11-05 17:25:14"
+   },
+   {
+    "title": "香港经济前三季增速创五年来新高",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/e405ace0003b4e1ea8983f41c13056c3.html",
+    "time": "11-05 17:25",
+    "raw_time": "2026-11-05 17:25:14"
+   },
+   {
+    "title": "台媒：台股跌破42000点，创7月31日以来低点",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/3be1c1e912aa4b0caea0a7a62ae4b232.html",
+    "time": "11-05 18:10",
+    "raw_time": "2026-11-05 18:10:29"
+   },
+   {
+    "title": "台媒感叹：当红果短剧“打败”ChatGPT",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/5494c5ec962440b4a31d02b7aaa55bcb.html",
+    "time": "11-05 09:58",
+    "raw_time": "2026-11-05 09:58:44"
+   },
+   {
+    "title": "世界市长相聚宁波探讨发展机遇",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/0041e8b788d641d7b26802e66c93b7b9.html",
+    "time": "11-05 10:49",
+    "raw_time": "2026-11-05 10:49:59"
+   },
+   {
+    "title": "新华社权威速览｜带你了解世界媒体峰会",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/f8d7f13e73e643c5b88b617af9336465.html",
+    "time": "11-05 11:04",
+    "raw_time": "2026-11-05 11:04:36"
+   },
+   {
+    "title": "新华社权威快报｜第七届世界媒体峰会将在北京举行",
+    "url": "https://ckxxapp.ckxx.net/pages/2026/11/05/3cdaaf0cd2c147108230cb4f8663ed6f.html",
+    "time": "11-05 10:57",
+    "raw_time": "2026-11-05 10:57:54"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 微博",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=weibo",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "weibo",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.7s",
+  "elapsed_seconds": 0.701,
+  "items": [
+   {
+    "title": "曝白小纯天早期天霸工资",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A4%A9%E6%97%A9%E6%9C%9F%E5%A4%A9%E9%9C%B8%E5%B7%A5%E8%B5%84%23&t=31&band_rank=2&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "我国秋粮收获已过9成",
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E5%B7%B2%E8%BF%879%E6%88%90%23&t=31&band_rank=3&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "王子璇手机是被收走的",
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E6%89%8B%E6%9C%BA%E6%98%AF%E8%A2%AB%E6%94%B6%E8%B5%B0%E7%9A%84%23&t=31&band_rank=4&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "孟子义说张萌美颜参数有点大",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%AF%B4%E5%BC%A0%E8%90%8C%E7%BE%8E%E9%A2%9C%E5%8F%82%E6%95%B0%E6%9C%89%E7%82%B9%E5%A4%A7%23&t=31&band_rank=5&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "黄渤因阿尔兹海默遗传风险恐惧多年",
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%A0%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E9%81%97%E4%BC%A0%E9%A3%8E%E9%99%A9%E6%81%90%E6%83%A7%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=6&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "官方回应居民医保参保人数下降",
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D%23&t=31&band_rank=7&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "纯稚矛盾本质是懂不懂",
+    "url": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%A8%9A%E7%9F%9B%E7%9B%BE%E6%9C%AC%E8%B4%A8%E6%98%AF%E6%87%82%E4%B8%8D%E6%87%82&t=31&band_rank=8&Refer=top",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "蔡天凤案法医披露烹煮头颅细节",
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%A4%A9%E5%87%A4%E6%A1%88%E6%B3%95%E5%8C%BB%E6%8A%AB%E9%9C%B2%E7%83%B9%E7%85%AE%E5%A4%B4%E9%A2%85%E7%BB%86%E8%8A%82%23&t=31&band_rank=9&Refer=top",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 抖音",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=douyin",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "douyin",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.415,
+  "items": [
+   {
+    "title": "WTT法兰克福王楚钦vs温瑞博",
+    "url": "https://www.douyin.com/hot/2731075",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "你怎么舍得让有趣的知识流走",
+    "url": "https://www.douyin.com/hot/2730337",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "第九届进博会开幕",
+    "url": "https://www.douyin.com/hot/2731525",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "路漫漫终有归处",
+    "url": "https://www.douyin.com/hot/2731078",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "一道热乎菜开启各地冬天",
+    "url": "https://www.douyin.com/hot/2728300",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "更适合年轻人的文玩配饰",
+    "url": "https://www.douyin.com/hot/2730555",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "常冰玉胜赵心童晋级国锦赛四强",
+    "url": "https://www.douyin.com/hot/2729992",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "日本考虑紧急情况下运进核武器",
+    "url": "https://www.douyin.com/hot/2731041",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 掘金",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=juejin",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "juejin",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.398,
+  "items": [
+   {
+    "title": "ValidX 正则表达式预编译优化：Pattern 复用策略",
+    "url": "https://juejin.cn/post/7703844942363918370",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "OpenTelemetry 生产实践：Skyscanner 24 集群管理经验与 Mastodon 小团队方案",
+    "url": "https://juejin.cn/post/7703861537010925603",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "JavaScript 模板字符串与标签模板：不只是拼接",
+    "url": "https://juejin.cn/post/7704455397478072355",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "2027 年最赚钱的 AI 创业方向",
+    "url": "https://juejin.cn/post/7704140653420888091",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "都问程序员双十一买什么，我的答案一定是这块专业编程显示器",
+    "url": "https://juejin.cn/post/7703563555132571648",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "腾讯混元 Hy4 正式版发布了",
+    "url": "https://juejin.cn/post/7704150793607462950",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "GitHub 上最值得装的 8 个 Agent Skill 仓库，亲测好用！",
+    "url": "https://juejin.cn/post/7703423062713516082",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Flutter Android 性能修复：8 个大核的手机，Raster 居然只跑在 2 个核上？",
+    "url": "https://juejin.cn/post/7703474285394657318",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 虎扑",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=hupu",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "hupu",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.37,
+  "items": [
+   {
+    "title": "蛮横的人确实可以长期占小便宜，但是只要碰到一次，你就得吃亏一辈子。",
+    "url": "https://bbs.hupu.com/643647825.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "张雪机车去重庆大学招聘年薪10-12万？",
+    "url": "https://bbs.hupu.com/643634050.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "张雪拿远低于均薪的预算去招聘，被批评了还要骂“是不是有病”，就是傲慢！",
+    "url": "https://bbs.hupu.com/643654106.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "真实经历 | 年薪12万招985被批“傲慢”，张雪怒怼媒体：“你是不是有病？”",
+    "url": "https://bbs.hupu.com/643640844.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "二选一怎么选",
+    "url": "https://bbs.hupu.com/643641848.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "年薪12万被批不尊重应届生！张雪怒怼:是不是有病？",
+    "url": "https://bbs.hupu.com/643646561.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "年薪10万美元的谷歌底层员工：吃住全免不用加班，真实工作量刷新认知",
+    "url": "https://bbs.hupu.com/643626487.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "谈了几个月，女友置顶和别人的酒店照片，想听听大家看法",
+    "url": "https://bbs.hupu.com/643666639.html",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 财联社热门",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=cls-hot",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "cls",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.387,
+  "items": [
+   {
+    "title": "覆铜板龙头工厂失火 或影响全球高端多层板约4%供给",
+    "url": "https://www.cls.cn/detail/2526080",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "利润率高达80%仍遭抛售 市场不再相信存储超级周期？",
+    "url": "https://www.cls.cn/detail/2526693",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "进博探“芯”：三星、SK海力士、英特尔、AMD等同台亮相 算力跳出“参数比拼”转向“可部署系统”",
+    "url": "https://www.cls.cn/detail/2526575",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
+    "url": "https://www.cls.cn/detail/2526694",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
+    "url": "https://www.cls.cn/detail/2526177",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "培育钻石年内再度提价 散热业务仍待放量 | 行业动态",
+    "url": "https://www.cls.cn/detail/2526213",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "一图看懂 | 黄金反弹站上4100美元，利多因素有哪些？",
+    "url": "https://www.cls.cn/detail/2526245",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "【焦点复盘】市场连续2日现放量普涨，算力租赁概念现久违大涨，煤炭石油板块逆势领跌",
+    "url": "https://www.cls.cn/detail/2526309",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "金十快讯",
+  "source_url": "https://www.jin10.com/flash_newest.js",
+  "source_type": "js",
+  "group": "财经",
+  "platform": "jin10",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.1s",
+  "elapsed_seconds": 1.072,
+  "items": [
+   {
+    "title": "据The Information：英伟达(NVDA.O)接洽阿波罗，拟将Brightspeed资产改造为AI数据中心。",
+    "url": "https://flash.jin10.com/detail/20261106035008777800",
+    "time": "11-06 03:50",
+    "raw_time": "2026-11-06 03:50:08"
+   },
+   {
+    "title": "U.S. and Brent crude futures briefly fell more than $0.60 per barrel.",
+    "url": "https://flash.jin10.com/detail/20261106034325751800",
+    "time": "11-06 03:43",
+    "raw_time": "2026-11-06 03:43:25"
+   },
+   {
+    "title": "美、布两油短线一度下挫逾0.6美元。",
+    "url": "https://flash.jin10.com/detail/20261106034321503800",
+    "time": "11-06 03:43",
+    "raw_time": "2026-11-06 03:43:21"
+   },
+   {
+    "title": "Brent crude futures settled at $98.29 a barrel, up $3.67, or 3.88%.",
+    "url": "https://flash.jin10.com/detail/20261106034251960800",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:51"
+   },
+   {
+    "title": "布伦特原油期货结算价为每桶98.29美元，上涨3.67美元，涨幅3.88%。",
+    "url": "https://flash.jin10.com/detail/20261106034246346800",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:46"
+   },
+   {
+    "title": "布伦特原油",
+    "url": "https://flash.jin10.com/detail/99494724",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:46"
+   },
+   {
+    "title": "Senior Iranian official says the U.S. is reviewing Iran's nuclear proposal.",
+    "url": "https://flash.jin10.com/detail/20261106034224863800",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:24"
+   },
+   {
+    "title": "伊朗高级官员：美国正在审议伊朗的核提案。",
+    "url": "https://flash.jin10.com/detail/20261106034219464800",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:19"
+   }
+  ]
+ },
+ {
+  "source": "36氪快讯",
+  "source_url": "https://www.36kr.com/newsflashes",
+  "source_type": "html",
+  "group": "财经",
+  "platform": "36kr",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "2.0s",
+  "elapsed_seconds": 1.998,
+  "items": [
+   {
+    "title": "热门中概股美股盘前普涨，阿里巴巴涨超5%",
+    "url": "https://www.36kr.com/newsflashes/4056864890590082",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美股大型科技股盘前涨跌不一，闪迪跌超6%",
+    "url": "https://www.36kr.com/newsflashes/4056860493681792",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "领益智造等在苏州成立创投合伙企业，出资额3501万",
+    "url": "https://www.36kr.com/newsflashes/4056836096152710",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "国轩高科：5%以上股东协议转让获合肥市国资委批复",
+    "url": "https://www.36kr.com/newsflashes/4056852611339394",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "中国连续17年稳居全球第二大进口国",
+    "url": "https://www.36kr.com/newsflashes/4056832726750340",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "AI数据中心需求蓬勃推动瑞典建筑商订单积压总额达2242亿元",
+    "url": "https://www.36kr.com/newsflashes/4056833516967047",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "智己LS8 NEO纯电正式上市，23.98万元起售",
+    "url": "https://www.36kr.com/newsflashes/4056838256366473",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "丰田设立机器人部门",
+    "url": "https://www.36kr.com/newsflashes/4056804543075202",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "IT之家",
+  "source_url": "https://www.ithome.com/rss/",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "ithome",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.6s",
+  "elapsed_seconds": 0.635,
+  "items": [
+   {
+    "title": "我国成功发射遥感五十一号 07-09 星，主要用于科学试验、电磁环境探测等领域",
+    "url": "https://www.ithome.com/1/023/028.htm",
+    "time": "11-05 18:39",
+    "raw_time": "Thu, 05 Nov 2026 18:39:04 GMT"
+   },
+   {
+    "title": "Epic 喜加一：《浮游世界》游戏免费领取",
+    "url": "https://www.ithome.com/1/023/023.htm",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 05 Nov 2026 16:00:08 GMT"
+   },
+   {
+    "title": "12499 元 / 15999 元起：苹果 M6 芯片款 iMac、MacBook Pro 开售",
+    "url": "https://www.ithome.com/1/023/022.htm",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 05 Nov 2026 16:00:02 GMT"
+   },
+   {
+    "title": "5499 元起：苹果 iPad mini 8 开售，A20 Pro 芯片（国补后到手价约 4999 元起）",
+    "url": "https://www.ithome.com/1/023/021.htm",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 05 Nov 2026 16:00:02 GMT"
+   },
+   {
+    "title": "22999 元起：苹果首款触屏 MacBook Pro 正式开售，可选 M5 Pro/M5 Max 芯片",
+    "url": "https://www.ithome.com/1/023/020.htm",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 05 Nov 2026 16:00:01 GMT"
+   },
+   {
+    "title": "荣耀 700 系列手机盲盒周边曝光：背屏设计确认，消息称标准版搭载骁龙 8s Gen4 处理器",
+    "url": "https://www.ithome.com/1/023/019.htm",
+    "time": "11-05 15:46",
+    "raw_time": "Thu, 05 Nov 2026 15:46:20 GMT"
+   },
+   {
+    "title": "One UI 9 系统更新导致部分 Galaxy 手机无法连接 Wi-Fi 或识别 SIM 卡，三星暂未回应",
+    "url": "https://www.ithome.com/1/023/018.htm",
+    "time": "11-05 15:33",
+    "raw_time": "Thu, 05 Nov 2026 15:33:41 GMT"
+   },
+   {
+    "title": "英伟达庆祝首款支持 CUDA 显卡 GeForce 8800 GTX 诞生 20 周年，同步推出纪念游戏带 PC 玩家重返 2006 年",
+    "url": "https://www.ithome.com/1/023/017.htm",
+    "time": "11-05 15:23",
+    "raw_time": "Thu, 05 Nov 2026 15:23:41 GMT"
+   }
+  ]
+ },
+ {
+  "source": "钛媒体",
+  "source_url": "https://www.tmtpost.com/rss.xml",
+  "source_type": "rss",
+  "group": "财经",
+  "platform": "tmtpost",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "2.5s",
+  "elapsed_seconds": 2.516,
+  "items": [
+   {
+    "title": "1亿卖“闲置”预增利5500万，康惠股份用存量资产换转型时间",
+    "url": "https://www.tmtpost.com/8195129.html",
+    "time": "11-05 14:05",
+    "raw_time": "Thu, 05 Nov 2026 22:05:17 +0800"
+   },
+   {
+    "title": "具身智能，变天了",
+    "url": "https://www.tmtpost.com/8194393.html",
+    "time": "11-05 10:31",
+    "raw_time": "Thu, 05 Nov 2026 18:31:01 +0800"
+   },
+   {
+    "title": "机器人，开始卷K12了",
+    "url": "https://www.tmtpost.com/8194643.html",
+    "time": "11-05 10:30",
+    "raw_time": "Thu, 05 Nov 2026 18:30:34 +0800"
+   },
+   {
+    "title": "AI安全背后的哲学思想，有效利他主义如何影响硅谷？（上篇）",
+    "url": "https://www.tmtpost.com/8194754.html",
+    "time": "11-05 10:30",
+    "raw_time": "Thu, 05 Nov 2026 18:30:32 +0800"
+   },
+   {
+    "title": "瑞幸这场仗，赢在少送几单，难在多卖一杯",
+    "url": "https://www.tmtpost.com/8194708.html",
+    "time": "11-05 10:30",
+    "raw_time": "Thu, 05 Nov 2026 18:30:30 +0800"
+   },
+   {
+    "title": "China’s Standalone Battery Boom Pays Equipment Makers First",
+    "url": "https://www.tmtpost.com/8195020.html",
+    "time": "11-05 10:12",
+    "raw_time": "Thu, 05 Nov 2026 18:12:05 +0800"
+   },
+   {
+    "title": "中国CXO的暗战，前移到了“种子轮”",
+    "url": "https://www.tmtpost.com/8194492.html",
+    "time": "11-05 10:02",
+    "raw_time": "Thu, 05 Nov 2026 18:02:25 +0800"
+   },
+   {
+    "title": "嘉加资本对话Normal Computing创始人：在硅谷，创始人只需做对三件事",
+    "url": "https://www.tmtpost.com/8194735.html",
+    "time": "11-05 10:02",
+    "raw_time": "Thu, 05 Nov 2026 18:02:22 +0800"
+   }
+  ]
+ },
+ {
+  "source": "华尔街见闻快讯",
+  "source_url": "https://api-one.wallstcn.com/apiv1/content/lives?channel=global-channel&limit=20",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "wallstreetcn",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "5.4s",
+  "elapsed_seconds": 5.361,
+  "items": [
+   {
+    "title": "布伦特原油日内涨4%，现报98.41美元/桶。",
+    "url": "",
+    "time": "11-05 19:33",
+    "raw_time": "1793907183"
+   },
+   {
+    "title": "美国国务卿鲁比奥考虑退出总统特朗普的政府，此前特朗普所属共和党在中期选举中败落。",
+    "url": "",
+    "time": "11-05 19:27",
+    "raw_time": "1793906856"
+   },
+   {
+    "title": "伊拉克总理与美国总统通电话，讨论地区局势",
+    "url": "",
+    "time": "11-05 19:26",
+    "raw_time": "1793906766"
+   },
+   {
+    "title": "斯泰兰蒂斯Stellantis NV延长安大略省温莎工厂停产期，称正评估“不断变化的市场状况”。（环球邮报Globe）",
+    "url": "",
+    "time": "11-05 19:25",
+    "raw_time": "1793906719"
+   },
+   {
+    "title": "摩根士丹利：股市回调已接近尾声。",
+    "url": "",
+    "time": "11-05 19:24",
+    "raw_time": "1793906689"
+   },
+   {
+    "title": "随着普京加大没收力度，俄罗斯接管日本烟草资产",
+    "url": "",
+    "time": "11-05 19:12",
+    "raw_time": "1793905920"
+   },
+   {
+    "title": "据媒体报道，美国总统特朗普的政府与伊朗讨论了遣返伊朗公民一事。",
+    "url": "",
+    "time": "11-05 19:05",
+    "raw_time": "1793905504"
+   },
+   {
+    "title": "一名沙特官员否认有关胡塞武装提出索赔及要求获得合法地位承认的报道，称相关内容毫无事实依据，并强调也门存在一个受到国际承认的政府。",
+    "url": "",
+    "time": "11-05 19:01",
+    "raw_time": "1793905300"
+   }
+  ]
+ },
+ {
+  "source": "新浪科技",
+  "source_url": "https://feed.mix.sina.com.cn/api/roll/get?pageid=372&lid=2431&num=20",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "sina",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "2.0s",
+  "elapsed_seconds": 1.992,
+  "items": [
+   {
+    "title": "微软对押注“新云”渐生悔意 加强审查部分数据中心项目",
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixtnvn9139462.shtml",
+    "time": "11-05 18:42",
+    "raw_time": "1793904177"
+   },
+   {
+    "title": "加速物理AI产业化 菜鸟向合作伙伴开放全球仓网",
+    "url": "https://finance.sina.com.cn/tech/it/2026-11-05/doc-inixtafu5952399.shtml",
+    "time": "11-05 13:25",
+    "raw_time": "1793885105"
+   },
+   {
+    "title": "直击进博会｜对话爱立信张永涛：要打造“为AI而建的最佳网络”，让AI从理念走向现实",
+    "url": "https://finance.sina.com.cn/roll/2026-11-05/doc-inixtafu5950983.shtml",
+    "time": "11-05 13:20",
+    "raw_time": "1793884858"
+   },
+   {
+    "title": "上汽与Momenta合作再深化，拟共建智驾合资公司",
+    "url": "https://finance.sina.com.cn/tech/it/2026-11-05/doc-inixsvxw6063869.shtml",
+    "time": "11-05 12:34",
+    "raw_time": "1793882073"
+   },
+   {
+    "title": "比亚迪第二代海豹07上市：首搭云辇-M智能磁流变车身控制系统，置换价13.59万元起",
+    "url": "https://finance.sina.com.cn/tech/it/2026-11-05/doc-inixsvxq5541563.shtml",
+    "time": "11-05 12:14",
+    "raw_time": "1793880883"
+   },
+   {
+    "title": "李斌对话李书福：达成充换电战略合作是双方深思熟虑的结果，存量竞争时代合作变得更重要",
+    "url": "https://finance.sina.com.cn/tech/it/2026-11-05/doc-inixsvxu9360802.shtml",
+    "time": "11-05 10:59",
+    "raw_time": "1793876342"
+   },
+   {
+    "title": "奥迪创新技术中心开业：聚焦驾驶辅助系统与AI智能座舱研发，2028年起四款全新车型将陆续投入中国市场",
+    "url": "https://finance.sina.com.cn/tech/it/2026-11-05/doc-inixsvxn8721818.shtml",
+    "time": "11-05 10:58",
+    "raw_time": "1793876330"
+   },
+   {
+    "title": "极智嘉RS Hyper攀爬机器人首秀，千平方米每小时吞吐6000箱",
+    "url": "https://finance.sina.com.cn/tob/2026-11-05/doc-inixsrrq8792885.shtml",
+    "time": "11-05 09:37",
+    "raw_time": "1793871463"
+   }
+  ]
+ },
+ {
+  "source": "爱范儿",
+  "source_url": "https://www.ifanr.com/feed",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "ifanr",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.5s",
+  "elapsed_seconds": 1.518,
+  "items": [
+   {
+    "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+    "url": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 14:00",
+    "raw_time": "Thu, 05 Nov 2026 14:00:13 +0000"
+   },
+   {
+    "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
+    "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 11:03",
+    "raw_time": "Thu, 05 Nov 2026 11:03:42 +0000"
+   },
+   {
+    "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+    "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 10:00",
+    "raw_time": "Thu, 05 Nov 2026 10:00:23 +0000"
+   },
+   {
+    "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
+    "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 09:13",
+    "raw_time": "Thu, 05 Nov 2026 09:13:13 +0000"
+   },
+   {
+    "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
+    "url": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 06:29",
+    "raw_time": "Thu, 05 Nov 2026 06:29:09 +0000"
+   },
+   {
+    "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+    "url": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 06:14",
+    "raw_time": "Thu, 05 Nov 2026 06:14:03 +0000"
+   },
+   {
+    "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+    "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-05 00:15",
+    "raw_time": "Thu, 05 Nov 2026 00:15:59 +0000"
+   },
+   {
+    "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+    "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "time": "11-04 17:30",
+    "raw_time": "Wed, 04 Nov 2026 17:30:04 +0000"
+   }
+  ]
+ },
+ {
+  "source": "极客公园",
+  "source_url": "https://www.geekpark.net/rss",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "geekpark",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "11.8s",
+  "elapsed_seconds": 11.828,
+  "items": [
+   {
+    "title": "极客公园创新大会 2027 首批嘉宾揭晓！",
+    "url": "http://www.geekpark.net/news/373553",
+    "time": "11-05 13:15",
+    "raw_time": "Thu, 05 Nov 2026 21:15:49 +0800"
+   },
+   {
+    "title": "世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一",
+    "url": "http://www.geekpark.net/news/373542",
+    "time": "11-05 09:19",
+    "raw_time": "Thu, 05 Nov 2026 17:19:17 +0800"
+   },
+   {
+    "title": "一个人用得好 AI，为什么一家公司却用不好？",
+    "url": "http://www.geekpark.net/news/373541",
+    "time": "11-05 09:15",
+    "raw_time": "Thu, 05 Nov 2026 17:15:38 +0800"
+   },
+   {
+    "title": "Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道",
+    "url": "http://www.geekpark.net/news/373494",
+    "time": "11-05 00:45",
+    "raw_time": "Thu, 05 Nov 2026 08:45:25 +0800"
+   },
+   {
+    "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+    "url": "http://www.geekpark.net/news/373427",
+    "time": "11-04 00:28",
+    "raw_time": "Wed, 04 Nov 2026 08:28:02 +0800"
+   },
+   {
+    "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+    "url": "http://www.geekpark.net/news/373424",
+    "time": "11-03 11:54",
+    "raw_time": "Tue, 03 Nov 2026 19:54:26 +0800"
+   },
+   {
+    "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
+    "url": "http://www.geekpark.net/news/373399",
+    "time": "11-03 07:11",
+    "raw_time": "Tue, 03 Nov 2026 15:11:52 +0800"
+   },
+   {
+    "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+    "url": "http://www.geekpark.net/news/373358",
+    "time": "11-03 00:40",
+    "raw_time": "Tue, 03 Nov 2026 08:40:51 +0800"
+   }
+  ]
+ },
+ {
+  "source": "雷峰网",
+  "source_url": "https://www.leiphone.com/feed",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "leiphone",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "fetch_error",
+  "note": "打不开 TimeoutError",
+  "elapsed_seconds": 8.959,
+  "items": []
+ },
+ {
+  "source": "cnBeta",
+  "source_url": "https://www.cnbeta.com.tw/backend.php",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "cnbeta",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "4.4s",
+  "elapsed_seconds": 4.389,
+  "items": [
+   {
+    "title": "Meta为Muse AI助手加入实时语音对话和会动的虚拟形象",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585192.htm",
+    "time": "11-05 19:39",
+    "raw_time": "Thu, 05 Nov 2026 19:39:24 GMT"
+   },
+   {
+    "title": "摩托罗拉发布Signature 27旗舰机 12000尼特屏幕加上7000mAh电池冲击高端市场",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585190.htm",
+    "time": "11-05 19:38",
+    "raw_time": "Thu, 05 Nov 2026 19:38:57 GMT"
+   },
+   {
+    "title": "中国AI需求旺盛却迟迟未放开大规模进口 60万颗英伟达H200滞留香港",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585188.htm",
+    "time": "11-05 19:37",
+    "raw_time": "Thu, 05 Nov 2026 19:37:27 GMT"
+   },
+   {
+    "title": "Anthropic推出个人理财工具 Claude可直接分析用户消费记录",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585186.htm",
+    "time": "11-05 19:36",
+    "raw_time": "Thu, 05 Nov 2026 19:36:35 GMT"
+   },
+   {
+    "title": "美国警告冷链系统正遭持续网络攻击：超市、血库及军事冷冻设备成为黑客目标",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585184.htm",
+    "time": "11-05 19:35",
+    "raw_time": "Thu, 05 Nov 2026 19:35:49 GMT"
+   },
+   {
+    "title": "Meta警告数据中心建设阻力上升 政治反弹或影响AI未来扩张计划",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585182.htm",
+    "time": "11-05 19:34",
+    "raw_time": "Thu, 05 Nov 2026 19:34:48 GMT"
+   },
+   {
+    "title": "微软推出全新Xbox PC应用：启动速度最高提升60% 云游戏体验同步升级",
+    "url": "https://www.cnbeta.com.tw/articles/game/1585180.htm",
+    "time": "11-05 19:33",
+    "raw_time": "Thu, 05 Nov 2026 19:33:15 GMT"
+   },
+   {
+    "title": "全球DRAM市场第三季度收入暴增369% AI浪潮推动存储产业进入新周期",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1585178.htm",
+    "time": "11-05 19:32",
+    "raw_time": "Thu, 05 Nov 2026 19:32:05 GMT"
+   }
+  ]
+ },
+ {
+  "source": "Solidot",
+  "source_url": "https://www.solidot.org/index.rss",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "solidot",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.5s",
+  "elapsed_seconds": 1.538,
+  "items": [
+   {
+    "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+    "url": "https://www.solidot.org/story?sid=85809",
+    "time": "11-05 16:53",
+    "raw_time": "Fri, 06 Nov 2026 00:53:00 +0800"
+   },
+   {
+    "title": "同步导致电网呈现周期为一分钟的震荡",
+    "url": "https://www.solidot.org/story?sid=85808",
+    "time": "11-05 16:45",
+    "raw_time": "Fri, 06 Nov 2026 00:45:48 +0800"
+   },
+   {
+    "title": "越南对足球直播盗版者判刑最高一年",
+    "url": "https://www.solidot.org/story?sid=85807",
+    "time": "11-05 14:38",
+    "raw_time": "Thu, 05 Nov 2026 22:38:56 +0800"
+   },
+   {
+    "title": "白宫网络监测到住宅代理活动",
+    "url": "https://www.solidot.org/story?sid=85806",
+    "time": "11-05 10:22",
+    "raw_time": "Thu, 05 Nov 2026 18:22:27 +0800"
+   },
+   {
+    "title": "Bazzite 45 释出",
+    "url": "https://www.solidot.org/story?sid=85805",
+    "time": "11-05 09:56",
+    "raw_time": "Thu, 05 Nov 2026 17:56:56 +0800"
+   },
+   {
+    "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+    "url": "https://www.solidot.org/story?sid=85804",
+    "time": "11-05 09:00",
+    "raw_time": "Thu, 05 Nov 2026 17:00:58 +0800"
+   },
+   {
+    "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
+    "url": "https://www.solidot.org/story?sid=85803",
+    "time": "11-05 08:26",
+    "raw_time": "Thu, 05 Nov 2026 16:26:30 +0800"
+   },
+   {
+    "title": "Swift 天文台从印尼上空重返大气层",
+    "url": "https://www.solidot.org/story?sid=85802",
+    "time": "11-05 07:37",
+    "raw_time": "Thu, 05 Nov 2026 15:37:12 +0800"
+   }
+  ]
+ },
+ {
+  "source": "开源中国",
+  "source_url": "https://www.oschina.net/news/rss",
+  "source_type": "rss",
+  "group": "科技",
+  "platform": "oschina",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "4.4s",
+  "elapsed_seconds": 4.448,
+  "items": [
+   {
+    "title": "百度发布最新基座模型 ERNIE 5.5 Flash Base：效率、开源、高性价比",
+    "url": "https://www.oschina.net/news/503429/ernie-5-5-flash-base",
+    "time": "11-05 11:39",
+    "raw_time": "Thu, 05 Nov 2026 19:39:18 +0800"
+   },
+   {
+    "title": "用 AI 写后端，为什么还是在造轮子？",
+    "url": "https://www.oschina.net/news/503428",
+    "time": "11-05 10:52",
+    "raw_time": "Thu, 05 Nov 2026 18:52:19 +0800"
+   },
+   {
+    "title": "登顶 HF 热榜、下载达 20 万：有道「子曰4 -R2T2」模型技术报告发布",
+    "url": "https://www.oschina.net/news/503427",
+    "time": "11-05 10:20",
+    "raw_time": "Thu, 05 Nov 2026 18:20:04 +0800"
+   },
+   {
+    "title": "GOTC 来我这放个 P！Vibe Coding 的同时也要记得关怀屁股",
+    "url": "https://www.oschina.net/news/503412",
+    "time": "11-05 06:38",
+    "raw_time": "Thu, 05 Nov 2026 14:38:40 +0800"
+   },
+   {
+    "title": "FydeOS v23.1 发布，重点改善 Android 应用体验",
+    "url": "https://www.oschina.net/news/503411",
+    "time": "11-05 05:47",
+    "raw_time": "Thu, 05 Nov 2026 13:47:45 +0800"
+   },
+   {
+    "title": "DSH Sessivra 0.3.0-dev.26 发布：拖拽会话即可分屏",
+    "url": "https://www.oschina.net/news/503406",
+    "time": "11-05 03:24",
+    "raw_time": "Thu, 05 Nov 2026 11:24:14 +0800"
+   },
+   {
+    "title": "拾趣 (Magpie) v0.1.20 发布：全新截图操作，翻译、解释、总结...",
+    "url": "https://www.oschina.net/news/503405",
+    "time": "11-05 02:36",
+    "raw_time": "Thu, 05 Nov 2026 10:36:28 +0800"
+   },
+   {
+    "title": "🔥🔥开源接口平台 v6.5.0 发布，升级 JDK 25",
+    "url": "https://www.oschina.net/news/503403",
+    "time": "11-05 02:02",
+    "raw_time": "Thu, 05 Nov 2026 10:02:49 +0800"
+   }
+  ]
+ },
+ {
+  "source": "少数派",
+  "source_url": "https://sspai.com/feed",
+  "source_type": "rss",
+  "group": "产品",
+  "platform": "sspai",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.2s",
+  "elapsed_seconds": 1.204,
+  "items": [
+   {
+    "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+    "url": "https://sspai.com/post/118546",
+    "time": "11-05 14:00",
+    "raw_time": "Thu, 05 Nov 2026 22:00:51 +0800"
+   },
+   {
+    "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+    "url": "https://sspai.com/post/118541",
+    "time": "11-05 09:11",
+    "raw_time": "Thu, 05 Nov 2026 17:11:28 +0800"
+   },
+   {
+    "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+    "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+    "time": "11-05 07:16",
+    "raw_time": "Thu, 05 Nov 2026 15:16:51 +0800"
+   },
+   {
+    "title": "Apple 官网排版细节鉴赏",
+    "url": "https://sspai.com/post/115399",
+    "time": "11-05 02:57",
+    "raw_time": "Thu, 05 Nov 2026 10:57:22 +0800"
+   },
+   {
+    "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+    "url": "https://sspai.com/post/118498",
+    "time": "11-05 00:16",
+    "raw_time": "Thu, 05 Nov 2026 08:16:27 +0800"
+   },
+   {
+    "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+    "url": "https://sspai.com/post/117713",
+    "time": "11-04 12:25",
+    "raw_time": "Wed, 04 Nov 2026 20:25:55 +0800"
+   },
+   {
+    "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+    "url": "https://sspai.com/post/115819",
+    "time": "11-04 06:50",
+    "raw_time": "Wed, 04 Nov 2026 14:50:48 +0800"
+   },
+   {
+    "title": "国行 Apple 智能上手：这些功能已经准备好",
+    "url": "https://sspai.com/post/118404",
+    "time": "11-04 02:41",
+    "raw_time": "Wed, 04 Nov 2026 10:41:10 +0800"
+   }
+  ]
+ },
+ {
+  "source": "人人都是产品经理",
+  "source_url": "https://www.woshipm.com/feed",
+  "source_type": "rss",
+  "group": "产品",
+  "platform": "woshipm",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.8s",
+  "elapsed_seconds": 1.803,
+  "items": [
+   {
+    "title": "AI视频二创这回玩大了，整活神器Viggle一句话给视频改头换面",
+    "url": "https://www.woshipm.com/ai/6489651.html",
+    "time": "11-05 09:23",
+    "raw_time": "Thu, 05 Nov 2026 09:23:23 +0000"
+   },
+   {
+    "title": "金奥康的不烧心广告给了药企营销什么提示？",
+    "url": "https://www.woshipm.com/share/6489644.html",
+    "time": "11-05 09:07",
+    "raw_time": "Thu, 05 Nov 2026 09:07:41 +0000"
+   },
+   {
+    "title": "Personal Agent，蚂蚁想让灵光不止一闪",
+    "url": "https://www.woshipm.com/ai/6489257.html",
+    "time": "11-05 08:56",
+    "raw_time": "Thu, 05 Nov 2026 08:56:16 +0000"
+   },
+   {
+    "title": "WorkBuddy又一效率神器上线，接管你的浏览器",
+    "url": "https://www.woshipm.com/ai/6489654.html",
+    "time": "11-05 08:11",
+    "raw_time": "Thu, 05 Nov 2026 08:11:09 +0000"
+   },
+   {
+    "title": "小红书搜索被重构！什么样的内容能被小红书 AI“点点” 推荐？",
+    "url": "https://www.woshipm.com/share/6489634.html",
+    "time": "11-05 08:10",
+    "raw_time": "Thu, 05 Nov 2026 08:10:08 +0000"
+   },
+   {
+    "title": "红果拿下豆包，腾讯阿里也坐不住了？",
+    "url": "https://www.woshipm.com/ai/6489655.html",
+    "time": "11-05 07:29",
+    "raw_time": "Thu, 05 Nov 2026 07:29:39 +0000"
+   },
+   {
+    "title": "Grok Bot把AI做成同事后，最难的是授权与交接",
+    "url": "https://www.woshipm.com/ai/6489629.html",
+    "time": "11-05 07:18",
+    "raw_time": "Thu, 05 Nov 2026 07:18:47 +0000"
+   },
+   {
+    "title": "当 Agent 的飞轮转进第二圈：基元律动与它的「进化机器」",
+    "url": "https://www.woshipm.com/ai/6489618.html",
+    "time": "11-05 07:15",
+    "raw_time": "Thu, 05 Nov 2026 07:15:58 +0000"
+   }
+  ]
+ },
+ {
+  "source": "小众软件",
+  "source_url": "https://www.appinn.com/feed/",
+  "source_type": "rss",
+  "group": "产品",
+  "platform": "appinn",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.3s",
+  "elapsed_seconds": 1.344,
+  "items": [
+   {
+    "title": "10 天 948 个提权漏洞，7% 的 Linux 代码，被 OpenAI 扫成筛子了",
+    "url": "https://www.appinn.com/openai-linux-kernel-948-privilege-escalation-vulnerabilities/",
+    "time": "11-05 10:46",
+    "raw_time": "Thu, 05 Nov 2026 10:46:43 +0000"
+   },
+   {
+    "title": "Shazao（沙枣）– 8.37MB，单 EXE ，Windows 原生 Markdown 编辑器",
+    "url": "https://www.appinn.com/shazao-markdown/",
+    "time": "11-05 08:55",
+    "raw_time": "Thu, 05 Nov 2026 08:55:05 +0000"
+   },
+   {
+    "title": "实验性：在小米盒子上安装 Apple TV（tvOS）",
+    "url": "https://www.appinn.com/xiaomi-tv-box-apple-tvos-experiment/",
+    "time": "11-05 04:10",
+    "raw_time": "Thu, 05 Nov 2026 04:10:58 +0000"
+   },
+   {
+    "title": "《胜利女神：妮姬》PC 客户端遭供应链投毒，可能窃取密码、密钥和加密货币钱包",
+    "url": "https://www.appinn.com/nikke-pc-launcher-supply-chain-attack-2/",
+    "time": "11-04 09:00",
+    "raw_time": "Wed, 04 Nov 2026 09:00:51 +0000"
+   },
+   {
+    "title": "41年 macOS 图标历史，记录过去几十年的系统图标演变【2026年11月更新】",
+    "url": "https://www.appinn.com/macos-icon-history/",
+    "time": "11-04 07:54",
+    "raw_time": "Wed, 04 Nov 2026 07:54:24 +0000"
+   },
+   {
+    "title": "闲置安卓手机跑 Docker？无需 Root，旧手机直接变服务器｜termux-containers",
+    "url": "https://www.appinn.com/termux-containers-2/",
+    "time": "11-04 06:38",
+    "raw_time": "Wed, 04 Nov 2026 06:38:14 +0000"
+   },
+   {
+    "title": "赛博领鸡蛋加餐：E 宝一口气送 13 款小游戏，11 月 9 日凌晨截止",
+    "url": "https://www.appinn.com/eggs-261103/",
+    "time": "11-03 13:14",
+    "raw_time": "Tue, 03 Nov 2026 13:14:01 +0000"
+   },
+   {
+    "title": "Mac 端安卓设备管理工具 AndroMeld 限时 8 折，仅需 28 元起！",
+    "url": "https://www.appinn.com/andromeld/",
+    "time": "11-03 07:54",
+    "raw_time": "Tue, 03 Nov 2026 07:54:18 +0000"
+   }
+  ]
+ },
+ {
+  "source": "V2EX 热门",
+  "source_url": "https://www.v2ex.com/api/topics/hot.json",
+  "source_type": "json",
+  "group": "产品",
+  "platform": "v2ex",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.073,
+  "items": [
+   {
+    "title": "全球 3.5 万个电台随机听 RoamDial： iOS 版上架了，安卓正在封测，发帖送一波永久 Pro 码",
+    "url": "https://www.v2ex.com/t/1254622",
+    "time": "11-05 02:00",
+    "raw_time": "1793844008"
+   },
+   {
+    "title": "分享创造",
+    "url": "https://www.v2ex.com/go/create",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "全新三端纯原生 SSH 客户端： SSH、SFTP 与 AI 尽在一个应用里，随楼依次赠送 100 位评论者 50 个$v2ex",
+    "url": "https://www.v2ex.com/t/1254583",
+    "time": "11-05 00:15",
+    "raw_time": "1793837751"
+   },
+   {
+    "title": "刚去接水，发现领导在用洗洁精洗眼镜，搜了下好像说是可以，不过长期用会有什么问题吗",
+    "url": "https://www.v2ex.com/t/1254628",
+    "time": "11-05 02:11",
+    "raw_time": "1793844661"
+   },
+   {
+    "title": "能不能给人留点隐私",
+    "url": "https://www.v2ex.com/t/1254629",
+    "time": "11-05 02:12",
+    "raw_time": "1793844745"
+   },
+   {
+    "title": "Android",
+    "url": "https://www.v2ex.com/go/android",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "AI 会不会产生自我意识",
+    "url": "https://www.v2ex.com/t/1254640",
+    "time": "11-05 02:31",
+    "raw_time": "1793845908"
+   },
+   {
+    "title": "分享发现",
+    "url": "https://www.v2ex.com/go/share",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "HelloGitHub",
+  "source_url": "https://hellogithub.com/rss",
+  "source_type": "rss",
+  "group": "产品",
+  "platform": "hellogithub",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.7s",
+  "elapsed_seconds": 1.712,
+  "items": [
+   {
+    "title": "HelloGitHub 第 127 期",
+    "url": "https://hellogithub.com/periodical/volume/127",
+    "time": "10-28 00:06",
+    "raw_time": "Wed, 28 Oct 2026 08:06:20 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 126 期",
+    "url": "https://hellogithub.com/periodical/volume/126",
+    "time": "09-28 00:05",
+    "raw_time": "Mon, 28 Sep 2026 08:05:08 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 125 期",
+    "url": "https://hellogithub.com/periodical/volume/125",
+    "time": "08-28 00:14",
+    "raw_time": "Fri, 28 Aug 2026 08:14:02 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 124 期",
+    "url": "https://hellogithub.com/periodical/volume/124",
+    "time": "07-28 00:10",
+    "raw_time": "Tue, 28 Jul 2026 08:10:05 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 123 期",
+    "url": "https://hellogithub.com/periodical/volume/123",
+    "time": "06-29 00:10",
+    "raw_time": "Mon, 29 Jun 2026 08:10:22 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 122 期",
+    "url": "https://hellogithub.com/periodical/volume/122",
+    "time": "05-28 00:07",
+    "raw_time": "Thu, 28 May 2026 08:07:51 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 121 期",
+    "url": "https://hellogithub.com/periodical/volume/121",
+    "time": "04-28 00:05",
+    "raw_time": "Tue, 28 Apr 2026 08:05:57 +0800"
+   },
+   {
+    "title": "HelloGitHub 第 120 期",
+    "url": "https://hellogithub.com/periodical/volume/120",
+    "time": "03-27 00:08",
+    "raw_time": "Fri, 27 Mar 2026 08:08:31 +0800"
+   }
+  ]
+ },
+ {
+  "source": "HN 中文",
+  "source_url": "https://hn.buzzing.cc/feed.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "hackernews",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.211,
+  "items": [
+   {
+    "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+    "time": "11-05 19:34",
+    "raw_time": "2026-11-05T19:34:42.615Z"
+   },
+   {
+    "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+    "time": "11-05 19:34",
+    "raw_time": "2026-11-05T19:34:42.612Z"
+   },
+   {
+    "title": "《Servo》九月刊：、圆角矩形等",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "time": "11-05 18:16",
+    "raw_time": "2026-11-05T18:16:03.698Z"
+   },
+   {
+    "title": "真希望科技公司能更了解我",
+    "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+    "time": "11-05 18:16",
+    "raw_time": "2026-11-05T18:16:03.425Z"
+   },
+   {
+    "title": "YC的加里·谭（Garry Tan）如此频繁地使用AI代理，以至于每年在代币上的花费高达20万美元。",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "time": "11-05 17:43",
+    "raw_time": "2026-11-05T17:43:45.115Z"
+   },
+   {
+    "title": "支持 GrapheneOS 的 Motorola Signature 27",
+    "url": "https://motorolanews.com/motorola-signature-27-2/",
+    "time": "11-05 17:28",
+    "raw_time": "2026-11-05T17:28:00.222Z"
+   },
+   {
+    "title": "卫星密布的夜空图片",
+    "url": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
+    "time": "11-05 17:12",
+    "raw_time": "2026-11-05T17:12:06.762Z"
+   },
+   {
+    "title": "这款鲜为人知的音频编解码器与N64堪称绝配",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "time": "11-05 17:12",
+    "raw_time": "2026-11-05T17:12:06.120Z"
+   }
+  ]
+ },
+ {
+  "source": "Product Hunt 中文",
+  "source_url": "https://ph.buzzing.cc/feed.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "producthunt",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.188,
+  "items": [
+   {
+    "title": "Clocknext - AI 代理的定价与计费基础设施",
+    "url": "https://www.producthunt.com/r/7IUKMVZUC4C7ZY",
+    "time": "11-05 17:28",
+    "raw_time": "2026-11-05T17:28:01.095Z"
+   },
+   {
+    "title": "Maritime - 适用于任何人工智能代理的云计算机，按您的需求定制",
+    "url": "https://www.producthunt.com/r/LXZBKU4W5VMFPL",
+    "time": "11-05 17:12",
+    "raw_time": "2026-11-05T17:12:06.953Z"
+   },
+   {
+    "title": "Pushary for Teams - 查看哪些人接受了贵团队的AI代理",
+    "url": "https://www.producthunt.com/r/FKYLG6Q6UE7GI2",
+    "time": "11-05 15:45",
+    "raw_time": "2026-11-05T15:45:58.069Z"
+   },
+   {
+    "title": "Rerun - 将您的 AI 订阅服务转化为一支同事团队",
+    "url": "https://www.producthunt.com/r/RMMH5HQHCIQO64",
+    "time": "11-05 15:45",
+    "raw_time": "2026-11-05T15:45:58.066Z"
+   },
+   {
+    "title": "Living Brain - 适用于代理式人工智能的互操作且高效的内存层",
+    "url": "https://www.producthunt.com/r/FLQZ3AXUUI5C2T",
+    "time": "11-05 15:45",
+    "raw_time": "2026-11-05T15:45:58.062Z"
+   },
+   {
+    "title": "Glasshand - 给你的经纪人配备真正的iPhone和Mac",
+    "url": "https://www.producthunt.com/r/4HPTGSLZ23MFLT",
+    "time": "11-05 15:45",
+    "raw_time": "2026-11-05T15:45:58.058Z"
+   },
+   {
+    "title": "Mellow Kids - 面向家长的个性化睡眠与成长应用",
+    "url": "https://www.producthunt.com/r/GOI7VFFFGH7ZIG",
+    "time": "11-05 08:09",
+    "raw_time": "2026-11-05T08:09:00.115Z"
+   },
+   {
+    "title": "fileForensics - 是真的还是假的？在让AI信任这些文件之前，请先核查一下。",
+    "url": "https://www.producthunt.com/r/L36SEUDOAXE2D2",
+    "time": "11-05 08:09",
+    "raw_time": "2026-11-05T08:09:00.111Z"
+   }
+  ]
+ },
+ {
+  "source": "BestBlogs",
+  "source_url": "https://www.bestblogs.dev/en/feeds/rss",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "bestblogs",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.7s",
+  "elapsed_seconds": 0.678,
+  "items": [
+   {
+    "title": "智能体人设：定义、指标与 FutureAGI 指南",
+    "url": "https://www.bestblogs.dev/en/article/988bb7362f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:55",
+    "raw_time": "Thu, 05 Nov 2026 18:55:00 GMT"
+   },
+   {
+    "title": "Anthropic 为 Pro、Max 和 Ultra 用户在美国推出 Claude Personal Finance",
+    "url": "https://www.bestblogs.dev/en/status/2118416495508099118?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:53",
+    "raw_time": "Thu, 05 Nov 2026 18:53:45 GMT"
+   },
+   {
+    "title": "免费域名+100+ AI 模型仅需 ₹999 月费",
+    "url": "https://www.bestblogs.dev/en/status/2118414768675369456?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:46",
+    "raw_time": "Thu, 05 Nov 2026 18:46:53 GMT"
+   },
+   {
+    "title": "纪录片预热：伊朗美军冲突与 OSINT613 3D 重建",
+    "url": "https://www.bestblogs.dev/en/status/2118414369704808846?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:45",
+    "raw_time": "Thu, 05 Nov 2026 18:45:18 GMT"
+   },
+   {
+    "title": "Glasshand 赋能 AI 智能体拥有真实的 iPhone 与 Mac 设备",
+    "url": "https://www.bestblogs.dev/en/status/2118414322346914091?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:45",
+    "raw_time": "Thu, 05 Nov 2026 18:45:07 GMT"
+   },
+   {
+    "title": "新 X 首席执行官将解决 AI 回复机器人问题",
+    "url": "https://www.bestblogs.dev/en/status/2118414119514894340?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:44",
+    "raw_time": "Thu, 05 Nov 2026 18:44:18 GMT"
+   },
+   {
+    "title": "KAV 分析全球市场下跌：AI 股票、地缘政治及杠杆率是主要风险",
+    "url": "https://www.bestblogs.dev/en/status/2118413665120715153?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:42",
+    "raw_time": "Thu, 05 Nov 2026 18:42:30 GMT"
+   },
+   {
+    "title": "亚马逊披露：推理收入主导 AWS AI 业务",
+    "url": "https://www.bestblogs.dev/en/status/2118413599639298071?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "time": "11-05 18:42",
+    "raw_time": "Thu, 05 Nov 2026 18:42:15 GMT"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 联合早报",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=zaobao",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "zaobao",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.369,
+  "items": [
+   {
+    "title": "中朝近期互动增加 学者：不排除“特金会” 但料不会在APEC前",
+    "url": "https://www.zaochenbao.com/news/china/202611/0584903.html",
+    "time": "11-05 23:40",
+    "raw_time": "2026-11-05 23:40:09"
+   },
+   {
+    "title": "【分析】共和党中期选举惨败 美国政坛未来五大看点",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584902.html",
+    "time": "11-05 22:50",
+    "raw_time": "2026-11-05 22:50:10"
+   },
+   {
+    "title": "黄之锋勾结外国势力罪追加10年监禁 出狱时或已40岁",
+    "url": "https://www.zaochenbao.com/news/china/202611/0584901.html",
+    "time": "11-05 22:05",
+    "raw_time": "2026-11-05 22:05:08"
+   },
+   {
+    "title": "青瓦台：韩美同盟关系不受美中期选举结果影响",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584900.html",
+    "time": "11-05 20:31",
+    "raw_time": "2026-11-05 20:31:13"
+   },
+   {
+    "title": "加拿大财长选新鞋 为发布预算案做准备",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584899.html",
+    "time": "11-05 20:31",
+    "raw_time": "2026-11-05 20:31:09"
+   },
+   {
+    "title": "【真假之外】一场骚乱，不同叙事：谁在借法国乱局谋利？",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584898.html",
+    "time": "11-05 20:31",
+    "raw_time": "2026-11-05 20:31:06"
+   },
+   {
+    "title": "欧洲再有12架客机接获炸弹威胁",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584897.html",
+    "time": "11-05 20:31",
+    "raw_time": "2026-11-05 20:31:03"
+   },
+   {
+    "title": "【美国中期选举】民主党：不求报复 欲兑现承诺解决民生问题",
+    "url": "https://www.zaochenbao.com/news/politics/202611/0584896.html",
+    "time": "11-05 20:31",
+    "raw_time": "2026-11-05 20:31:00"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 酷安",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=coolapk",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "coolapk",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.45,
+  "items": [
+   {
+    "title": "OriginOS 7 给我的感觉不是功能变多了，而是把截屏、卡包、日历、文件、通知、录音等等这些日常能力串了起来，生活里很多事都能通过小 V 一句话推进。大家感受一下！",
+    "url": "https://www.coolapk.com/feed/73785409",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "地补机被快递员摔磕碰后续，商家打电话来 因为已激活拍imei码 不能退换 除非是功能故障 去门店开检测单才能换，然后我打电话给快递员 快递员不认账 我也没碰什么呀 。",
+    "url": "https://www.coolapk.com/feed/74869323",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "多多又降了？",
+    "url": "https://www.coolapk.com/feed/74865391",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "#数码日常# #iOS26# #iOS27# 闲来无事发个帖子，很久没回来了。",
+    "url": "https://www.coolapk.com/feed/74850067",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "我把维护超8年的《搞机工具箱》从PC版植到了浏览器[惊讶]",
+    "url": "https://www.coolapk.com/feed/74873951",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "k100promax 12+256 白色， 不知道是哪个大哥的截图，拿出来给大家分享下保价，信息已打码[流汗滑稽]",
+    "url": "https://www.coolapk.com/feed/74871355",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "“终于等到你，还好我没放弃”“这次你一定能用上 Apple 智能”…众所周知，国行苹果设备的 Apple 智能，早就从一个新功能变成大型连续剧玩梗素材。今天我们就来回顾一下这场风波，并看看特供版的 Apple 智能表现究竟如何。",
+    "url": "https://www.coolapk.com/feed/74841468",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "#相亲# 兄弟们，这种留着过年？",
+    "url": "https://www.coolapk.com/feed/74857760",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow MKTNews 快讯",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=mktnews-flash",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "mktnews",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.404,
+  "items": [
+   {
+    "title": "U.S. and Brent crude futures briefly fell more than $0.60 per barrel.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad3c-cea6-7ee0-aa9b-67ea6551c37d",
+    "time": "11-05 19:43",
+    "raw_time": "2026-11-05T19:43:25.000Z"
+   },
+   {
+    "title": "Brent crude futures settled at $98.29 a barrel, up $3.67, or 3.88%.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad3c-4aa7-7ee0-aa9b-5e2625db84b5",
+    "time": "11-05 19:42",
+    "raw_time": "2026-11-05T19:42:51.000Z"
+   },
+   {
+    "title": "Senior Iranian official says the U.S. is reviewing Iran's nuclear proposal.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad3b-e0cb-7ee0-aa9b-50b28843c49a",
+    "time": "11-05 19:42",
+    "raw_time": "2026-11-05T19:42:24.000Z"
+   },
+   {
+    "title": "US media: Rubio weighing exit from Trump administration",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad3a-1a1b-7ee0-aa9b-40bd338517b4",
+    "time": "11-05 19:40",
+    "raw_time": "2026-11-05T19:40:28.000Z"
+   },
+   {
+    "title": "WTI crude oil futures settled at $90.52 a barrel, up $2.40 or 2.72%.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad32-71a3-7ee0-aa9b-3f33430f77ad",
+    "time": "11-05 19:32",
+    "raw_time": "2026-11-05T19:32:06.000Z"
+   },
+   {
+    "title": "NZD/USD slipped below 0.56, down 0.35% intraday.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad2d-5345-7ee0-aa9b-29ae47f33a52",
+    "time": "11-05 19:26",
+    "raw_time": "2026-11-05T19:26:31.000Z"
+   },
+   {
+    "title": "Morgan Stanley (MS.N) says the equity market pullback is nearing its end.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad2d-35c9-7ee0-aa9b-270819a4170d",
+    "time": "11-05 19:26",
+    "raw_time": "2026-11-05T19:26:23.000Z"
+   },
+   {
+    "title": "Iran's Islamic Revolutionary Guard Corps (IRGC) says it seized the fifth US military MQM-170 drone over Qeshm Island.",
+    "url": "https://mktnews.net/flashDetail.html?id=01a1ad24-472d-7ee0-aa9b-14040060abf9",
+    "time": "11-05 19:16",
+    "raw_time": "2026-11-05T19:16:38.000Z"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 懂球帝",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=dongqiudi",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "dongqiudi",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.5s",
+  "elapsed_seconds": 0.451,
+  "items": [
+   {
+    "title": "图恩3-1哈茨，杜尔孙破门，拉博建功",
+    "url": "https://www.dongqiudi.com/article/6613104",
+    "time": "11-06 03:44",
+    "raw_time": "2026-11-06 03:44:58"
+   },
+   {
+    "title": "林肯红魔1-0哈伊杜克",
+    "url": "https://www.dongqiudi.com/article/6613100",
+    "time": "11-06 03:43",
+    "raw_time": "2026-11-06 03:43:55"
+   },
+   {
+    "title": "贝尔格莱德红星2-1逆转艾斯卡迪斯国际，瓦尔德米尔-卢契奇破门",
+    "url": "https://www.dongqiudi.com/article/6613094",
+    "time": "11-06 03:42",
+    "raw_time": "2026-11-06 03:42:51"
+   },
+   {
+    "title": "亚特兰大1-1阿拉木图凯拉特，马克-瓜尔破僵，尼古拉-克尔斯托维奇扳平比分",
+    "url": "https://www.dongqiudi.com/article/6613089",
+    "time": "11-06 03:41",
+    "raw_time": "2026-11-06 03:41:15"
+   },
+   {
+    "title": "布拉格斯巴达1-3伯恩茅斯，居达尔染红，拉扬世界波锁定胜局",
+    "url": "https://www.dongqiudi.com/article/6613085",
+    "time": "11-06 03:40",
+    "raw_time": "2026-11-06 03:40:59"
+   },
+   {
+    "title": "安德莱赫特2-0萨尔茨堡红牛，奥古斯丁松建功，温克勒锁定胜局",
+    "url": "https://www.dongqiudi.com/article/6613084",
+    "time": "11-06 03:40",
+    "raw_time": "2026-11-06 03:40:44"
+   },
+   {
+    "title": "索菲亚列夫斯基1-0雅盖隆，斯托扬乔夫绝杀",
+    "url": "https://www.dongqiudi.com/article/6613082",
+    "time": "11-06 03:39",
+    "raw_time": "2026-11-06 03:39:57"
+   },
+   {
+    "title": "古比斯0-0根特，双方互交白卷",
+    "url": "https://www.dongqiudi.com/article/6613081",
+    "time": "11-06 03:39",
+    "raw_time": "2026-11-06 03:39:43"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 卫星通讯社",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=sputniknewscn",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "sputniknewscn",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.376,
+  "items": [
+   {
+    "title": "俄罗斯在上海进博会上展示民间手工艺，给中国带来一场意外的新发现",
+    "url": "https://sputniknews.cn/20261106/1073970401.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "普京表示深化国际合作是重要方向",
+    "url": "https://sputniknews.cn/20261106/1073971668.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "俄经济发展部：俄罗斯近一半出口面向亚太经合组织经济体",
+    "url": "https://sputniknews.cn/20261106/1073971325.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "芬兰政治家：乌克兰酷刑室构成反人类罪",
+    "url": "https://sputniknews.cn/20261106/1073970617.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "梅拉尼娅·特朗普请德米特里耶夫将自己的亲笔信转交给普京总统",
+    "url": "https://sputniknews.cn/20261106/1073971532.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "伊朗军方通报又有两艘油轮触雷爆炸",
+    "url": "https://sputniknews.cn/20261106/1073971088.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "俄总统特别代表：普京总统高度评价特朗普在乌克兰问题上做出的和平努力",
+    "url": "https://sputniknews.cn/20261106/1073971434.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "梅拉尼娅·特朗普希望阿廖什基的停火能为实现更广泛和平奠定基础",
+    "url": "https://sputniknews.cn/20261106/1073971216.html",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 远景论坛 Win11",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=pcbeta-windows11",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "pcbeta",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.3s",
+  "elapsed_seconds": 0.349,
+  "items": [
+   {
+    "title": "OptiScaler官方最新11.5代码拉取汉化版本",
+    "url": "https://bbs.pcbeta.com/viewthread-2083814-1-1.html",
+    "time": "11-05 15:22",
+    "raw_time": "Thu, 05 Nov 2026 15:22:25 +0000"
+   },
+   {
+    "title": "RTX-621.14-精简版本",
+    "url": "https://bbs.pcbeta.com/viewthread-2083811-1-1.html",
+    "time": "11-05 13:03",
+    "raw_time": "Thu, 05 Nov 2026 13:03:52 +0000"
+   },
+   {
+    "title": "26h2右键win图标bug",
+    "url": "https://bbs.pcbeta.com/viewthread-2083804-1-1.html",
+    "time": "11-05 10:15",
+    "raw_time": "Thu, 05 Nov 2026 10:15:00 +0000"
+   },
+   {
+    "title": "浅谈系统使用安全",
+    "url": "https://bbs.pcbeta.com/viewthread-2083802-1-1.html",
+    "time": "11-05 09:35",
+    "raw_time": "Thu, 05 Nov 2026 09:35:38 +0000"
+   },
+   {
+    "title": "开始菜单有个非常糟糕的体验",
+    "url": "https://bbs.pcbeta.com/viewthread-2083794-1-1.html",
+    "time": "11-05 08:15",
+    "raw_time": "Thu, 05 Nov 2026 08:15:47 +0000"
+   },
+   {
+    "title": "NVIDIA GeForce Game Ready 621.14 WHQL",
+    "url": "https://bbs.pcbeta.com/viewthread-2083791-1-1.html",
+    "time": "11-05 07:37",
+    "raw_time": "Thu, 05 Nov 2026 07:37:52 +0000"
+   },
+   {
+    "title": "分享一款局域网互联的软件FastLink v1.0",
+    "url": "https://bbs.pcbeta.com/viewthread-2083784-1-1.html",
+    "time": "11-05 06:18",
+    "raw_time": "Thu, 05 Nov 2026 06:18:54 +0000"
+   },
+   {
+    "title": "Win11 内存占用高≠电脑卡顿，微软称响应速度才是硬指标(windowslatest)",
+    "url": "https://bbs.pcbeta.com/viewthread-2083772-1-1.html",
+    "time": "11-05 03:19",
+    "raw_time": "Thu, 05 Nov 2026 03:19:44 +0000"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 雪球 热门股票",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=xueqiu-hotstock",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "xueqiu",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.3s",
+  "elapsed_seconds": 0.349,
+  "items": [
+   {
+    "title": "美光科技",
+    "url": "https://xueqiu.com/s/MU",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "SpaceX",
+    "url": "https://xueqiu.com/s/SPCX",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "SK海力士",
+    "url": "https://xueqiu.com/s/SKHY",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Applovin",
+    "url": "https://xueqiu.com/s/APP",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "中际旭创",
+    "url": "https://xueqiu.com/s/SZ300308",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "超威半导体",
+    "url": "https://xueqiu.com/s/AMD",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Lumentum控股",
+    "url": "https://xueqiu.com/s/LITE",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "阿里巴巴",
+    "url": "https://xueqiu.com/s/BABA",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 格隆汇",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=gelonghui",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "gelonghui",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.401,
+  "items": [
+   {
+    "title": "华纬科技(001380.SZ)：不向下修正“华纬转债”转股价格",
+    "url": "https://www.gelonghui.com/news/5345514",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "中熔电气(301031.SZ)：硅基化是公司面向未来十年的一次重要转型",
+    "url": "https://www.gelonghui.com/news/5345512",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "飞南资源(301500.SZ)：目前公司4N精铟的生产在持续推进中，精铟的纯度、附加值比粗铟高",
+    "url": "https://www.gelonghui.com/news/5345511",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "飞南资源(301500.SZ)：广西飞南新能源材料项目建成投产后",
+    "url": "https://www.gelonghui.com/news/5345510",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "米奥会展(300795.SZ)：公司与李未可合作研发的AI眼镜产品",
+    "url": "https://www.gelonghui.com/news/5345509",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "米奥会展(300795.SZ)：目前“小元AI”已正式上架腾讯WorkBuddy、豆包工作等大厂AI办公平台",
+    "url": "https://www.gelonghui.com/news/5345508",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "益生股份(002458.SZ)：公司11月中上旬计划完成2万套祖代肉种鸡引种",
+    "url": "https://www.gelonghui.com/news/5345507",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "瑞银下调Arm目标价至270美元",
+    "url": "https://www.gelonghui.com/news/5345506",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 法布财经 快讯",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=fastbull-express",
+  "source_type": "json",
+  "group": "财经",
+  "platform": "fastbull",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.388,
+  "items": [
+   {
+    "title": "埃及军方发言人：两名埃及军官在南部边境打击非法采矿者的行动中身亡。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347800_1_1",
+    "time": "11-05 19:31",
+    "raw_time": "1793907066450"
+   },
+   {
+    "title": "美国国务卿鲁比奥考虑在共和党中期选举失利后离开政府。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347799_212_1",
+    "time": "11-05 19:27",
+    "raw_time": "1793906847206"
+   },
+   {
+    "title": "纽元兑美元NZD/USD失守0.56，日内跌幅0.35%。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347798_1_1",
+    "time": "11-05 19:26",
+    "raw_time": "1793906789654"
+   },
+   {
+    "title": "欧盟外交与安全政策高级代表卡拉斯：我同意意大利总理梅洛尼的看法，我们不应发出不同的声音。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347795_212_1",
+    "time": "11-05 19:19",
+    "raw_time": "1793906357335"
+   },
+   {
+    "title": "伊朗革命卫队：在格什姆岛上空缴获第五架美军MQM-170无人机。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347794_1_1",
+    "time": "11-05 19:16",
+    "raw_time": "1793906190837"
+   },
+   {
+    "title": "巴西财长杜里甘：在本届政府执政下，在巴西投资和生产的企业在可预测性和明确规则方面不会遇到问题或困难。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347793_212_1",
+    "time": "11-05 19:11",
+    "raw_time": "1793905876105"
+   },
+   {
+    "title": "巴西财长杜里甘：我们正致力于改善公共账户状况，这与我们在2027年预算指导方针法案中提出的内容一致。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347790_212_1",
+    "time": "11-05 19:06",
+    "raw_time": "1793905571290"
+   },
+   {
+    "title": "巴西财长杜里甘：巴西总统卢拉与经济学家的会晤表明，双方在问题判断和未来路径上高度一致。",
+    "url": "https://www.fastbull.com/cn/fastshort/4347789_212_1",
+    "time": "11-05 19:05",
+    "raw_time": "1793905528074"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow Github Today",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=github-trending-today",
+  "source_type": "json",
+  "group": "海外",
+  "platform": "github",
+  "lang": "zh",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.3s",
+  "elapsed_seconds": 0.343,
+  "items": [
+   {
+    "title": "NVIDIA /      auto-ontology",
+    "url": "https://github.com/NVIDIA/auto-ontology",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "mattpocock /      skills",
+    "url": "https://github.com/mattpocock/skills",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "garrytan /      gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "Usagi-org /      ai-goofish-monitor",
+    "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "D4Vinci /      Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "vercel-labs /      agent-desktop",
+    "url": "https://github.com/vercel-labs/agent-desktop",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "max-sixty /      worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "lz4 /      lz4",
+    "url": "https://github.com/lz4/lz4",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/feed/",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "techcrunch",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.0s",
+  "elapsed_seconds": 0.034,
+  "items": [
+   {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "time": "11-05 19:48",
+    "raw_time": "Thu, 05 Nov 2026 19:48:28 +0000"
+   },
+   {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "time": "11-05 19:12",
+    "raw_time": "Thu, 05 Nov 2026 19:12:39 +0000"
+   },
+   {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "time": "11-05 19:06",
+    "raw_time": "Thu, 05 Nov 2026 19:06:12 +0000"
+   },
+   {
+    "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+    "time": "11-05 18:48",
+    "raw_time": "Thu, 05 Nov 2026 18:48:34 +0000"
+   },
+   {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "time": "11-05 18:02",
+    "raw_time": "Thu, 05 Nov 2026 18:02:27 +0000"
+   },
+   {
+    "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+    "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "time": "11-05 18:00",
+    "raw_time": "Thu, 05 Nov 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "time": "11-05 18:00",
+    "raw_time": "Thu, 05 Nov 2026 18:00:00 +0000"
+   },
+   {
+    "title": "Harbinger raises $240M after expanding into defense",
+    "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "time": "11-05 17:52",
+    "raw_time": "Thu, 05 Nov 2026 17:52:44 +0000"
+   }
+  ]
+ },
+ {
+  "source": "The Verge",
+  "source_url": "https://www.theverge.com/rss/index.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "theverge",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.102,
+  "items": [
+   {
+    "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+    "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+    "time": "11-05 19:27",
+    "raw_time": "2026-11-05T14:27:06-05:00"
+   },
+   {
+    "title": "Muse has a voice mode now",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "time": "11-05 19:07",
+    "raw_time": "2026-11-05T14:07:13-05:00"
+   },
+   {
+    "title": "EA is bringing 25 classic PC games to Steam",
+    "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+    "time": "11-04 16:34",
+    "raw_time": "2026-11-04T11:34:54-05:00"
+   },
+   {
+    "title": "Claude AI can plug directly into your bank account",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "time": "11-05 17:49",
+    "raw_time": "2026-11-05T12:49:25-05:00"
+   },
+   {
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "time": "11-05 17:51",
+    "raw_time": "2026-11-05T12:51:52-05:00"
+   },
+   {
+    "title": "Ember’s smallest self-heating mug is on sale for just $33",
+    "url": "https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal",
+    "time": "11-05 17:34",
+    "raw_time": "2026-11-05T12:34:23-05:00"
+   },
+   {
+    "title": "TikTok launched a dedicated TikTok Shop app",
+    "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+    "time": "11-05 17:27",
+    "raw_time": "2026-11-05T12:27:36-05:00"
+   },
+   {
+    "title": "Nintendo says it’s not planning another Switch 2 price hike",
+    "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
+    "time": "11-05 17:31",
+    "raw_time": "2026-11-05T12:31:39-05:00"
+   }
+  ]
+ },
+ {
+  "source": "Ars Technica",
+  "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "arstechnica",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.122,
+  "items": [
+   {
+    "title": "Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?",
+    "url": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+    "time": "11-05 18:49",
+    "raw_time": "Thu, 05 Nov 2026 18:49:41 +0000"
+   },
+   {
+    "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+    "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+    "time": "11-05 17:40",
+    "raw_time": "Thu, 05 Nov 2026 17:40:27 +0000"
+   },
+   {
+    "title": "Statehouse wins give Democrats new power to push clean energy",
+    "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+    "time": "11-05 15:59",
+    "raw_time": "Thu, 05 Nov 2026 15:59:51 +0000"
+   },
+   {
+    "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+    "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+    "time": "11-05 13:00",
+    "raw_time": "Thu, 05 Nov 2026 13:00:56 +0000"
+   },
+   {
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "time": "11-05 12:00",
+    "raw_time": "Thu, 05 Nov 2026 12:00:41 +0000"
+   },
+   {
+    "title": "2026 iPad mini review: Maximizing the mini",
+    "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+    "time": "11-05 12:00",
+    "raw_time": "Thu, 05 Nov 2026 12:00:01 +0000"
+   },
+   {
+    "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+    "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+    "time": "11-05 09:00",
+    "raw_time": "Thu, 05 Nov 2026 09:00:13 +0000"
+   },
+   {
+    "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+    "time": "11-04 22:47",
+    "raw_time": "Wed, 04 Nov 2026 22:47:51 +0000"
+   }
+  ]
+ },
+ {
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/feed/",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "mittr",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.0s",
+  "elapsed_seconds": 0.017,
+  "items": [
+   {
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "time": "11-05 13:10",
+    "raw_time": "Thu, 05 Nov 2026 13:10:00 +0000"
+   },
+   {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "time": "11-05 10:00",
+    "raw_time": "Thu, 05 Nov 2026 10:00:00 +0000"
+   },
+   {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "time": "11-04 18:50",
+    "raw_time": "Wed, 04 Nov 2026 18:50:55 +0000"
+   },
+   {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "time": "11-04 18:21",
+    "raw_time": "Wed, 04 Nov 2026 18:21:40 +0000"
+   },
+   {
+    "title": "What’s next for US energy policy after the midterm elections?",
+    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "time": "11-04 17:08",
+    "raw_time": "Wed, 04 Nov 2026 17:08:00 +0000"
+   },
+   {
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "time": "11-04 13:10",
+    "raw_time": "Wed, 04 Nov 2026 13:10:00 +0000"
+   },
+   {
+    "title": "Securing the agentic enterprise with data lineage",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "time": "11-04 13:00",
+    "raw_time": "Wed, 04 Nov 2026 13:00:00 +0000"
+   },
+   {
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "time": "11-03 13:10",
+    "raw_time": "Tue, 03 Nov 2026 13:10:00 +0000"
+   }
+  ]
+ },
+ {
+  "source": "BBC Technology",
+  "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "bbc",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.3s",
+  "elapsed_seconds": 0.282,
+  "items": [
+   {
+    "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+    "time": "11-05 17:57",
+    "raw_time": "Thu, 05 Nov 2026 17:57:57 GMT"
+   },
+   {
+    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+    "time": "11-04 21:41",
+    "raw_time": "Wed, 04 Nov 2026 21:41:15 GMT"
+   },
+   {
+    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+    "time": "11-04 16:26",
+    "raw_time": "Wed, 04 Nov 2026 16:26:15 GMT"
+   },
+   {
+    "title": "Graduates are managing AI - but are they learning much else?",
+    "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+    "time": "11-04 00:04",
+    "raw_time": "Wed, 04 Nov 2026 00:04:35 GMT"
+   },
+   {
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+    "time": "11-03 16:19",
+    "raw_time": "Tue, 03 Nov 2026 16:19:29 GMT"
+   },
+   {
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+    "time": "11-03 13:07",
+    "raw_time": "Tue, 03 Nov 2026 13:07:00 GMT"
+   },
+   {
+    "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+    "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+    "time": "11-03 11:10",
+    "raw_time": "Tue, 03 Nov 2026 11:10:37 GMT"
+   },
+   {
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+    "time": "11-03 08:33",
+    "raw_time": "Tue, 03 Nov 2026 08:33:20 GMT"
+   }
+  ]
+ },
+ {
+  "source": "Wired",
+  "source_url": "https://www.wired.com/feed/rss",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "wired",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.072,
+  "items": [
+   {
+    "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
+    "time": "11-05 16:26",
+    "raw_time": "Thu, 05 Nov 2026 16:26:57 +0000"
+   },
+   {
+    "title": "Area Man Feels Joy Online for First Time in Years",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
+    "time": "11-05 15:38",
+    "raw_time": "Thu, 05 Nov 2026 15:38:07 +0000"
+   },
+   {
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "url": "https://www.wired.com/story/aina-smart-ring/",
+    "time": "11-05 14:00",
+    "raw_time": "Thu, 05 Nov 2026 14:00:00 +0000"
+   },
+   {
+    "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+    "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+    "time": "11-05 14:00",
+    "raw_time": "Thu, 05 Nov 2026 14:00:00 +0000"
+   },
+   {
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "time": "11-05 13:00",
+    "raw_time": "Thu, 05 Nov 2026 13:00:00 +0000"
+   },
+   {
+    "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+    "url": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+    "time": "11-05 13:00",
+    "raw_time": "Thu, 05 Nov 2026 13:00:00 +0000"
+   },
+   {
+    "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
+    "url": "https://www.wired.com/gallery/best-wireless-chargers/",
+    "time": "11-05 12:00",
+    "raw_time": "Thu, 05 Nov 2026 12:00:00 +0000"
+   },
+   {
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "time": "11-05 12:00",
+    "raw_time": "Thu, 05 Nov 2026 12:00:00 +0000"
+   }
+  ]
+ },
+ {
+  "source": "The Information",
+  "source_url": "https://www.theinformation.com/feed",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "theinformation",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.077,
+  "items": [
+   {
+    "title": "Nvidia’s Workaround For Data Center Backlash: Retrofitting Old Telephone Buildings",
+    "url": "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings",
+    "time": "11-05 19:47",
+    "raw_time": "2026-11-05T19:47:31Z"
+   },
+   {
+    "title": "Can Cheaper AI Outrun the Data Center Backlash?",
+    "url": "https://www.theinformation.com/articles/can-cheaper-ai-outrun-data-center-backlash",
+    "time": "11-05 19:24",
+    "raw_time": "2026-11-05T19:24:47Z"
+   },
+   {
+    "title": "Unity Software Reports Strong Growth in AI Ad Business",
+    "url": "https://www.theinformation.com/briefings/unity-software-reports-strong-growth-ai-ad-business",
+    "time": "11-05 18:53",
+    "raw_time": "2026-11-05T18:53:00Z"
+   },
+   {
+    "title": "Anthropic’s R&D Speed May Have Doubled Due to AI, Researchers Find",
+    "url": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
+    "time": "11-05 18:52",
+    "raw_time": "2026-11-05T18:52:30Z"
+   },
+   {
+    "title": "Veteran Media Mogul John Malone Gives Up Controlling Stake in Liberty",
+    "url": "https://www.theinformation.com/briefings/veteran-media-mogul-john-malone-gives-controlling-stake-liberty",
+    "time": "11-05 18:52",
+    "raw_time": "2026-11-05T18:52:30Z"
+   },
+   {
+    "title": "California Sends AI Safety Lawmaker to Congress",
+    "url": "https://www.theinformation.com/articles/california-sends-ai-safety-lawmaker-congress",
+    "time": "11-05 15:01",
+    "raw_time": "2026-11-05T15:01:33Z"
+   },
+   {
+    "title": "How a Claims Investor Got Kalshi to Open a Market on the NCAA Payout",
+    "url": "https://www.theinformation.com/articles/kalshi-spinning-new-markets-big-investors",
+    "time": "11-05 17:40",
+    "raw_time": "2026-11-05T17:40:46Z"
+   },
+   {
+    "title": "China Blocks SoftBank’s $5.4 Billion ABB Robotics Deal",
+    "url": "https://www.theinformation.com/briefings/china-blocks-softbanks-5-4-billion-abb-robotics-deal",
+    "time": "11-05 18:52",
+    "raw_time": "2026-11-05T18:52:30Z"
+   }
+  ]
+ },
+ {
+  "source": "Lobsters",
+  "source_url": "https://lobste.rs/rss",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "lobsters",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.3s",
+  "elapsed_seconds": 0.285,
+  "items": [
+   {
+    "title": "sshhole",
+    "url": "https://sshhole.com/",
+    "time": "11-05 12:24",
+    "raw_time": "Thu, 05 Nov 2026 06:24:42 -0600"
+   },
+   {
+    "title": "September in Servo: progress, rounded rectangles, and more",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "time": "11-05 13:47",
+    "raw_time": "Thu, 05 Nov 2026 07:47:56 -0600"
+   },
+   {
+    "title": "Declarative Dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "time": "11-05 00:35",
+    "raw_time": "Wed, 04 Nov 2026 18:35:09 -0600"
+   },
+   {
+    "title": "Software Line Specialist",
+    "url": "https://lovro-bikic.github.io/software-line-specialist/",
+    "time": "11-05 16:32",
+    "raw_time": "Thu, 05 Nov 2026 10:32:29 -0600"
+   },
+   {
+    "title": "So my ISP was hijacking my DNS",
+    "url": "https://karthihegde.dev/posts/dns_tampering",
+    "time": "11-04 12:06",
+    "raw_time": "Wed, 04 Nov 2026 06:06:23 -0600"
+   },
+   {
+    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+    "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+    "time": "11-04 15:23",
+    "raw_time": "Wed, 04 Nov 2026 09:23:09 -0600"
+   },
+   {
+    "title": "A Look at Datastar",
+    "url": "https://noteflakes.com/articles/2026-11-04-datastar",
+    "time": "11-05 10:44",
+    "raw_time": "Thu, 05 Nov 2026 04:44:57 -0600"
+   },
+   {
+    "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
+    "url": "https://wiredream.com/anagram-fun/",
+    "time": "11-05 07:37",
+    "raw_time": "Thu, 05 Nov 2026 01:37:35 -0600"
+   }
+  ]
+ },
+ {
+  "source": "Product Hunt",
+  "source_url": "https://www.producthunt.com/feed",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "producthunt",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.082,
+  "items": [
+   {
+    "title": "Rerun",
+    "url": "https://www.producthunt.com/products/rerun-2",
+    "time": "11-05 19:48",
+    "raw_time": "2026-11-05T11:48:04-08:00"
+   },
+   {
+    "title": "Living Brain",
+    "url": "https://www.producthunt.com/products/chatandbuild",
+    "time": "11-05 19:43",
+    "raw_time": "2026-11-05T11:43:58-08:00"
+   },
+   {
+    "title": "Rainbrand",
+    "url": "https://www.producthunt.com/products/rainbrand",
+    "time": "11-05 19:52",
+    "raw_time": "2026-11-05T11:52:43-08:00"
+   },
+   {
+    "title": "Maritime",
+    "url": "https://www.producthunt.com/products/maritime",
+    "time": "11-05 19:52",
+    "raw_time": "2026-11-05T11:52:52-08:00"
+   },
+   {
+    "title": "Bridge",
+    "url": "https://www.producthunt.com/products/meetonbridge",
+    "time": "11-05 19:51",
+    "raw_time": "2026-11-05T11:51:53-08:00"
+   },
+   {
+    "title": "SafetyClip",
+    "url": "https://www.producthunt.com/products/safetyclip",
+    "time": "11-05 18:08",
+    "raw_time": "2026-11-05T10:08:06-08:00"
+   },
+   {
+    "title": "MCPCore",
+    "url": "https://www.producthunt.com/products/mcpcore",
+    "time": "11-05 17:35",
+    "raw_time": "2026-11-05T09:35:19-08:00"
+   },
+   {
+    "title": "DearCameo",
+    "url": "https://www.producthunt.com/products/dearcameo",
+    "time": "11-05 18:05",
+    "raw_time": "2026-11-05T10:05:02-08:00"
+   }
+  ]
+ },
+ {
+  "source": "Google News AI（英文）",
+  "source_url": "https://news.google.com/rss/search?q=AI&hl=en-US&gl=US&ceid=US:en",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "googlenews",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.5s",
+  "elapsed_seconds": 0.504,
+  "items": [
+   {
+    "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS2w0NHNjZzd4OFBHcklxdzBmYmdnV2hyQ0xKVHA0Tm1ENFY3Z1FsemZNZ2J1eU9Xa2VQSExGTEVmOVpiYkJrZVpjRUlnMVRNUnlxTEdWSWVsZ2JFR0UxU2dKd2FXOXJDN2dTOUZmZk5UdTVJdS1jdEtRM1B6QQ?oc=5",
+    "time": "11-05 08:00",
+    "raw_time": "Thu, 05 Nov 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says - AP News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU5MeHUxWDhnY0d4UE9OUFVjSWpLVnd1UEw4a1ZiY2EzaU85b2Q0NHFlRkFGMk9OakM1VjVVTzB1NnktZ3RKaW9MQ3ZlOTItV21ZcUd6WU9zQVRyZmRvN0FPYXRFbEZ6aDBCdENjZHRoV3pFWUJoelZEN2xaNkFKZUYxVXFhUWtjTjEtbTdKMnBxRVBUMFUwMmo3Q0ZhZw?oc=5",
+    "time": "11-05 18:05",
+    "raw_time": "Thu, 05 Nov 2026 18:05:00 GMT"
+   },
+   {
+    "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGdBZmd5QzZyU2xDSU9Jd1N3ZFZjMC1odkgzWjhFbkdNMUdyNG9nVzV4TTBXVUhYckhBc1pJWEMzU3UyYjlnbXlMZTFRYjRaXzJTbmVPZGRmR3BPMHE1X0pIb19kYUZFTzVWeTdQN0U0TmI1TDZqMkktLUJKNjdYQXVLWGNxSG5BRDJGS21kVTNXVll1Q1REc0xySHMwWlpzajdqa2tBVWNsWHMwQWVqbWFGY1pDWV9B?oc=5",
+    "time": "11-05 18:53",
+    "raw_time": "Thu, 05 Nov 2026 18:53:41 GMT"
+   },
+   {
+    "title": "Stocks plunge as AI worries crush tech shares - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+    "time": "11-05 04:57",
+    "raw_time": "Thu, 05 Nov 2026 04:57:16 GMT"
+   },
+   {
+    "title": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXhpS3pHOUtRckZzVEhDZ1ZZZ29uMHE0N3RSWHZsZ2IzZTJ5ZjBaYURBRWxiNjRsVkFXbExXT2c0a1d4VUx6T2otWDJZanpJVlMtc0g2QjZhaW5uYVRZdGNVT2NOd2RjTERhbE9KbU9lblpDR0FUOEZDbXFWRlNEd0JYWWtORGE3cEt1REdkZ0R5N2dfYW1fSFphX2Z0RkxhWThRRzZsMy1wMS1EZ2x2LW52Yzk?oc=5",
+    "time": "11-05 15:31",
+    "raw_time": "Thu, 05 Nov 2026 15:31:17 GMT"
+   },
+   {
+    "title": "CNBC's experts on whether the AI trade is ending and what investors should do next - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTlYemZKWHZrM1prVjdSeWptNFBoaDFoZ3h0aWlEOFR6d21ObDgxWkhDd2hIeEJzc2ZoaHA3LW5PcDF2bVdzTEtaaU1fNGFEN0syRlduM2JFYTJUM2t2RWFrOEVlM1ZXMkw4N0F5RGk0RWtnUk9DcGcyRURhNjhTTV9BVldXTjBnbDVNaXNyMnM1dmVoX0dCQzFmWUlYbTZiZUFfR1lZcFQ2ek02N1BNOHRHQlFzRGVteXc?oc=5",
+    "time": "11-05 18:58",
+    "raw_time": "Thu, 05 Nov 2026 18:58:48 GMT"
+   },
+   {
+    "title": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTlsX0wxZ3dEaEhiYm9fOUc4TEJka2dNUDdta2MtcDNEejlxMW1CZ3lFazBfZlFFb1owbWFjN1JLc21nVTlsQjlxdXNrZnlFRmNrcUJnQmpDRnFNLVdtR3cxQ1g4am9GTHZhLTNSZk9sTWh3QlQ5dzUtS3VvNkl0WVFwOVdydjVWTGpSRHI0RktrUFdmYU9yNHBHN3ZvZ1E?oc=5",
+    "time": "11-05 19:48",
+    "raw_time": "Thu, 05 Nov 2026 19:48:28 GMT"
+   },
+   {
+    "title": "Meeting the challenges of AI leadership - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFlkbldiV1J2YTFmeV9RR0ZJZGxNa2hHaEJzbEtQVzZRSWNyY24zaV9JM01OSVBSSXZsbUpRZmhRY3RMTmc4X0QzLXd2b0NFOTd1ZmUybmlIQTZlTUtYREVYV3M5Ulo2ZEhBbzJHcWVSWEpNd2tXM0gxOWhxcDRfWmNB?oc=5",
+    "time": "11-05 19:47",
+    "raw_time": "Thu, 05 Nov 2026 19:47:44 GMT"
+   }
+  ]
+ },
+ {
+  "source": "VentureBeat AI",
+  "source_url": "https://venturebeat.com/category/ai/feed/",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "venturebeat",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "fetch_error",
+  "note": "打不开 HTTPError",
+  "elapsed_seconds": 0.082,
+  "items": []
+ },
+ {
+  "source": "OpenAI News",
+  "source_url": "https://openai.com/news/rss.xml",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "openai",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.083,
+  "items": [
+   {
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "time": "11-05 09:00",
+    "raw_time": "Thu, 05 Nov 2026 09:00:00 GMT"
+   },
+   {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "time": "11-05 02:00",
+    "raw_time": "Thu, 05 Nov 2026 02:00:00 GMT"
+   },
+   {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "time": "11-04 14:30",
+    "raw_time": "Wed, 04 Nov 2026 14:30:00 GMT"
+   },
+   {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "time": "11-04 07:00",
+    "raw_time": "Wed, 04 Nov 2026 07:00:00 GMT"
+   },
+   {
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "time": "11-04 08:00",
+    "raw_time": "Wed, 04 Nov 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "time": "11-04 00:00",
+    "raw_time": "Wed, 04 Nov 2026 00:00:00 GMT"
+   },
+   {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "time": "11-04 00:00",
+    "raw_time": "Wed, 04 Nov 2026 00:00:00 GMT"
+   },
+   {
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "time": "11-03 12:00",
+    "raw_time": "Tue, 03 Nov 2026 12:00:00 GMT"
+   }
+  ]
+ },
+ {
+  "source": "Reddit r/artificial",
+  "source_url": "https://www.reddit.com/r/artificial/top/.rss?t=day",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "reddit",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.226,
+  "items": [
+   {
+    "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
+    "time": "11-05 07:50",
+    "raw_time": "2026-11-05T07:50:01+00:00"
+   },
+   {
+    "title": "Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” - AUTOMATON WEST",
+    "url": "https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/",
+    "time": "11-05 19:02",
+    "raw_time": "2026-11-05T19:02:25+00:00"
+   },
+   {
+    "title": "Could AI search hurt ad business?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo874r/could_ai_search_hurt_ad_business/",
+    "time": "11-05 03:18",
+    "raw_time": "2026-11-05T03:18:27+00:00"
+   },
+   {
+    "title": "Where Did the People in Between Go?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/",
+    "time": "11-05 11:10",
+    "raw_time": "2026-11-05T11:10:35+00:00"
+   },
+   {
+    "title": "Cognition launches SWE-2 Flash: a coding agent model 3x faster at one-fifth the price",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo27a9/cognition_launches_swe2_flash_a_coding_agent/",
+    "time": "11-04 22:38",
+    "raw_time": "2026-11-04T22:38:44+00:00"
+   },
+   {
+    "title": "The missing AI number",
+    "url": "https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/",
+    "time": "11-05 16:46",
+    "raw_time": "2026-11-05T16:46:26+00:00"
+   },
+   {
+    "title": "Investigating vault particles with Claude",
+    "url": "https://www.reddit.com/r/artificial/comments/1xor7bc/investigating_vault_particles_with_claude/",
+    "time": "11-05 19:03",
+    "raw_time": "2026-11-05T19:03:32+00:00"
+   },
+   {
+    "title": "A logged AI prompt and a prompt tied to your name are two different problems",
+    "url": "https://www.reddit.com/r/artificial/comments/1xoj0n6/a_logged_ai_prompt_and_a_prompt_tied_to_your_name/",
+    "time": "11-05 13:45",
+    "raw_time": "2026-11-05T13:45:38+00:00"
+   }
+  ]
+ },
+ {
+  "source": "arXiv cs.AI",
+  "source_url": "https://export.arxiv.org/rss/cs.AI",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "arxiv",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.117,
+  "items": [
+   {
+    "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+    "url": "https://arxiv.org/abs/2611.05390",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+    "url": "https://arxiv.org/abs/2611.05391",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+    "url": "https://arxiv.org/abs/2611.05392",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+    "url": "https://arxiv.org/abs/2611.05393",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+    "url": "https://arxiv.org/abs/2611.05394",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+    "url": "https://arxiv.org/abs/2611.05450",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+    "url": "https://arxiv.org/abs/2611.05459",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   },
+   {
+    "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+    "url": "https://arxiv.org/abs/2611.05512",
+    "time": "11-05 05:00",
+    "raw_time": "Thu, 05 Nov 2026 00:00:00 -0500"
+   }
+  ]
+ },
+ {
+  "source": "ITmedia AI+（日文）",
+  "source_url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+  "source_type": "rss",
+  "group": "AI",
+  "platform": "itmedia",
+  "lang": "ja",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.7s",
+  "elapsed_seconds": 0.703,
+  "items": [
+   {
+    "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+    "time": "11-05 10:02",
+    "raw_time": "Thu, 05 Nov 2026 19:02:02 +0900"
+   },
+   {
+    "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+    "time": "11-05 04:24",
+    "raw_time": "Thu, 05 Nov 2026 13:24:50 +0900"
+   },
+   {
+    "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
+    "time": "11-05 04:05",
+    "raw_time": "Thu, 05 Nov 2026 13:05:02 +0900"
+   },
+   {
+    "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+    "time": "11-05 01:59",
+    "raw_time": "Thu, 05 Nov 2026 10:59:38 +0900"
+   },
+   {
+    "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+    "time": "11-05 00:58",
+    "raw_time": "Thu, 05 Nov 2026 09:58:31 +0900"
+   },
+   {
+    "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
+    "time": "11-05 00:00",
+    "raw_time": "Thu, 05 Nov 2026 09:00:00 +0900"
+   },
+   {
+    "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+    "time": "11-04 22:00",
+    "raw_time": "Thu, 05 Nov 2026 07:00:00 +0900"
+   },
+   {
+    "title": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html",
+    "time": "11-04 22:00",
+    "raw_time": "Thu, 05 Nov 2026 07:00:00 +0900"
+   }
+  ]
+ },
+ {
+  "source": "Yahoo Japan 热门（日文）",
+  "source_url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "yahoojp",
+  "lang": "ja",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.8s",
+  "elapsed_seconds": 0.822,
+  "items": [
+   {
+    "title": "露 JT資産を同国企業の管理下に",
+    "url": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
+    "time": "11-05 12:57",
+    "raw_time": "Thu, 05 Nov 2026 12:57:53 GMT"
+   },
+   {
+    "title": "めぐみさん拉致 母「会いたい」",
+    "url": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
+    "time": "11-05 11:11",
+    "raw_time": "Thu, 05 Nov 2026 11:11:25 GMT"
+   },
+   {
+    "title": "自転車の青切符 半年で約1.6万件",
+    "url": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
+    "time": "11-05 11:08",
+    "raw_time": "Thu, 05 Nov 2026 11:08:11 GMT"
+   },
+   {
+    "title": "蔵内前議長 条件尽くしの異例会見",
+    "url": "https://news.yahoo.co.jp/pickup/6601474?source=rss",
+    "time": "11-05 14:40",
+    "raw_time": "Thu, 05 Nov 2026 14:40:30 GMT"
+   },
+   {
+    "title": "日本製紙 八代工場の紙生産断念へ",
+    "url": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
+    "time": "11-05 13:52",
+    "raw_time": "Thu, 05 Nov 2026 13:52:04 GMT"
+   },
+   {
+    "title": "「ドンキ流トイザらス」が始動",
+    "url": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
+    "time": "11-05 13:36",
+    "raw_time": "Thu, 05 Nov 2026 13:36:12 GMT"
+   },
+   {
+    "title": "市場で1匹10万円の高級魚 養殖へ",
+    "url": "https://news.yahoo.co.jp/pickup/6601469?source=rss",
+    "time": "11-05 13:25",
+    "raw_time": "Thu, 05 Nov 2026 13:25:37 GMT"
+   },
+   {
+    "title": "電撃辞任の岡田氏 JFA会長が言及",
+    "url": "https://news.yahoo.co.jp/pickup/6601449?source=rss",
+    "time": "11-05 09:03",
+    "raw_time": "Thu, 05 Nov 2026 09:03:16 GMT"
+   }
+  ]
+ },
+ {
+  "source": "NHK 主要（日文）",
+  "source_url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "nhk",
+  "lang": "ja",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.5s",
+  "elapsed_seconds": 0.481,
+  "items": [
+   {
+    "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+    "time": "08-08 12:54",
+    "raw_time": "Sat, 08 Aug 2026 21:54:30 +0900"
+   },
+   {
+    "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+    "time": "08-08 14:17",
+    "raw_time": "Sat, 08 Aug 2026 23:17:32 +0900"
+   },
+   {
+    "title": "愛知県内で水難事故相次ぐ 2人死亡",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
+    "time": "08-08 14:06",
+    "raw_time": "Sat, 08 Aug 2026 23:06:51 +0900"
+   },
+   {
+    "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
+    "time": "08-08 11:53",
+    "raw_time": "Sat, 08 Aug 2026 20:53:49 +0900"
+   },
+   {
+    "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
+    "time": "08-08 11:29",
+    "raw_time": "Sat, 08 Aug 2026 20:29:37 +0900"
+   },
+   {
+    "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+    "time": "08-08 09:38",
+    "raw_time": "Sat, 08 Aug 2026 18:38:23 +0900"
+   },
+   {
+    "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+    "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+    "time": "08-08 11:55",
+    "raw_time": "Sat, 08 Aug 2026 20:55:50 +0900"
+   }
+  ]
+ },
+ {
+  "source": "韩联社（英文）",
+  "source_url": "https://en.yna.co.kr/RSS/news.xml",
+  "source_type": "rss",
+  "group": "海外",
+  "platform": "yonhap",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "1.6s",
+  "elapsed_seconds": 1.649,
+  "items": [
+   {
+    "title": "USFK chief, Japanese defense minister discuss regional defense cooperation",
+    "url": "https://en.yna.co.kr/view/AEN20261106000200315",
+    "time": "11-05 16:06",
+    "raw_time": "Fri, 6 Nov 2026 01:06:25 +0900"
+   },
+   {
+    "title": "Korean American Rep. Dave Min wins reelection to U.S. House",
+    "url": "https://en.yna.co.kr/view/AEN20261105011100315",
+    "time": "11-05 14:14",
+    "raw_time": "Thu, 5 Nov 2026 23:14:53 +0900"
+   },
+   {
+    "title": "Lee says his social network activity aims to hear from people; vows continued outreach",
+    "url": "https://en.yna.co.kr/view/AEN20261105011000315",
+    "time": "11-05 12:54",
+    "raw_time": "Thu, 5 Nov 2026 21:54:40 +0900"
+   },
+   {
+    "title": "(2nd LD) Cheong Wa Dae says U.S. midterm results unlikely to affect S. Korea-U.S. alliance",
+    "url": "https://en.yna.co.kr/view/AEN20261105005352315",
+    "time": "11-05 12:42",
+    "raw_time": "Thu, 5 Nov 2026 21:42:31 +0900"
+   },
+   {
+    "title": "N. Korean fishing boat found in waters off Ulleungdo",
+    "url": "https://en.yna.co.kr/view/AEN20261105010900320",
+    "time": "11-05 11:49",
+    "raw_time": "Thu, 5 Nov 2026 20:49:39 +0900"
+   },
+   {
+    "title": "Sewol ferry sinking archive, ancient cookbooks added to regional UNESCO list",
+    "url": "https://en.yna.co.kr/view/AEN20261105010800315",
+    "time": "11-05 11:30",
+    "raw_time": "Thu, 5 Nov 2026 20:30:56 +0900"
+   },
+   {
+    "title": "Appeals court to rule on ex-President Yoon's martial law case on Jan. 26",
+    "url": "https://en.yna.co.kr/view/AEN20261105010700315",
+    "time": "11-05 11:10",
+    "raw_time": "Thu, 5 Nov 2026 20:10:42 +0900"
+   },
+   {
+    "title": "(3rd LD) Special counsel bill on alleged fabricated indictments introduced at plenary session",
+    "url": "https://en.yna.co.kr/view/AEN20261105004753315",
+    "time": "11-05 10:08",
+    "raw_time": "Thu, 5 Nov 2026 19:08:44 +0900"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 美国",
+  "source_url": "https://trends.google.com/trending/rss?geo=US",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-us",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.091,
+  "items": [
+   {
+    "title": "newsom",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "celtic vs beşiktaş",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "leverkusen vs marseille",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "tilman fertitta",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "getafe vs brighton",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "az - juventus",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "benfica vs lech poznań",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "tampa citibank shooting",
+    "url": "https://trends.google.com/trending/rss?geo=US",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 英国",
+  "source_url": "https://trends.google.com/trending/rss?geo=GB",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-gb",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.193,
+  "items": [
+   {
+    "title": "benfica – lech poznań",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "marco rubio",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "crystal palace",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "leverkusen vs marseille",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "cpfc",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "getafe",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "noah kahan",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "getafe vs brighton",
+    "url": "https://trends.google.com/trending/rss?geo=GB",
+    "time": "11-05 19:10",
+    "raw_time": "Thu, 5 Nov 2026 11:10:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 新加坡",
+  "source_url": "https://trends.google.com/trending/rss?geo=SG",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-sg",
+  "lang": "en",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.5s",
+  "elapsed_seconds": 0.481,
+  "items": [
+   {
+    "title": "sparta praha vs bournemouth",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 18:00",
+    "raw_time": "Thu, 5 Nov 2026 10:00:00 -0800"
+   },
+   {
+    "title": "charles leclerc",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 16:50",
+    "raw_time": "Thu, 5 Nov 2026 08:50:00 -0800"
+   },
+   {
+    "title": "vix",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 5 Nov 2026 08:00:00 -0800"
+   },
+   {
+    "title": "voo",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 15:50",
+    "raw_time": "Thu, 5 Nov 2026 07:50:00 -0800"
+   },
+   {
+    "title": "microsoft share price",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 15:50",
+    "raw_time": "Thu, 5 Nov 2026 07:50:00 -0800"
+   },
+   {
+    "title": "sp500",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 15:40",
+    "raw_time": "Thu, 5 Nov 2026 07:40:00 -0800"
+   },
+   {
+    "title": "yahoo finance",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 15:40",
+    "raw_time": "Thu, 5 Nov 2026 07:40:00 -0800"
+   },
+   {
+    "title": "micron share price",
+    "url": "https://trends.google.com/trending/rss?geo=SG",
+    "time": "11-05 15:20",
+    "raw_time": "Thu, 5 Nov 2026 07:20:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 日本",
+  "source_url": "https://trends.google.com/trending/rss?geo=JP",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-jp",
+  "lang": "ja",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.21,
+  "items": [
+   {
+    "title": "ビットコイン",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "熱帯低気圧",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "台湾",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "スライドドア",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "特別番組",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:30",
+    "raw_time": "Thu, 5 Nov 2026 11:30:00 -0800"
+   },
+   {
+    "title": "ミゲル ロハス",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "キスマイ藤ヶ谷",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:20",
+    "raw_time": "Thu, 5 Nov 2026 11:20:00 -0800"
+   },
+   {
+    "title": "喧嘩",
+    "url": "https://trends.google.com/trending/rss?geo=JP",
+    "time": "11-05 19:10",
+    "raw_time": "Thu, 5 Nov 2026 11:10:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 韩国",
+  "source_url": "https://trends.google.com/trending/rss?geo=KR",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-kr",
+  "lang": "ko",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.1s",
+  "elapsed_seconds": 0.131,
+  "items": [
+   {
+    "title": "텍사스 주지사",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 18:50",
+    "raw_time": "Thu, 5 Nov 2026 10:50:00 -0800"
+   },
+   {
+    "title": "신민아",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 18:40",
+    "raw_time": "Thu, 5 Nov 2026 10:40:00 -0800"
+   },
+   {
+    "title": "수소",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 18:00",
+    "raw_time": "Thu, 5 Nov 2026 10:00:00 -0800"
+   },
+   {
+    "title": "예산",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 18:00",
+    "raw_time": "Thu, 5 Nov 2026 10:00:00 -0800"
+   },
+   {
+    "title": "알테오젠",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 17:40",
+    "raw_time": "Thu, 5 Nov 2026 09:40:00 -0800"
+   },
+   {
+    "title": "김지선",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 17:00",
+    "raw_time": "Thu, 5 Nov 2026 09:00:00 -0800"
+   },
+   {
+    "title": "수술",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 16:10",
+    "raw_time": "Thu, 5 Nov 2026 08:10:00 -0800"
+   },
+   {
+    "title": "아이렌",
+    "url": "https://trends.google.com/trending/rss?geo=KR",
+    "time": "11-05 15:50",
+    "raw_time": "Thu, 5 Nov 2026 07:50:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 台湾",
+  "source_url": "https://trends.google.com/trending/rss?geo=TW",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-tw",
+  "lang": "zh-tw",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.2s",
+  "elapsed_seconds": 0.205,
+  "items": [
+   {
+    "title": "消費",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "威力 彩 開獎",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 19:40",
+    "raw_time": "Thu, 5 Nov 2026 11:40:00 -0800"
+   },
+   {
+    "title": "期貨夜盤",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 18:10",
+    "raw_time": "Thu, 5 Nov 2026 10:10:00 -0800"
+   },
+   {
+    "title": "yassamin ansari",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 17:00",
+    "raw_time": "Thu, 5 Nov 2026 09:00:00 -0800"
+   },
+   {
+    "title": "ai禁令",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 16:30",
+    "raw_time": "Thu, 5 Nov 2026 08:30:00 -0800"
+   },
+   {
+    "title": "巴拉圭",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 16:20",
+    "raw_time": "Thu, 5 Nov 2026 08:20:00 -0800"
+   },
+   {
+    "title": "南機場夜市",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 16:20",
+    "raw_time": "Thu, 5 Nov 2026 08:20:00 -0800"
+   },
+   {
+    "title": "國旅",
+    "url": "https://trends.google.com/trending/rss?geo=TW",
+    "time": "11-05 15:50",
+    "raw_time": "Thu, 5 Nov 2026 07:50:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "Google Trends 香港",
+  "source_url": "https://trends.google.com/trending/rss?geo=HK",
+  "source_type": "rss",
+  "group": "热搜词",
+  "platform": "gtrends-hk",
+  "lang": "zh-hk",
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.7s",
+  "elapsed_seconds": 0.651,
+  "items": [
+   {
+    "title": "dow jones index",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 16:00",
+    "raw_time": "Thu, 5 Nov 2026 08:00:00 -0800"
+   },
+   {
+    "title": "道指",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:40",
+    "raw_time": "Thu, 5 Nov 2026 07:40:00 -0800"
+   },
+   {
+    "title": "russell brand",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:40",
+    "raw_time": "Thu, 5 Nov 2026 07:40:00 -0800"
+   },
+   {
+    "title": "vix",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:30",
+    "raw_time": "Thu, 5 Nov 2026 07:30:00 -0800"
+   },
+   {
+    "title": "tsla",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:30",
+    "raw_time": "Thu, 5 Nov 2026 07:30:00 -0800"
+   },
+   {
+    "title": "mu stock",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:30",
+    "raw_time": "Thu, 5 Nov 2026 07:30:00 -0800"
+   },
+   {
+    "title": "sndk",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:20",
+    "raw_time": "Thu, 5 Nov 2026 07:20:00 -0800"
+   },
+   {
+    "title": "nvda",
+    "url": "https://trends.google.com/trending/rss?geo=HK",
+    "time": "11-05 15:10",
+    "raw_time": "Thu, 5 Nov 2026 07:10:00 -0800"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 牛客",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=nowcoder",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "nowcoder",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.366,
+  "items": [
+   {
+    "title": "我真的和我的双非和解了吗？",
+    "url": "https://www.nowcoder.com/discuss/947171892287336448",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "因为踢球踢得好，拿到了offer！",
+    "url": "https://www.nowcoder.com/feed/main/detail/dcbfb5229fb544f7ad6238a95865a416",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "秋招而已，别太为难自己",
+    "url": "https://www.nowcoder.com/feed/main/detail/93e9a7aa5de74f2a8de5984db888a4d9",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "27秋招寒潮下对28届的求职建议（一）: 关于实习",
+    "url": "https://www.nowcoder.com/discuss/947107001916538880",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "转正表白后续：好像真的拿到大结果了？？？",
+    "url": "https://www.nowcoder.com/feed/main/detail/82af09379e234a919f82c60a49c5a044",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "27秋招寒潮下对28届的求职建议（三）: 关于项目",
+    "url": "https://www.nowcoder.com/discuss/947116531786280960",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "27秋招寒潮下对28届的求职建议（二）: 关于简历",
+    "url": "https://www.nowcoder.com/discuss/947112882280341504",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "面试黑话知多少",
+    "url": "https://www.nowcoder.com/discuss/947434067463512064",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 凤凰网",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=ifeng",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "ifeng",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.409,
+  "items": [
+   {
+    "title": "万斯发长文与特朗普切割？特朗普回应",
+    "url": "https://news.ifeng.com/c/8xo5HAP62LX",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美国中期选举之后，世界有3大疑问",
+    "url": "https://news.ifeng.com/c/8xoIbiqBUIt",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "美众议长约翰逊：将不再竞选党派领袖",
+    "url": "https://news.ifeng.com/c/8xo0myh6EAq",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "中期选举惨败后，特朗普首次公开露面(图)",
+    "url": "https://news.ifeng.com/c/8xoF88iEdTb",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "特朗普选输，日本先怕了",
+    "url": "https://news.ifeng.com/c/8xoNqjlAt87",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "外交部回应美国中期选举之后的中美关系",
+    "url": "https://news.ifeng.com/c/8xo2kpJhXm0",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "胡塞武装一开口，问沙特要了个“猛价”",
+    "url": "https://news.ifeng.com/c/8xo0CtahKxh",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "商务部回应扩大自美采购农产品",
+    "url": "https://news.ifeng.com/c/8xo2KY4QtNb",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 虫部落 最新",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=chongbuluo-latest",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "chongbuluo",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.372,
+  "items": [
+   {
+    "title": "《读者》还有多少人在看这个杂志",
+    "url": "https://www.chongbuluo.com/thread-25338-1-1.html",
+    "time": "11-05 07:39",
+    "raw_time": "Thu, 05 Nov 2026 07:39:00 +0000"
+   },
+   {
+    "title": "用英文视频做精听：先问一个问题，再逐句核对",
+    "url": "https://www.chongbuluo.com/thread-25337-1-1.html",
+    "time": "11-05 03:06",
+    "raw_time": "Thu, 05 Nov 2026 03:06:40 +0000"
+   },
+   {
+    "title": "请教闲鱼上那些便宜二手iPhone能不能入？有哪些坑？",
+    "url": "https://www.chongbuluo.com/thread-25336-1-1.html",
+    "time": "11-04 14:41",
+    "raw_time": "Wed, 04 Nov 2026 14:41:33 +0000"
+   },
+   {
+    "title": "「更高效、更低成本地使用企业级AI」 Newape.AI 低价｜稳定｜防封",
+    "url": "https://www.chongbuluo.com/thread-25335-1-1.html",
+    "time": "11-04 11:56",
+    "raw_time": "Wed, 04 Nov 2026 11:56:22 +0000"
+   },
+   {
+    "title": "[原创工具] LAN快传 v1.6.8：免安装单文件671KB，手机扫码秒传文件（防微信拦截、文件收集神器）",
+    "url": "https://www.chongbuluo.com/thread-25334-1-1.html",
+    "time": "11-04 10:09",
+    "raw_time": "Wed, 04 Nov 2026 10:09:53 +0000"
+   },
+   {
+    "title": "抖音去水印下载工具v3.2.0 实测可下抖音/快手/小红书【28MB】",
+    "url": "https://www.chongbuluo.com/thread-25333-1-1.html",
+    "time": "11-04 07:22",
+    "raw_time": "Wed, 04 Nov 2026 07:22:43 +0000"
+   },
+   {
+    "title": "【自荐】分享一个用键盘练英语拼写的网站：HappyTapper",
+    "url": "https://www.chongbuluo.com/thread-25332-1-1.html",
+    "time": "11-04 06:24",
+    "raw_time": "Wed, 04 Nov 2026 06:24:26 +0000"
+   },
+   {
+    "title": "分享一款写论文软件《有墨氏》",
+    "url": "https://www.chongbuluo.com/thread-25330-1-1.html",
+    "time": "11-04 03:54",
+    "raw_time": "Wed, 04 Nov 2026 03:54:13 +0000"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 豆瓣",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=douban",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "douban",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.355,
+  "items": [
+   {
+    "title": "血色机库",
+    "url": "https://movie.douban.com/subject/37293105",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "敦煌英雄",
+    "url": "https://movie.douban.com/subject/35244246",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "不存在的罪人",
+    "url": "https://movie.douban.com/subject/37124892",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "逃出布迪秀",
+    "url": "https://movie.douban.com/subject/37446297",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "杯雪·一战成名",
+    "url": "https://movie.douban.com/subject/37516455",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "突如其来",
+    "url": "https://movie.douban.com/subject/37342630",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "生化危机：爆发夜",
+    "url": "https://movie.douban.com/subject/37068446",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "可能的爱",
+    "url": "https://movie.douban.com/subject/36847425",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow Steam",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=steam",
+  "source_type": "json",
+  "group": "产品",
+  "platform": "steam",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.422,
+  "items": [
+   {
+    "title": "Counter-Strike 2",
+    "url": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "Dota 2",
+    "url": "https://store.steampowered.com/app/570/Dota_2/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "PUBG: BATTLEGROUNDS",
+    "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "AION 2",
+    "url": "https://store.steampowered.com/app/3393110/AION_2/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "Bongo Cat",
+    "url": "https://store.steampowered.com/app/3419430/Bongo_Cat/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "Rust",
+    "url": "https://store.steampowered.com/app/252490/Rust/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "Call of Duty®",
+    "url": "https://store.steampowered.com/app/1938090/Call_of_Duty/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   },
+   {
+    "title": "Phantom Blade Zero",
+    "url": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/",
+    "time": "11-05 19:33",
+    "raw_time": "1793907238525"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 腾讯新闻 综合早报",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=tencent-hot",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "tencent",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.378,
+  "items": [
+   {
+    "title": "俄外交部：建议本国公民暂勿前往伊朗",
+    "url": "https://view.inews.qq.com/a/20261105A0EU8L00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "特朗普称仍打算让赫格塞思留任美防长",
+    "url": "https://view.inews.qq.com/a/20261105A0EASF00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "以色列阿拉伯裔政党联盟：推荐埃森科特组阁，旨在阻止内塔尼亚胡留任",
+    "url": "https://view.inews.qq.com/a/20261105A0EQIV00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "居民医保参保人数连续7年下降，人数减少8300万？国家医保局回应",
+    "url": "https://view.inews.qq.com/a/20261105A0B3NQ00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "明年放假安排出炉：9天春节假期点燃旅游市场，有旅客下单除夕前一日机票",
+    "url": "https://view.inews.qq.com/a/20261105A0EDVD00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "英国央行三年来首次加息，警告若伊朗战争持续将继续收紧政策",
+    "url": "https://view.inews.qq.com/a/20261105A0DSPH00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "“一天能亏1000多元”，R1、R2理财净值也回撤，稳健理财最近怎么了？",
+    "url": "https://view.inews.qq.com/a/20261105A0DHNX00",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "如何做养老投资？专家：长期持有、分散配置拿平均收益、不折腾",
+    "url": "https://view.inews.qq.com/a/20261105A0B80100",
+    "time": "",
+    "raw_time": ""
+   }
+  ]
+ },
+ {
+  "source": "NewsNow Freebuf",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=freebuf",
+  "source_type": "json",
+  "group": "科技",
+  "platform": "freebuf",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.7s",
+  "elapsed_seconds": 0.697,
+  "items": [
+   {
+    "title": "离职电脑没清干净，公司用恢复软件把和新公司的聊天、项目资料全挖了出来，然后拿着这些证据索赔。",
+    "url": "https://www.freebuf.com/articles/database/510950.html",
+    "time": "11-05 09:09",
+    "raw_time": "Thu, 05 Nov 2026 17:09:17 +0800"
+   },
+   {
+    "title": "美国起诉两名加籍男子，涉嫌入侵高校超算挖矿",
+    "url": "https://www.freebuf.com/news/510901.html",
+    "time": "11-04 22:20",
+    "raw_time": "Thu, 05 Nov 2026 06:20:56 +0800"
+   },
+   {
+    "title": "OpenAI网络模型发现948个Linux内核提权漏洞，单次运行完成全流程验证",
+    "url": "https://www.freebuf.com/articles/system/510862.html",
+    "time": "11-04 18:42",
+    "raw_time": "Thu, 05 Nov 2026 02:42:57 +0800"
+   },
+   {
+    "title": "APT29关联黑客劫持网页分析脚本，投递iOS与Android漏洞利用载荷",
+    "url": "https://www.freebuf.com/news/510751.html",
+    "time": "11-04 11:57",
+    "raw_time": "Wed, 04 Nov 2026 19:57:52 +0800"
+   },
+   {
+    "title": "FreeBuf早报 | 朝鲜黑客滥用内部AI工具与虚假招聘面试；新型窃密木马盗取AI工具认证令牌",
+    "url": "https://www.freebuf.com/news/510707.html",
+    "time": "11-04 11:30",
+    "raw_time": "Wed, 04 Nov 2026 19:30:07 +0800"
+   },
+   {
+    "title": "819 个技能包塞进 Claude Code，四个团伙把 AI Agent 编制成入侵军团",
+    "url": "https://www.freebuf.com/articles/vuls/510691.html",
+    "time": "11-04 10:23",
+    "raw_time": "Wed, 04 Nov 2026 18:23:31 +0800"
+   },
+   {
+    "title": "Ruby on Rails曝出高危漏洞，攻击者可利用ImageMagick上传逻辑写入服务器任意文件",
+    "url": "https://www.freebuf.com/news/510732.html",
+    "time": "11-04 09:37",
+    "raw_time": "Wed, 04 Nov 2026 17:37:04 +0800"
+   },
+   {
+    "title": "Xen Hypervisor曝高危漏洞，恶意VM可读写同主机任意VM内存",
+    "url": "https://www.freebuf.com/articles/system/510735.html",
+    "time": "11-04 09:16",
+    "raw_time": "Wed, 04 Nov 2026 17:16:27 +0800"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 腾讯视频 热搜榜",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=qqvideo-tv-hotsearch",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "qqvideo",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.368,
+  "items": [
+   {
+    "title": "走马上任",
+    "url": "https://v.qq.com/x/cover/mzc00200zsqz54y.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "兰香如故",
+    "url": "https://v.qq.com/x/cover/mzc00200803dr6b.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "兰香如故·花胜秋宴",
+    "url": "https://v.qq.com/x/cover/mzc002002x2e65z.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "伟大的长征",
+    "url": "https://v.qq.com/x/cover/mzc00200p1ilkw3.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "你是世间璀璨",
+    "url": "https://v.qq.com/x/cover/mzc003pqxzvnwnl.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "蒸蒸日上",
+    "url": "https://v.qq.com/x/cover/mzc002004k31fxg.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "三十六计杀",
+    "url": "https://v.qq.com/x/cover/mzc00200khqs2vj.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   },
+   {
+    "title": "爱情公寓3",
+    "url": "https://v.qq.com/x/cover/zaasslvhhyy1sg7.html",
+    "time": "11-05 00:00",
+    "raw_time": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "source": "NewsNow 爱奇艺 热播榜",
+  "source_url": "https://newsnow.busiyi.world/api/s?id=iqiyi-hot-ranklist",
+  "source_type": "json",
+  "group": "热榜",
+  "platform": "iqiyi",
+  "lang": null,
+  "fallback_for": null,
+  "status": "items",
+  "note": "0.4s",
+  "elapsed_seconds": 0.385,
+  "items": [
+   {
+    "title": "小城良方",
+    "url": "https://www.iqiyi.com/v_eienwprun0.html",
+    "time": "10-21 00:00",
+    "raw_time": "2026-10-21"
+   },
+   {
+    "title": "伟大的长征",
+    "url": "https://www.iqiyi.com/v_1jm50v4hx7c.html",
+    "time": "10-09 00:00",
+    "raw_time": "2026-10-9"
+   },
+   {
+    "title": "蒸蒸日上",
+    "url": "https://www.iqiyi.com/v_15ubqc0ao88.html",
+    "time": "10-10 00:00",
+    "raw_time": "2026-10-10"
+   },
+   {
+    "title": "巨蛇闯体校",
+    "url": "https://www.iqiyi.com/v_1pijfnzzdu0.html",
+    "time": "",
+    "raw_time": ""
+   },
+   {
+    "title": "余红旧事",
+    "url": "https://www.iqiyi.com/v_1gu30dui6vo.html",
+    "time": "09-29 00:00",
+    "raw_time": "2026-9-29"
+   },
+   {
+    "title": "魅影神捕",
+    "url": "https://www.iqiyi.com/v_1rmaujniibk.html",
+    "time": "10-02 00:00",
+    "raw_time": "2026-10-2"
+   },
+   {
+    "title": "音乐缘计划第3季",
+    "url": "https://www.iqiyi.com/v_1ih5j1sg0w4.html",
+    "time": "10-30 00:00",
+    "raw_time": "2026-10-30"
+   },
+   {
+    "title": "把黑夜点燃",
+    "url": "https://www.iqiyi.com/v_1ztrw7uti1g.html",
+    "time": "10-15 00:00",
+    "raw_time": "2026-10-15"
+   }
+  ]
+ }
+]
